@@ -13,6 +13,8 @@ Physical posters available soon on my Etsy Store.
 
 # How to Make Your Own
 
+Use the template pack in the files, including PNG / PDF and AI files to fill in with your software of choice.  If you've filled it in, I'm happy to polish it with custom icons and release it in this repository.   
+
 My aim with the skill trees is be: 
 - flexible with goals rather than too specific, everyone's journey is different
 - Inspiring to try new things rather than completionist
