@@ -29,7 +29,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Where might you visit to learn more / get involved in a community?
 - What interskill / interdisciplinary techniques could you try? Eg. Electronics + Textiles = Wearable Tech
 - Gifting a friend something made from x skill
-- Teaching a class on x skill
+- Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
 Any questions, send me an email on steph@makerqueen.com.au
