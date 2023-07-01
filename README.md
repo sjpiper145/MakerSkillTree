@@ -11,6 +11,27 @@ Header font used: [Hansief](https://www.dafont.com/hansief.font)
 Templates include Adobe Illustrator and PDF files.  If you're a subject expert and would like to work with me on a specialist skill tree, let me know! 
 Physical posters available soon on my Etsy Store. 
 
+# How to Make Your Own
+
+My aim with the skill trees is be: 
+- flexible with goals rather than too specific, everyone's journey is different
+- Inspiring to try new things rather than completionist
+- Include options for tools that aren't cost / availability restrictive
+
+With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prompt ideas, I usually include the following:
+- What's the first few things you do in this skill?
+- What materials might you use at a basic / intermediate / advanced level?
+- What tools might you use at a basic / intermediate / advanced level?
+- What techniques might you use at a basic / intermediate / advanced level?
+- What might go wrong and how would you fix it?
+- Where might you visit to learn more / get involved in a community?
+- What interskill / interdisciplinary techniques could you try? Eg. Electronics + Textiles = Wearable Tech
+- Gifting a friend something made from x skill
+- Teaching a class on x skill
+- Releasing an online tutorial on x skill
+
+Any questions, send me an email on steph@makerqueen.com.au
+
 ![3D Printing and Modelling Skill Tree-01](https://user-images.githubusercontent.com/7828884/231409186-3eaf85e9-bad5-496f-b8cd-5faec0799b0a.png)
 
 ![3D Printing and Modelling Skill Tree Dark-02](https://user-images.githubusercontent.com/7828884/231409291-d2ff5a33-b771-4ea5-a398-08c88c700910.png)
