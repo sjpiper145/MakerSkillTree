@@ -37,6 +37,6 @@ Any questions, send me an email on steph@makerqueen.com.au
 ![3D Printing and Modelling Skill Tree-01](https://user-images.githubusercontent.com/7828884/231409186-3eaf85e9-bad5-496f-b8cd-5faec0799b0a.png)
 ![Sewing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/535b6849-a0cc-43a8-8f78-9597619b932d)
 ![Embedded Systems Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/7799973f-a3dc-4fa7-9c9c-76d06f4bb6bf)
-![Woodworking Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/5ad9b13a-eced-4a59-8d0b-02bd51caa910)
+![Uploading Woodworking Skill Tree.png…]()[Woodworking Skill Tree.pdf](https://github.com/sjpiper145/MakerSkillTree/files/12063223/Woodworking.Skill.Tree.pdf)
 
 ![Maker Skill Tree Template-03](https://user-images.githubusercontent.com/7828884/231409304-f94e953d-bd8e-4346-8aff-6ce34c96b5bc.png)
