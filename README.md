@@ -1,6 +1,6 @@
 # Maker Skill Trees
 
-A repository of Maker Skill Trees and templates to make your own.  Color in the boxes and level up your skills.  Use the template to track your progess and inspire you to try new things.  Use for individuals or as a group by each picking a color and coloring in part of the box.  Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own, best sized at A3 to hang on the wall.  
+A repository of Maker Skill Trees and templates to make your own.  Color in the boxes and level up your skills.  Use the template to track your progess and inspire you to try new things.  Use for individuals or as a group by each picking a color and coloring in part of the box.  Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.
 
 Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Released under the Creative Commons Licence, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  
 
@@ -35,7 +35,8 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 Any questions, send me an email on steph@makerqueen.com.au
 
 ![3D Printing and Modelling Skill Tree-01](https://user-images.githubusercontent.com/7828884/231409186-3eaf85e9-bad5-496f-b8cd-5faec0799b0a.png)
-
-![3D Printing and Modelling Skill Tree Dark-02](https://user-images.githubusercontent.com/7828884/231409291-d2ff5a33-b771-4ea5-a398-08c88c700910.png)
+![Sewing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/535b6849-a0cc-43a8-8f78-9597619b932d)
+![Embedded Systems Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/7799973f-a3dc-4fa7-9c9c-76d06f4bb6bf)
+![Woodworking Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/5ad9b13a-eced-4a59-8d0b-02bd51caa910)
 
 ![Maker Skill Tree Template-03](https://user-images.githubusercontent.com/7828884/231409304-f94e953d-bd8e-4346-8aff-6ce34c96b5bc.png)
