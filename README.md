@@ -32,7 +32,34 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-Any questions, send me an email on steph@makerqueen.com.au
+# Yet to Make
+✅ 3D Printing and 3D Modelling
+✅ Woodworking
+☐ Blacksmithing
+☐ Metalworking
+☐ Automotive
+☐ Laser Cutting (90% - In Progress)
+☐ Electronics
+☐ Crafting
+☐ Crochet (80% - In Progress)
+☐ Knitting
+☐ Weaving
+☐ Moulding / Casting
+✅ Sewing
+☐ Arduino 
+☐ Raspberry Pi
+☐ Makerspace - Kids Level
+☐ Blender
+☐ DIY Synths 
+☐ Software / Coding
+✅ Embedded Systems
+☐ InfoSec
+☐ IoT
+☐ Cooking 
+☐ Cleaning
+☐ Gardening 
+
+Interested in helping put one of these together? Or even something that's not on the list? Get in contact! steph@makerqueen.com.au
 
 ![3D Printing and Modelling Skill Tree-01](https://user-images.githubusercontent.com/7828884/231409186-3eaf85e9-bad5-496f-b8cd-5faec0799b0a.png)
 ![Sewing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/535b6849-a0cc-43a8-8f78-9597619b932d)
