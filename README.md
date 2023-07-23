@@ -38,7 +38,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 ☐ Blacksmithing                   
 ☐ Metalworking                    
 ☐ Automotive                      
-☐ Laser Cutting (90% - In Progress)          
+✅ Laser Cutting         
 ☐ Electronics                               
 ☐ Crafting                        
 ☐ Crochet (80% - In Progress)                  
