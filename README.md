@@ -32,14 +32,16 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Yet to Make
+# Yet to Make (5/31)
 ✅ 3D Printing and 3D Modelling  
 ✅ Woodworking                    
 ☐ Blacksmithing                   
-☐ Metalworking                    
+☐ Metalworking      
+☐ CNC            
 ☐ Automotive                      
 ✅ Laser Cutting         
-☐ Electronics                               
+☐ Electronics        
+☐ PCB Design (50% - In Progress)
 ☐ Crafting           
 ☐ Arts            
 ☐ Crochet (80% - In Progress)                        
@@ -52,11 +54,14 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 ☐ Makerspace - Kids Level            
 ☐ Blender                
 ☐ DIY Synths             
-☐ Software / Coding              
+☐ Software / Coding   
+☐ Linux 
 ✅ Embedded Systems                        
 ☐ InfoSec                
-☐ IoT                    
+☐ IoT       
+☐ Entrepreneurship
 ☐ Cooking               
+☐ Baking              
 ☐ Cleaning                
 ☐ Gardening                     
 
