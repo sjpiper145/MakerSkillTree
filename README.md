@@ -37,14 +37,14 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ☐ Metalworking      
-☐ CNC            
+☐ CNC              
 ☐ Automotive                      
 ✅ Laser Cutting         
 ☐ Electronics        
-☐ PCB Design (50% - In Progress)
-☐ Crafting           
+☐ PCB Design (50% - In Progress)          
+☐ Crafting               
 ☐ Arts            
-☐ Crochet (80% - In Progress)                        
+☐ Crochet (80% - In Progress)                                  
 ☐ Knitting                          
 ☐ Weaving  
 ☐ Moulding / Casting      
@@ -55,11 +55,11 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 ☐ Blender                
 ☐ DIY Synths             
 ☐ Software / Coding   
-☐ Linux 
+☐ Linux             
 ✅ Embedded Systems                        
 ☐ InfoSec                
 ☐ IoT       
-☐ Entrepreneurship
+☐ Entrepreneurship              
 ☐ Cooking               
 ☐ Baking              
 ☐ Cleaning                
