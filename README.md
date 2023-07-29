@@ -32,7 +32,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Yet to Make (5/31)
+# Yet to Make (6/31)
 ✅ 3D Printing and 3D Modelling  
 ✅ Woodworking                    
 ☐ Blacksmithing                   
