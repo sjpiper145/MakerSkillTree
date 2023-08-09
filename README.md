@@ -32,37 +32,45 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Yet to Make (7/30)
-✅ 3D Printing and 3D Modelling  
+# Yet to Make (7/31)
+Classic Skill: 
 ✅ Woodworking                    
 ☐ Blacksmithing                   
-✅ Metalworking           
-☐ CNC              
-☐ Automotive                      
+✅ Metalworking                      
+☐ Automotive         
+☐ Crafting               
+☐ Arts            
+☐ Music  
+☐ Writing
+✅ Crochet                                       
+☐ Knitting                                    
+✅ Sewing        
+
+Tech Skills
 ✅ Laser Cutting         
 ☐ Electronics   (70% - In Progress)     
 ☐ PCB Design (90% - In Progress)          
-☐ Crafting               
-☐ Arts            
-✅ Crochet                                     
-☐ Knitting                          
-☐ Weaving       
-✅ Sewing      
-☐ Arduino & Raspberry Pi        
-☐ Makerspace - School Kids Level            
-☐ Blender                
-☐ DIY Synths             
-☐ Software / Coding   
-☐ Linux             
-✅ Embedded Systems                        
-☐ InfoSec                
+☐ Arduino & Raspberry Pi                            
+☐ Software / Coding           
+☐ Linux         
+✅ 3D Printing and 3D Modelling  
+✅ Embedded Systems                          
+☐ InfoSec                  
 ☐ IoT       
-☐ Entrepreneurship              
+
+Life Skills
+☐ Entrepreneurship                
 ☐ Cooking               
 ☐ Baking              
 ☐ Cleaning                
-☐ Gardening        
-☐ Travel
+☐ Gardening          
+☐ Travel                
+☐ Sports / Fitness          
+☐ Adventure       
+
+Kids Skills
+☐ Makerspace             
+☐ Backyard Science            
 
 Interested in helping put one of these together? Or even something that's not on the list? Get in contact! steph@makerqueen.com.au
 
