@@ -33,7 +33,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Releasing an online tutorial on x skill
 
 # Yet to Make (7/31)
-Classic Skill: 
+Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking                      
@@ -46,7 +46,7 @@ Classic Skill:
 ☐ Knitting                                    
 ✅ Sewing        
 
-Tech Skills
+Tech Skills:          
 ✅ Laser Cutting         
 ☐ Electronics   (70% - In Progress)     
 ☐ PCB Design (90% - In Progress)          
@@ -58,7 +58,7 @@ Tech Skills
 ☐ InfoSec                  
 ☐ IoT       
 
-Life Skills
+Life Skills:            
 ☐ Entrepreneurship                
 ☐ Cooking               
 ☐ Baking              
@@ -68,7 +68,7 @@ Life Skills
 ☐ Sports / Fitness          
 ☐ Adventure       
 
-Kids Skills
+Kids Skills              
 ☐ Makerspace             
 ☐ Backyard Science            
 
