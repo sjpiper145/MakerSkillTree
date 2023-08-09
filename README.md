@@ -41,7 +41,7 @@ Classic Skills:
 ☐ Crafting               
 ☐ Arts            
 ☐ Music  
-☐ Writing
+☐ Writing                
 ✅ Crochet                                       
 ☐ Knitting                                    
 ✅ Sewing        
@@ -67,10 +67,8 @@ Life Skills:
 ☐ Travel                
 ☐ Sports / Fitness          
 ☐ Adventure       
-
-Kids Skills              
-☐ Makerspace             
 ☐ Backyard Science            
+
 
 Interested in helping put one of these together? Or even something that's not on the list? Get in contact! steph@makerqueen.com.au
 
