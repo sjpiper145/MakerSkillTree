@@ -32,7 +32,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Yet to Make (7/31)
+# Yet to Make (7/30)
 ✅ 3D Printing and 3D Modelling  
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -40,18 +40,16 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 ☐ CNC              
 ☐ Automotive                      
 ✅ Laser Cutting         
-☐ Electronics        
-☐ PCB Design (50% - In Progress)          
+☐ Electronics   (70% - In Progress)     
+☐ PCB Design (90% - In Progress)          
 ☐ Crafting               
 ☐ Arts            
 ✅ Crochet                                     
 ☐ Knitting                          
-☐ Weaving  
-☐ Moulding / Casting      
+☐ Weaving       
 ✅ Sewing      
-☐ Arduino       
-☐ Raspberry Pi          
-☐ Makerspace - Kids Level            
+☐ Arduino & Raspberry Pi        
+☐ Makerspace - School Kids Level            
 ☐ Blender                
 ☐ DIY Synths             
 ☐ Software / Coding   
@@ -63,7 +61,8 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 ☐ Cooking               
 ☐ Baking              
 ☐ Cleaning                
-☐ Gardening                     
+☐ Gardening        
+☐ Travel
 
 Interested in helping put one of these together? Or even something that's not on the list? Get in contact! steph@makerqueen.com.au
 
