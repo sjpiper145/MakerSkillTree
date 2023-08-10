@@ -1,4 +1,6 @@
 # Maker Skill Trees
+![Skill Tree thumbnail-01](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/66825c18-a0fb-4693-87ef-d1eb3c1e22a0)
+
 
 A repository of Maker Skill Trees and templates to make your own.  Color in the boxes and level up your skills.  Use the template to track your progess and inspire you to try new things.  Use for individuals or as a group by each picking a color and coloring in part of the box.  Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.
 
@@ -9,7 +11,7 @@ Open Source – CC BY-SA 4.0 Licence
 Header font used: [Hansief](https://www.dafont.com/hansief.font) 
 
 Templates include Adobe Illustrator and PDF files.  If you're a subject expert and would like to work with me on a specialist skill tree, let me know! 
-Physical posters available soon on my Etsy Store. 
+I'm looking at releasing a book with all these compiled when all trees are complete.
 
 # How to Make Your Own
 
