@@ -32,12 +32,13 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Yet to Make (8/31)
+# Yet to Make (8/32)
 Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking                      
 ☐ Automotive         
+☐ Ham Radio            
 ☐ Crafting               
 ☐ Arts            
 ☐ Music  
@@ -69,6 +70,8 @@ Life Skills:
 ☐ Adventure       
 ☐ Backyard Science            
 
+For Kids at School: 
+☐  STEAM Skills         (70% - In Progress)        
 
 Interested in helping put one of these together? Or even something that's not on the list? Get in contact! steph@makerqueen.com.au
 
