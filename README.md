@@ -70,7 +70,7 @@ Life Skills:
 ☐ Adventure       
 ☐ Backyard Science            
 
-For Kids at School: 
+For Kids at School:                           
 ☐  STEAM Skills         (70% - In Progress)        
 
 Interested in helping put one of these together? Or even something that's not on the list? Get in contact! steph@makerqueen.com.au
