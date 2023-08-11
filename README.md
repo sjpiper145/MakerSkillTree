@@ -34,7 +34,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Yet to Make (8/32)
+# Yet to Make (8/33)
 Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -47,7 +47,8 @@ Classic Skills:
 ☐ Writing                
 ✅ Crochet                                       
 ☐ Knitting                                    
-✅ Sewing        
+✅ Sewing      
+☐ Leatherworking          
 
 Tech Skills:          
 ✅ Laser Cutting         
