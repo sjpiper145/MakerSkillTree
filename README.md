@@ -53,7 +53,7 @@ Classic Skills:
 
 Tech Skills:          
 ✅ Laser Cutting         
-☐ Electronics   (70% - In Progress)     
+🟧 Electronics   (70% - In Progress)     
 ✅ PCB Design                    
 ☐ Arduino & Raspberry Pi                            
 ☐ Software / Coding           
@@ -75,9 +75,9 @@ Life Skills:
 ☐ Backyard Science            
 
 For Kids at School:                           
-☐  STEAM Skills         (70% - In Progress)        
+🟧  STEAM Skills         (70% - In Progress)        
 
-Interested in helping put one of these together? Or even something that's not on the list? Get in contact! steph@makerqueen.com.au  
+Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and put something together, I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au  
 
 ![3D Printing and Modelling Skill Tree-01](https://user-images.githubusercontent.com/7828884/231409186-3eaf85e9-bad5-496f-b8cd-5faec0799b0a.png)
 ![Sewing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/535b6849-a0cc-43a8-8f78-9597619b932d)
