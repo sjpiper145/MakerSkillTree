@@ -9,6 +9,7 @@ Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectru
 Open Source – CC BY-SA 4.0 Licence
 
 Header font used: [Hansief](https://www.dafont.com/hansief.font) 
+Icons from [Icons8](https://icons8.com/), and some self-made
 
 Templates include Adobe Illustrator and PDF files.  If you're a subject expert and would like to work with me on a specialist skill tree, let me know! 
 I'm looking at releasing a book with all these compiled when all trees are complete.
