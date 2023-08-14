@@ -40,7 +40,7 @@ Classic Skills:
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
-☐ CNC        
+🟧 CNC & CAM  (70% - In Progress)              
 ☐ Automotive         
 ☐ Ham Radio         
 ☐ Crafting               
