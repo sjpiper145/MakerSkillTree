@@ -35,7 +35,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Yet to Make (8/34)
+# Yet to Make (9/34)
 Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -56,7 +56,7 @@ Tech Skills:
 ✅ Laser Cutting         
 🟧 Electronics   (70% - In Progress)     
 ✅ PCB Design                    
-☐ Arduino & Raspberry Pi                            
+🟧 Arduino & Raspberry Pi      (70% - In Progress)                            
 ☐ Software / Coding           
 ☐ Linux         
 ✅ 3D Printing and 3D Modelling  
@@ -76,7 +76,7 @@ Life Skills:
 ☐ Backyard Science            
 
 For Kids at School:                           
-🟧  STEAM Skills         (70% - In Progress)        
+✅  STEAM Skills         (70% - In Progress)        
 
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and put something together for the repository, I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au  
 
