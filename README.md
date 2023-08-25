@@ -53,8 +53,9 @@ Classic Skills:
 ☐ Leatherworking          
 
 Tech Skills:          
+✅  Explore a Makerspace           
 ✅ Laser Cutting         
-🟧 Electronics   (70% - In Progress)     
+✅ Electronics   
 ✅ PCB Design                    
 🟧 Arduino & Raspberry Pi      (70% - In Progress)                            
 ☐ Software / Coding           
@@ -76,7 +77,8 @@ Life Skills:
 ☐ Backyard Science            
 
 For Kids at School:                           
-✅  STEAM Skills         (70% - In Progress)        
+✅  STEAM Skills         
+
 
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and put something together for the repository, I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au  
 
