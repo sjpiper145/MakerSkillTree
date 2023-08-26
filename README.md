@@ -53,7 +53,9 @@ Classic Skills:
 ☐ Leatherworking          
 
 Tech Skills:          
-✅  Explore a Makerspace           
+✅  Explore a Makerspace                
+    ✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
+    ✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench                
 ✅ Laser Cutting         
 ✅ Electronics   
 ✅ PCB Design                    
