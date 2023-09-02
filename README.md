@@ -2,17 +2,23 @@
 ![Skill Tree thumbnail-01](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/66825c18-a0fb-4693-87ef-d1eb3c1e22a0)
 
 
-A repository of Maker Skill Trees and templates to make your own.  Color in the boxes and level up your skills.  Use the template to track your progess and inspire you to try new things.  Use for individuals or as a group by each picking a color and coloring in part of the box.  Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.
+Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Colour in the boxes as you go and get inspired to try new things.  This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.
 
-Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Released under the Creative Commons Licence, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  
+Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Released under the Creative Commons Licence, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  I'm looking at releasing a book with all these compiled when all trees are complete.
 
 Open Source – CC BY-SA 4.0 Licence
 
 Header font used: [Hansief](https://www.dafont.com/hansief.font)               
 Icons from [Icons8](https://icons8.com/), and some self-made
 
-Templates include Adobe Illustrator and PDF files.  If you're a subject expert and would like to work with me on a specialist skill tree, let me know! 
-I'm looking at releasing a book with all these compiled when all trees are complete.
+Templates include Adobe Illustrator and PDF files.  
+
+# Usage Ideas
+- Individual goal tracking / upskilling
+- For makerspace members to upskill on a variety of tools
+- For training new staff members on skills
+- For school students working on self-directed activities (See Kids STEAM Skills tree)
+- For recruitment / competency checking 
 
 # How to Make Your Own
 
@@ -82,7 +88,7 @@ For Kids at School:
 ✅  STEAM Skills         
 
 
-Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and put something together for the repository, I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au  
+Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and help me put something together a skill tree for the repository, or can assist in translating the sheets into different languages I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au  
 
 # Example Skill Trees
 
