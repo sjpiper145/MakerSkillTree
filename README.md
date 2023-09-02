@@ -65,7 +65,7 @@ Life Skills:
 ☐ Sports / Fitness          
 ☐ Adventure       
 ☐ Backyard Science   
-☐ Civics / Government learning / involvement
+☐ Civics / Government Learning / involvement
 
 For Kids at School:                           
 ✅  STEAM Skills         
