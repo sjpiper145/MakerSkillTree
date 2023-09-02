@@ -92,9 +92,8 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 
 # Example Skill Trees
 
-![3D Printing and Modelling Skill Tree-01](https://user-images.githubusercontent.com/7828884/231409186-3eaf85e9-bad5-496f-b8cd-5faec0799b0a.png)
-![Sewing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/535b6849-a0cc-43a8-8f78-9597619b932d)
-![Embedded Systems Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/7799973f-a3dc-4fa7-9c9c-76d06f4bb6bf)
-![Uploading Woodworking Skill Tree.png…]()[Woodworking Skill Tree.pdf](https://github.com/sjpiper145/MakerSkillTree/files/12063223/Woodworking.Skill.Tree.pdf)
-
-![Maker Skill Tree Template-03](https://user-images.githubusercontent.com/7828884/231409304-f94e953d-bd8e-4346-8aff-6ce34c96b5bc.png)
+[![3D Printing and Modelling Skill Tree-01](3D%20Printing%20and%20Modelling%20Skill%20Tree/3D%20Printing%20and%20Modelling%20Skill%20Tree.png)](3D%20Printing%20and%20Modelling%20Skill%20Tree/3D%20Printing%20and%20Modelling%20Skill%20Tree.pdf)
+[![Sewing Skill Tree](Sewing%20Skill%20Tree/Sewing%20Skill%20Tree.png)](Sewing%20Skill%20Tree/Sewing%20Skill%20Tree.pdf)
+[![Embedded Systems Skill Tree](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.png)](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.pdf)
+[![Woodworking Skill Tree](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.png)](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.pdf)
+[![Maker Skill Tree Template](Template%20Skill%20Tree/Maker%20Skill%20Tree%20Template-03.png)](Template%20Skill%20Tree/Maker%20Skill%20Tree%20Template.pdf)
