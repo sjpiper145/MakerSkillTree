@@ -49,6 +49,8 @@ Tech Skills:
 ☐ Software / Coding           
 ☐ Linux         
 ✅ 3D Printing and 3D Modelling  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Printing                
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Modelling              
 ✅ Embedded Systems                          
 ☐ InfoSec                  
 ☐ IoT       
