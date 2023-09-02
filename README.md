@@ -31,6 +31,7 @@ Classic Skills:
 ☐ Crafting               
 ☐ Arts            
 ☐ Music  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Playing musical instruments              
 ☐ Writing                
 ✅ Crochet                                       
 ☐ Knitting                                    
@@ -51,17 +52,20 @@ Tech Skills:
 ✅ Embedded Systems                          
 ☐ InfoSec                  
 ☐ IoT       
+☐ Creating a Wordpress site / Blog        
 
 Life Skills:            
 ☐ Entrepreneurship                
 ☐ Cooking               
-☐ Baking              
+☐ Baking  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Baking Bread            
 ☐ Cleaning                
 ☐ Gardening          
 ☐ Travel                
 ☐ Sports / Fitness          
 ☐ Adventure       
-☐ Backyard Science            
+☐ Backyard Science   
+☐ Civics / Government learning / involvement
 
 For Kids at School:                           
 ✅  STEAM Skills         
