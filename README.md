@@ -20,7 +20,7 @@ Templates include Adobe Illustrator and PDF files.
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
 - For recruitment / competency checking 
 
-# Yet to Make (11/35)
+# Yet to Make (11/40)
 Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -62,7 +62,8 @@ Life Skills:
 ☐ Baking  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Baking Bread            
 ☐ Cleaning                
-☐ Gardening          
+☐ Gardening        
+☐ Animal Husbandry               
 ☐ Travel                
 ☐ Sports / Fitness          
 ☐ Adventure       
