@@ -45,15 +45,14 @@ Tech Skills:
 ✅ Laser Cutting         
 ✅ Electronics   
 ✅ PCB Design                    
-🟧 Arduino & Raspberry Pi      (70% - In Progress)                            
+🟧 Dev Boards: Arduino, Raspberry Pi & ESP      (70% - In Progress)                            
 ☐ Software / Coding           
 ☐ Linux         
 ✅ 3D Printing and 3D Modelling  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Printing                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Modelling              
 ✅ Embedded Systems                          
-☐ InfoSec                  
-☐ IoT       
+☐ InfoSec                     
 ☐ Creating a Wordpress site / Blog        
 
 Life Skills:            
