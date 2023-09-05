@@ -34,7 +34,7 @@ Classic Skills:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Playing musical instruments              
 ☐ Writing                
 ✅ Crochet                                       
-🟧 Knitting       (90% - In Progress)                                
+✅ Knitting                                     
 ✅ Sewing      
 ☐ Leatherworking          
 
