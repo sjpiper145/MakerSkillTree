@@ -67,12 +67,11 @@ Life Skills:
 ☐ Sports / Fitness          
 ☐ Adventure       
 ☐ Backyard Science   
-☐ Civics Skills / Activism
-☐ Gaming
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟧 Dungeons and Dragons (70% - In Progress)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Video Games
-
+☐ Civics Skills / Activism          
+☐ Gaming        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟧 Dungeons and Dragons (70% - In Progress)        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Video Games          
 
 For Kids at School:                           
 ✅  STEAM Skills         
