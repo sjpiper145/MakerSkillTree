@@ -20,7 +20,7 @@ Templates include Adobe Illustrator and PDF files.
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
 - For recruitment / competency checking 
 
-# Yet to Make (13/40+)
+# Yet to Make (14/40+)
 Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -45,7 +45,7 @@ Tech Skills:
 ✅ Laser Cutting         
 ✅ Electronics   
 ✅ PCB Design                    
-🟧 Dev Boards: Arduino, Raspberry Pi & ESP      (70% - In Progress)                            
+✅ Dev Boards: Arduino, Raspberry Pi & ESP                                    
 ☐ Software / Coding           
 ☐ Linux         
 ✅ 3D Printing and 3D Modelling  
