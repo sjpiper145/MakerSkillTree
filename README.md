@@ -30,7 +30,7 @@ Classic Skills:
 ☐ Ham Radio         
 ☐ Crafting               
 ☐ Arts            
-☐ Music  
+🟧 Music  (90% - In Progress)        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Playing musical instruments              
 ☐ Writing                
 ✅ Crochet                                       
