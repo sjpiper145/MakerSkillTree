@@ -20,7 +20,7 @@ Templates include Adobe Illustrator and PDF files.
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
 - For recruitment / competency checking 
 
-# Yet to Make (14/40+)
+# Yet to Make (15/40+)
 Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -30,7 +30,7 @@ Classic Skills:
 ☐ Ham Radio         
 ☐ Crafting               
 ☐ Arts            
-🟧 Music  (90% - In Progress)        
+✅ Music            
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Playing musical instruments              
 ☐ Writing                
 ✅ Crochet                                       
