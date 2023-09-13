@@ -20,7 +20,7 @@ Templates include Adobe Illustrator and PDF files.
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
 - For recruitment / competency checking 
 
-# Yet to Make (15/40+)
+# Yet to Make (16/40+)
 Classic Skills:       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -32,7 +32,7 @@ Classic Skills:
 ☐ Arts            
 ✅ Music            
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Playing musical instruments              
-☐ Writing                
+🟧 Reading & Writing    (60% - In Progress)            
 ✅ Crochet                                       
 ✅ Knitting                                     
 ✅ Sewing      
@@ -58,8 +58,7 @@ Tech Skills:
 Life Skills:            
 ☐ Entrepreneurship                
 ☐ Cooking               
-☐ Baking  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Baking Bread            
+☐ Baking             
 ☐ Cleaning                
 ☐ Gardening        
 ☐ Animal Husbandry               
@@ -69,7 +68,7 @@ Life Skills:
 ☐ Backyard Science   
 ☐ Civics Skills / Activism          
 ☐ Gaming        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟧 Dungeons and Dragons (70% - In Progress)        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Dungeons and Dragons          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Video Games          
 
