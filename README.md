@@ -4,7 +4,7 @@
 
 Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Colour in the boxes as you go and get inspired to try new things.  This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.
 
-Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Released under the Creative Commons Licence, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  I'm looking at releasing a book with all these compiled when all trees are complete.
+Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Under the templates section, there's also a smaller Mini Skill Tree template with only 40 tiles.  Maker Skill Trees are released under the Creative Commons Licence, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  I'm looking at releasing a book with all these compiled when all trees are complete.
 
 Open Source – CC BY-SA 4.0 Licence
 
@@ -106,3 +106,4 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 [![Embedded Systems Skill Tree](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.png)](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.pdf)
 [![Woodworking Skill Tree](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.png)](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.pdf)
 [![Maker Skill Tree Template](Template%20Skill%20Tree/Maker%20Skill%20Tree%20Template-03.png)](Template%20Skill%20Tree/Maker%20Skill%20Tree%20Template.pdf)
+[![Mini Maker Skill Tree Template](Template%20Skill%20Tree/Template%20Mini%20Maker%20Skill%20Tree%20x40%20Tiles.png)](Mini%20Maker%20Skill%20Tree%20Template%20x40%20Tiles.pdf)  
