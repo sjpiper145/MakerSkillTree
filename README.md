@@ -53,7 +53,8 @@ Templates include Adobe Illustrator and PDF files.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Modelling              
 ✅ Embedded Systems                          
 ☐ InfoSec                     
-☐ Creating a Wordpress site / Blog        
+☐ Website Building              
+☐ Game Design                     
 
 ## Life Skills            
 ☐ Entrepreneurship                
