@@ -21,7 +21,7 @@ Templates include Adobe Illustrator and PDF files.
 - For recruitment / competency checking 
 
 # Yet to Make (17/40+)
-Classic Skills:       
+## Classic Skills       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
@@ -38,7 +38,7 @@ Classic Skills:
 ✅ Sewing      
 ☐ Leatherworking          
 
-Tech Skills:          
+## Tech Skills          
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench                
@@ -55,7 +55,7 @@ Tech Skills:
 ☐ InfoSec                     
 ☐ Creating a Wordpress site / Blog        
 
-Life Skills:            
+## Life Skills            
 ☐ Entrepreneurship                
 ☐ Cooking               
 ☐ Baking             
