@@ -36,7 +36,8 @@ Templates include Adobe Illustrator and PDF files.
 ✅ Crochet                                       
 ✅ Knitting                                     
 ✅ Sewing      
-☐ Leatherworking          
+☐ Leatherworking    
+🟧 Renovation & Repair (40% Done - In Progress)            
 
 ## Tech Skills          
 ✅  Explore a Makerspace                
