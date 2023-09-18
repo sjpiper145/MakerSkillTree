@@ -68,7 +68,7 @@ Templates include Adobe Illustrator and PDF files.
 ☐ Sports / Fitness          
 ☐ Adventure       
 ☐ Backyard Science   
-☐ Civics Skills / Activism          
+☐ Civics Skills / Activism 
 ☐ Gaming        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Dungeons and Dragons          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games        
