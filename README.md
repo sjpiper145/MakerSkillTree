@@ -25,7 +25,7 @@ Templates include Adobe Illustrator and PDF files.
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
-🟧 CNC & CAM  (70% - In Progress)              
+✅ CNC & CAM                   
 ☐ Automotive         
 ☐ Ham Radio         
 ☐ Crafting               
