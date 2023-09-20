@@ -69,6 +69,7 @@ Templates include Adobe Illustrator and PDF files.
 ☐ Adventure       
 ☐ Backyard Science   
 ☐ Civics Skills / Activism 
+☐ Learning a language            
 ☐ Gaming        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Dungeons and Dragons          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games        
