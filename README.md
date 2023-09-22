@@ -37,7 +37,7 @@ Templates include Adobe Illustrator and PDF files.
 ✅ Knitting                                     
 ✅ Sewing      
 ☐ Leatherworking    
-🟧 Renovation & Repair (40% Done - In Progress)            
+🟧 Renovation & Repair (90% Done - In Progress)            
 
 ## Tech Skills          
 ✅  Explore a Makerspace                
@@ -65,7 +65,8 @@ Templates include Adobe Illustrator and PDF files.
 ☐ Gardening        
 ☐ Animal Husbandry               
 ☐ Travel                
-☐ Sports / Fitness          
+☐ Sports / Fitness     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟧 Roller Derby (50% Done - In Progress)            
 ☐ Adventure       
 ☐ Backyard Science   
 ☐ Civics Skills / Activism           
