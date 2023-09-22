@@ -43,7 +43,7 @@ Templates include Adobe Illustrator and PDF files.
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench                
-✅ Laser Cutting         
+✅ Laser Cutting      ✅ French Translation           
 ✅ Electronics   
 ✅ PCB Design                    
 ✅ Dev Boards: Arduino, Raspberry Pi & ESP                                    
