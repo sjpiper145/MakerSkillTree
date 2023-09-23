@@ -37,6 +37,7 @@ Templates include Adobe Illustrator and PDF files.
 ✅ Knitting                                     
 ✅ Sewing      
 ☐ Leatherworking    
+☐ Jewellery Making        
 🟧 Renovation & Repair (90% Done - In Progress)            
 
 ## Tech Skills          
