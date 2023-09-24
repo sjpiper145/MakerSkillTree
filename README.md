@@ -67,7 +67,7 @@ Templates include Adobe Illustrator and PDF files.
 ☐ Animal Husbandry               
 ☐ Travel                
 ☐ Sports / Fitness     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟧 Roller Derby (50% Done - In Progress)            
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Roller Derby                     
 ☐ Adventure       
 ☐ Backyard Science   
 ☐ Civics Skills / Activism           
