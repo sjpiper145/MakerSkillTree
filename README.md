@@ -38,7 +38,7 @@ Templates include Adobe Illustrator and PDF files.
 ✅ Sewing      
 ☐ Leatherworking    
 ☐ Jewellery Making        
-🟧 Renovation & Repair (90% Done - In Progress)            
+🟧 Renovation & Repair         
 
 ## Tech Skills          
 ✅  Explore a Makerspace                
@@ -52,7 +52,7 @@ Templates include Adobe Illustrator and PDF files.
 ☐ Linux         
 ✅ 3D Printing and 3D Modelling  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Printing                
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Modelling              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟧3D Modelling  (90% Done - In Progress)               
 ✅ Embedded Systems                          
 ☐ InfoSec                     
 ☐ Website Building              
