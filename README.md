@@ -20,7 +20,7 @@ Templates include Adobe Illustrator and PDF files.
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
 - For recruitment / competency checking 
 
-# Yet to Make (17/40+)
+# Yet to Make (21/40+)
 ## Classic Skills       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -52,7 +52,7 @@ Templates include Adobe Illustrator and PDF files.
 ☐ Linux         
 ✅ 3D Printing and 3D Modelling  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Printing                
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟧3D Modelling  (90% Done - In Progress)               
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅3D Modelling                
 ✅ Embedded Systems                          
 ☐ InfoSec                     
 ☐ Website Building              
