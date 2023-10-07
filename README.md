@@ -46,7 +46,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Jewellery Making        
 ✅ Renovation & Repair        
 
-## Tech Skills          
+## Tech Skills         
+☐ Computing        
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench                
@@ -56,6 +57,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Dev Boards: Arduino, Raspberry Pi & ESP                                    
 ☐ Software / Coding           
 ☐ Linux         
+☐ Robotics          
 ✅ 3D Printing and 3D Modelling  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Printing                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅3D Modelling                
