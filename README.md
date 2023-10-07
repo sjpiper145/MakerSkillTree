@@ -18,7 +18,12 @@ Templates include Adobe Illustrator and PDF files.
 - For makerspace members to upskill on a variety of tools
 - For training new staff members on skills
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
-- For recruitment / competency checking 
+- For recruitment / competency checking
+
+# Skill Tracker Book
+I'm working on a book with an expansive range of skill trees, plus great tools to track your progress, earn achievement badges and calculate your life XP score across all areas.  [Get notified when the book is available.](https://www.makerqueen.com.au/skill-trees-1) 
+![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/74e83736-8046-4758-b016-b091a2368d5f)
+
 
 # Yet to Make (21/40+)
 ## Classic Skills       
