@@ -43,7 +43,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Knitting                                     
 ✅ Sewing      
 ☐ Leatherworking    
-☐ Jewellery Making        
+☐ Jewellery Making      
+☐ Ceramics        
 ✅ Renovation & Repair        
 
 ## Tech Skills         
@@ -72,7 +73,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Baking             
 ☐ Cleaning                
 ☐ Gardening        
-☐ Animal Husbandry               
+☐ Animal Care               
 ☐ Travel                
 ☐ Sports / Fitness     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Roller Derby                     
@@ -84,6 +85,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Dungeons and Dragons          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Video Games          
+☐ Self Care        
 
 For Kids at School:                           
 ✅  STEAM Skills         
