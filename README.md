@@ -76,8 +76,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Gardening        
 ☐ Animal Care               
 ☐ Travel                
-☐ Sports / Fitness     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 
+☐ Sports / Fitness               
 ☐ Adventure       
 ☐ Backyard Science   
 ☐ Civics            
