@@ -87,7 +87,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Gaming                
 ☐ Self Care        
 
-Other Niche Area Skill Trees:                           
+## Other Niche Areas                         
 ✅  STEAM Skills         
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
