@@ -26,7 +26,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)
 
 
-# Yet to Make (21/40+)
+# Yet to Make (21/50+)
 ## Classic Skills       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -34,10 +34,10 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ CNC & CAM                   
 ☐ Automotive         
 ☐ Ham Radio         
-☐ Crafting               
+🟧 Crafting        (80% Done - In Progress)           
 ☐ Arts            
-✅ Music            
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Playing musical instruments              
+✅ Music   
+☐ Dance                       
 ✅ Reading & Writing                
 ✅ Crochet                                       
 ✅ Knitting                                     
@@ -48,48 +48,55 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Renovation & Repair        
 
 ## Tech Skills         
-☐ Computing        
-✅  Explore a Makerspace                
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench                
+☐ Computing                     
 ✅ Laser Cutting      ✅ French Translation           
 ✅ Electronics   
 ✅ PCB Design                    
-✅ Dev Boards: Arduino, Raspberry Pi & ESP                                    
-☐ Software / Coding           
+✅ Dev Boards          
+☐ Coding         
 ☐ Linux         
 ☐ Robotics          
-✅ 3D Printing and 3D Modelling  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ 3D Printing                
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅3D Modelling                
+☐ 3D Printing                
+✅3D Modelling                
 ✅ Embedded Systems                          
-☐ InfoSec                     
+☐ Cyber Security                     
 ☐ Website Building              
-☐ Game Design                     
+☐ Game Design     
+☐ Mobile App Dev          
+☐ AI & Machine Learning        
+☐ VR & AR          
 
 ## Life Skills            
-☐ Entrepreneurship                
+☐ Entrepreneurship     
+☐ Finance          
 ☐ Cooking               
-☐ Baking             
+☐ Baking   
+☐ Fermenting      
 ☐ Cleaning                
 ☐ Gardening        
 ☐ Animal Care               
 ☐ Travel                
 ☐ Sports / Fitness     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Roller Derby                     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 
 ☐ Adventure       
 ☐ Backyard Science   
-☐ Civics Skills / Activism           
-☐ Learning a language            
+☐ Civics            
+☐ Language           
+☐ Volunteering        
+☐ Research Skills        
 ☐ Gaming        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Dungeons and Dragons          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games        
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Video Games          
 ☐ Self Care        
 
-For Kids at School:                           
+Other Niche Area Skill Trees:                           
 ✅  STEAM Skills         
-
+✅  Explore a Makerspace                
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench   
+✅ 3D Printing and 3D Modelling  (Now split to individual areas)
+✅ Roller Derby    
 
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and help me put something together a skill tree for the repository, or can assist in translating the sheets into different languages I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au 
 
