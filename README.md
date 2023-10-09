@@ -84,10 +84,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Language           
 ☐ Volunteering        
 ☐ Research Skills        
-☐ Gaming        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Dungeons and Dragons          
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Tabletop Games        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Video Games          
+☐ Gaming                
 ☐ Self Care        
 
 Other Niche Area Skill Trees:                           
@@ -95,8 +92,11 @@ Other Niche Area Skill Trees:
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench   
-✅ 3D Printing and 3D Modelling  (Now split to individual areas)
+✅ 3D Printing and 3D Modelling  (Now split to individual areas)        
 ✅ Roller Derby    
+✅ Dungeons and Dragons          
+☐ Tabletop Games        
+☐ Video Games  
 
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and help me put something together a skill tree for the repository, or can assist in translating the sheets into different languages I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au 
 
