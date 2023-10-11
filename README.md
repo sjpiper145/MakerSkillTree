@@ -70,7 +70,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Entrepreneurship     
 ☐ Finance          
 ☐ Cooking               
-☐ Baking   
+🟧 Baking      (80% Done - In Progress)    
 ☐ Fermenting      
 ☐ Cleaning                
 ☐ Gardening        
