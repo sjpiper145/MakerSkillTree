@@ -26,7 +26,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)
 
 
-# Yet to Make (21/50+)
+# Yet to Make (22/50+)
 ## Classic Skills       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -34,7 +34,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ CNC & CAM                   
 ☐ Automotive         
 ☐ Ham Radio         
-🟧 Crafting        (80% Done - In Progress)           
+✅ Crafting           
 ☐ Arts            
 ✅ Music   
 ☐ Dance                       
