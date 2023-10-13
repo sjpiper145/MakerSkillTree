@@ -26,7 +26,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)
 
 
-# Yet to Make (22/50+)
+# Yet to Make (23/50+)
 ## Classic Skills       
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -56,7 +56,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Coding         
 ☐ Linux         
 ☐ Robotics          
-☐ 3D Printing                
+🟧 3D Printing    (In Progress - 80% Done)             
 ✅3D Modelling                
 ✅ Embedded Systems                          
 ☐ Cyber Security                     
@@ -70,7 +70,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Entrepreneurship     
 ☐ Finance          
 ☐ Cooking               
-🟧 Baking      (80% Done - In Progress)    
+✅ Baking          
 ☐ Fermenting      
 ☐ Cleaning                
 ☐ Gardening        
