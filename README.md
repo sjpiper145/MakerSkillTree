@@ -1,4 +1,4 @@
-# Maker Skill Trees
+# Maker Skill Trees  
 ![Skill Tree thumbnail-01](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/66825c18-a0fb-4693-87ef-d1eb3c1e22a0)
 
 
@@ -14,7 +14,7 @@ Icons from [Icons8](https://icons8.com/), and some self-made
 Templates include Adobe Illustrator and PDF files.  
 
 # Usage Ideas
-- Individual goal tracking / upskilling
+- Individual goal tracking / upskilling  #skilltreechallenge
 - For makerspace members to upskill on a variety of tools
 - For training new staff members on skills
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
@@ -56,7 +56,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Coding         
 ☐ Linux         
 ☐ Robotics          
-🟧 3D Printing    (In Progress - 80% Done)             
+✅ 3D Printing                 
 ✅3D Modelling                
 ✅ Embedded Systems                          
 ☐ Cyber Security                     
