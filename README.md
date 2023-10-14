@@ -56,8 +56,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Electronics   
 ✅ PCB Design                    
 ✅ Dev Boards          
-☐ Coding         
-☐ Linux         
+☐ Coding      ✅ Mini Coding Tree             
+🟧 Linux         (In Progress - 40% done)          
 ☐ Robotics          
 ✅ 3D Printing                 
 ✅3D Modelling                
