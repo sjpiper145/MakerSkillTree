@@ -9,6 +9,9 @@ Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectru
 Open Source – CC BY-SA 4.0 Licence
 
 Header font used: [Hansief](https://www.dafont.com/hansief.font)               
+Other fonts used:
+  - [Uniform Condensed Regular](https://www.fontspring.com/fonts/miller-type-foundry/uniform)
+  - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 Icons from [Icons8](https://icons8.com/), and some self-made
 
 Templates include Adobe Illustrator and PDF files.  
