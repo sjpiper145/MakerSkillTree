@@ -59,7 +59,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ PCB Design                    
 ✅ Dev Boards          
 ☐ Coding      ✅ Mini Coding Tree             
-🟧 Linux         (In Progress - 40% done)          
+🟧 Linux         (In Progress - 40% done)            
 ☐ Robotics          
 ✅ 3D Printing                 
 ✅3D Modelling                
@@ -76,10 +76,10 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Finance          
 ✅ Cooking               
 ✅ Baking          
-☐ Fermenting  
+🟧 Fermenting & Preservation (In Progress - 50% Done)      
 ☐ Drinks      
 ☐ Cleaning                
-🟧 Gardening  (80% Done - In Progress)         
+🟧 Gardening  (In Progress - 80% Done)         
 ☐ Animal Care               
 ☐ Travel                
 ☐ Sports / Fitness               
