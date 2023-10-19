@@ -90,7 +90,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Volunteering        
 ☐ Research Skills        
 ☐ Gaming                
-☐ Self Care        
+☐ Self Care     
+☐ Healing Nature
 
 ## Other Niche Areas                         
 ✅  STEAM Skills         
