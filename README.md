@@ -72,7 +72,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ VR & AR          
 
 ## Life Skills            
-☐ Entrepreneurship     
+🟧 Entrepreneurship  (In Progress - 80% Done)        
 ☐ Finance          
 ✅ Cooking               
 ✅ Baking          
