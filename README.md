@@ -81,9 +81,9 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Cleaning                
 ✅  Gardening                 
 ☐ Animal Care               
-☐ Travel                
+🟧 Travel            (In Progress - 50% Done)              
 ☐ Sports / Fitness               
-☐ Adventure       
+🟧 Adventure       (In Progress - 50% Done)            
 ☐ Backyard Science          
 ☐ Civics            
 ☐ Language           
