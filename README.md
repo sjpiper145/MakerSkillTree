@@ -30,17 +30,16 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 
 
 # Yet to Make (26/57)
-## Classic Skills       
+## Classic Skills (9/19)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
-✅ CNC & CAM                   
 ☐ Automotive         
 ☐ Ham Radio         
 ✅ Crafting           
 ☐ Arts            
 ✅ Music   
-☐ Dance      
+☐ Dance     
 🟧 Photography / Videography (40% Done - In Progress)      
 ✅ Reading & Writing                
 ✅ Crochet                                       
@@ -52,7 +51,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Renovation & Repair      
 ☐ Boating      
 
-## Tech Skills         
+## Tech Skills (8/17)            
 ☐ Computing                     
 ✅ Laser Cutting      ✅ French Translation           
 ✅ Electronics   
@@ -61,17 +60,18 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Coding      ✅ Mini Coding Tree             
 🟧 Linux         (In Progress - 40% done)            
 ☐ Robotics          
-✅ 3D Printing                 
-✅3D Modelling                
+✅ 3D Printing    
+✅ CNC & CAM       
+✅ 3D Modelling                
 ✅ Embedded Systems                          
 ☐ Cyber Security                     
 ☐ Website Building              
-☐ Game Design     
-☐ Mobile App Dev          
+☐ Game Design & VR        
+☐ Mobile App Dev & AR             
 ☐ AI & Machine Learning        
-☐ VR & AR          
+ 
 
-## Life Skills            
+## Life Skills (4/21)           
 ✅ Entrepreneurship      
 ☐ Finance          
 ✅ Cooking               
@@ -88,10 +88,11 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Civics            
 ☐ Language           
 ☐ Volunteering        
+☐ Healing Nature
 ☐ Research Skills        
 ☐ Gaming                
 ☐ Self Care     
-☐ Healing Nature
+☐ Life Admin
 
 ## Other Niche Areas                         
 ✅  STEAM Skills         
@@ -127,6 +128,13 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Gifting a friend something made from x skill
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
+
+# Support the Project
+Get skill tree poster digital downloads on the [MakerQueen Shop](makerqueen.etsy.com).
+
+![Electronics Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/0d05b244-beb6-4c24-ac15-a939fa4af928)
+![Digital Fabrication Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/fe13cacf-63eb-4880-a40b-6ddff228f422)
+
 
 # Example Skill Trees
 
