@@ -88,7 +88,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Civics            
 ☐ Language           
 ☐ Volunteering        
-☐ Healing Nature
+☐ Healing Nature        
 ☐ Research Skills        
 ☐ Gaming                
 ☐ Self Care     
