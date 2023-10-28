@@ -6,7 +6,7 @@ Maker Skill Trees are printable templates that can guide and track hands-on skil
 
 Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Under the templates section, there's also a smaller Mini Skill Tree template with only 40 tiles.  Maker Skill Trees are released under the Creative Commons Licence, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  I'm looking at releasing a book with all these compiled when all trees are complete.
 
-Open Source – CC BY-SA 4.0 Licence
+Open Source – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Header font used: [Hansief](https://www.dafont.com/hansief.font)               
 Other fonts used:
@@ -29,7 +29,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)https://github.com/sjpiper145/MakerSkillTree/blob/main/README.md
 
 
-# Yet to Make (26/57)
+# Yet to Make (22/57)
 ## Classic Skills (9/19)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -71,7 +71,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ AI & Machine Learning        
  
 
-## Life Skills (4/21)           
+## Life Skills (5/21)           
 ✅ Entrepreneurship      
 ☐ Finance          
 ✅ Cooking               
@@ -81,7 +81,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Cleaning                
 ✅  Gardening                 
 ☐ Animal Care               
-🟧 Travel            (In Progress - 50% Done)              
+✅ Travel                         
 ☐ Sports / Fitness               
 🟧 Adventure       (In Progress - 50% Done)            
 ☐ Backyard Science          
