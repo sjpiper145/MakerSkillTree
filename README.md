@@ -10,7 +10,7 @@ Open Source – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/b
 
 Header font used: [Hansief](https://www.dafont.com/hansief.font)               
 Other fonts used:
-  - [Uniform Condensed Regular](https://www.fontspring.com/fonts/miller-type-foundry/uniform)
+  - [Uniform Condensed Regular](https://befonts.com/uniform-pro-font-family.html)
   - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
   - Icons from [Icons8](https://icons8.com/), and some self-made
 
