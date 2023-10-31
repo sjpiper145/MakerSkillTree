@@ -102,7 +102,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ 3D Printing and 3D Modelling  (Now split to individual areas)        
 ✅ Roller Derby    
 ✅ Dungeons and Dragons         
-✅ Comic Artist
+✅ Comic Artist          
 ☐ Tabletop Games        
 ☐ Video Games  
 
