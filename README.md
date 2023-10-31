@@ -101,7 +101,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench   
 ✅ 3D Printing and 3D Modelling  (Now split to individual areas)        
 ✅ Roller Derby    
-✅ Dungeons and Dragons          
+✅ Dungeons and Dragons         
+✅ Comic Artist
 ☐ Tabletop Games        
 ☐ Video Games  
 
