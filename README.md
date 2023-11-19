@@ -49,7 +49,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Jewellery Making      
 ☐ Ceramics        
 ✅ Renovation & Repair      
-🟧 House Building (60% Done - In Progress)
+🟧 House Building (60% Done - In Progress)        
 ✅ Boating & Fishing          
 
 ## Tech Skills (9/17)            
