@@ -68,7 +68,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Cyber Security                     
 ☐ Website Building              
 ☐ Game Design & VR        
-☐ Mobile App Dev & AR             
+🟧 Mobile App Dev & AR  (In Progress - 50% done)                 
 ☐ AI & Machine Learning        
  
 
@@ -86,11 +86,11 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Sports / Fitness               
 ✅ Adventure                   
 ☐ Backyard Science          
-☐ Civics            
+🟧 Civics & Community (In Progress - 50% Done)                  
 ☐ Language           
 ☐ Volunteering        
 ☐ Healing Nature      
-☐ Survivalist
+☐ Survivalist        
 ☐ Research Skills        
 ☐ Gaming                
 ☐ Self Care     
