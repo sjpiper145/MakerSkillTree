@@ -29,8 +29,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)https://github.com/sjpiper145/MakerSkillTree/blob/main/README.md
 
 
-# Yet to Make (26/59)
-## Classic Skills (10/19)        
+# Yet to Make (27/59)
+## Classic Skills (11/19)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
@@ -49,7 +49,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Jewellery Making      
 ☐ Ceramics        
 ✅ Renovation & Repair      
-🟧 House Building (60% Done - In Progress)        
+✅ House Building               
 ✅ Boating & Fishing          
 
 ## Tech Skills (9/17)            
