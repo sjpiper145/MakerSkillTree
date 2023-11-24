@@ -29,7 +29,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)https://github.com/sjpiper145/MakerSkillTree/blob/main/README.md
 
 
-# Yet to Make (27/59)
+# Yet to Make (28/59)
 ## Classic Skills (11/19)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
@@ -72,7 +72,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ AI & Machine Learning        
  
 
-## Life Skills (7/21)           
+## Life Skills (8/21)           
 ✅ Entrepreneurship      
 ☐ Finance          
 ✅ Cooking               
@@ -86,7 +86,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Sports / Fitness               
 ✅ Adventure                   
 ☐ Backyard Science          
-🟧 Civics & Community (In Progress - 50% Done)                  
+✅ Civics & Community                       
 ☐ Language           
 ☐ Volunteering        
 ☐ Healing Nature      
