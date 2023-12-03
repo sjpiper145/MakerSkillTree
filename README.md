@@ -140,6 +140,7 @@ Get skill tree poster digital downloads on the [MakerQueen Shop](https://www.ets
 ![Electronics Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/0d05b244-beb6-4c24-ac15-a939fa4af928)
 ![Digital Fabrication Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/fe13cacf-63eb-4880-a40b-6ddff228f422)
 
+[Watch my talk on the Skill Trees Project](https://youtu.be/6fygx-TUxs4) 
 
 # Example Skill Trees
 
