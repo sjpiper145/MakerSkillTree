@@ -29,19 +29,19 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)https://github.com/sjpiper145/MakerSkillTree/blob/main/README.md
 
 
-# Yet to Make (29/61)
-## Classic Skills (11/21)        
+# Yet to Make (30/61)
+## Classic Skills (12/21)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
 🟧 Automotive (40% Done - In Progress)            
-☐ Ham Radio         
+☐ Amateur Radio         
 ✅ Crafting           
 🟧 Moulding and Casting (40% Done - In Progress)      
 ☐ Arts            
 ✅ Music   
 ☐ Dance     
-🟧 Photography / Videography (80% Done - In Progress)      
+✅ Photography / Videography     
 ✅ Reading & Writing                
 ✅ Crochet                                       
 ✅ Knitting                                     
