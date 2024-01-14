@@ -66,7 +66,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ CNC & CAM       
 ✅ 3D Modelling                
 ✅ Embedded Systems                          
-☐ Cyber Security                     
+🟧 IT Security   (In Progress - 90% Done)                      
 ☐ Website Building              
 ☐ Game Design & VR        
 ✅ Mobile App Dev & AR                         
@@ -78,7 +78,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Finance          
 ✅ Cooking               
 ✅ Baking          
-🟧 Fermenting & Preservation (In Progress - 50% Done)      
+🟧 Fermenting & Preservation (In Progress - 50% Done)          
 ☐ Drinks      
 ✅ Cleaning                          
 ✅  Gardening                 
@@ -88,7 +88,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Adventure                   
 ☐ Backyard Science          
 ✅ Civics & Community                       
-☐ Language           
+🟧 Language      (In Progress - 40% Done)             
 ☐ Volunteering        
 ☐ Healing Nature      
 ☐ Survivalist            
