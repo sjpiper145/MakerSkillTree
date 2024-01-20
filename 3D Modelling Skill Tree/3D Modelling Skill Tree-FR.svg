@@ -2368,9 +2368,9 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.98273904"
-     inkscape:cx="1505.4861"
-     inkscape:cy="1400.1682"
-     inkscape:window-width="958"
+     inkscape:cx="1163.5846"
+     inkscape:cy="1024.6871"
+     inkscape:window-width="982"
      inkscape:window-height="981"
      inkscape:window-x="-8"
      inkscape:window-y="0"
@@ -5559,7 +5559,8 @@
          x="101.4883 117.84906 134.11893 149.26778 156.72101 173.59683"
          y="904.9751"
          sodipodi:role="line"
-         id="tspan1093">BASICS</tspan><tspan
+         id="tspan1093"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uniform;-inkscape-font-specification:Uniform">BASICS</tspan><tspan
          x="843.05481 859.32465 876.59436 891.59167 907.86157 925.73718 942.61304 956.85297"
          y="905.03571"
          sodipodi:role="line"
