@@ -1,376 +1,418 @@
-{ "Title": "Modélisation 3D", 
-
-   "Skills" : [
-        { 
-            "desc" : "Apprendre à naviguer dans une interface 3D : se déplacer, tourner autour, zoomer (se rapprocher, s'éloigner)",
-            "icon": "3D Axis origin",
-            "level" : 1
-        },
-        { 
-            "desc" : "Créer un modèle dans TinkerCAD",
-            "icon": "3D Perspective Cube",
-            "level" : 2
-        },
-        {   
-            "desc" : "Dessiner le schéma 2D d'un modèle 3D",
-            "icon": "Polyedra node",
-            "level" : 2
-        },
-        {   
-            "desc" : "Réaliser un modèle 'low poly'",
-            "icon": "Polyedra node",
-            "level" : 2  
-        },
-        {   
-            "desc" : "Utiliser l'outil d'**extrusion** dans un logiciel 3D",
-            "icon": "3D Cube and Up Arrow",
-            "level" : 1  
-        },
-        {   
-            "desc" : "Utiliser l'outil de **révolution** dans un logiciel 3D",
-            "icon": "Vase silhouette and ellipse arrow",
-            "level" : 2  
-        },
-        {   
-            "desc" : "Utiliser les opérations **booléennes** dans un logiciel 3D",
-            "icon": "Superposed Square and Circle",
-            "level" : 1  
-        },
-        {   
-            "desc" : "Créer un modèle avec MeshMixer",
-            "icon": "Bunny",
-            "level" : 3  
-        },
-        {   
-            "desc" : "Créer un modèle 3D à partir d'un schéma 2D",
-            "icon": "3D Cube draw with pencil",
-            "level" : 5  
-        },
-        {   
-            "desc" : "Modifier une texture dans un logiciel de retouche d'images",
-            "icon": "textured square",
-            "level" : 4  
-        },
-        {   
-            "desc" : "Savoir vérifier les dimensions dans un logiciel 3D",
-            "icon": "Ruler",
-            "level" : 2  
-        },
-        {   
-            "desc" : "Faire un croquis détaillé avec des dimensions avant la modélisation 3D",
-            "icon": "3D Cube draw with pencil",
-            "level" : 4  
-        },
-        {   
-            "desc" : "Concevoir un objet pour l'impression 3D",
-            "icon": "3D Printer",
-            "level" : 3  
-        },
-        {   
-            "desc" : "Déplier - déployer un objet _low-poly_",
-            "icon": "Cube Flat pattern",
-            "level" : 5  
-        },
-        {   
-            "desc" : "Animer un objet articulé avec les outils FK / IK",
-            "icon": "Body node skeletton",
-            "level" : 6  
-        },
-        {   
-            "desc" : "Générer le rendu d'un modèle avec un logiciel de CAO d'ingénierie",
-            "icon": "3D Cube and sparkle",
-            "level" : 8  
-        },
-        {   
-            "desc" : "Partager un remix d'un modèle 3D ",
-            "icon": "Sharing Arrows",
-            "level" : 4  
-        },
-        {   
-            "desc" : "Créer un modèle dans un logiciel de sculpture (ex. Blender, Z-brush, MudBox, etc.)",
-            "icon": "Venus de Milo",
-            "level" : 8  
-        },
-        {   
-            "desc" : "Dessiner un modèle personnalisé pour un ami",
-            "icon": "Gift wrap",
-            "level" : 6  
-        },
-        {   
-            "desc" : "Modifier les normales d'arrêtes d'un objet _low-poly_",
-            "icon": "3D Axis origin",
-            "level" : 5  
-        },
-        {   
-            "desc" : " Texturer un objet géométrique simple",
-            "icon": "textured square",
-            "level" : 4  
-        },
-        {   
-            "desc" : "Configuration un éclairage à 3 sources ",
-            "icon": "light source",
-            "level" : 6  
-        },
-        {   
-            "desc" : "Concevoir un outil quelconque (**utile!**)",
-            "icon": "wrench and screwdriver",
-            "level" : 7  
-        },
-        {   
-            "desc" : "Créer un modèle dans un logiciel de CAO (ex. Fusion 360, FreeCAD, Solidworks ou autres)",
-            "icon": "3D Perspective Cube",
-            "level" : 7  
-        },
-        {   
-            "desc" : "Modéliser et fabriquer un objet qui résout un problème",
-            "icon": "light bulb",
-            "level" : 6  
-        },
-        {   
-            "desc" : "Capturer une texture du monde réel",
-            "icon": "textured square",
-            "level" : 9  
-        },
-        {   
-            "desc" : "Modéliser un objet en 3D et le publier sous une licence Open Source",
-            "icon": "Open Hardware logo",
-            "level" : 8  
-        },
-        {   
-            "desc" : "Assembler un modèle 3D à partir d'éléments libres",
-            "icon": "Free Label price",
-            "level" : 13  
-        },
-        {   
-            "desc" : "Rétopologiser un objet ou un personnage en 3D",
-            "icon": "Polyedra node",
-            "level" : 11  
-        },
-        {   
-            "desc" : "Texturer un modèle 3D de façon réaliste",
-            "icon": "textured square",
-            "level" : 10  
-        },
-        {   
-            "desc" : "Utiliser un fichier SVG pour créer une part d'un modèle 3D",
-            "icon": "outil plume béziers",
-            "level" : 11  
-        },
-        {   
-            "desc" : "Eclairer et rendre un objet 3D  XXXX",
-            "icon": "light source",
-            "level" : 8  
-        },
-        {   
-            "desc" : "Déployer un objet complexe(UDIMs)",
-            "icon": "object diagram",
-            "level" : 7  
-        },
-        {   
-            "desc" : "Concevoir un objet plat à fabriquer en pliant un matériau ( ex. tôle, papier)",
-            "icon": "paper roll",
-            "level" : 9  
-        },
-        {   
-            "desc" : "Dessiner un modèle intégrant de l'électronique ou des aimants",
-            "icon": "LED",
-            "level" : 9  
-        },
-        {   
-            "desc" : "Modéliser un personnage en 3D",
-            "icon": "Naruto",
-            "level" : 12  
-        },
-        {   
-            "desc" : "Créer une texture réutilisable (par exemple avec Substance Painter, Blender, Muxbox)",
-            "icon": "textured square",
-            "level" : 10  
-        },
-        {   
-            "desc" : "Concevoir un objet à imprimer en deux couleurs ou 2 matériaux",
-            "icon": "3D print filament",
-            "level" : 10 
-        },
-        {   
-            "desc" : "Effectuer des tests de résistance sur un modèle dans un logiciel de CAO ",
-            "icon": "3D Cube and Down Arrow",
-            "level" : 10 
-        },
-        {   
-            "desc" : "Dessiner un modèle articulé ou un 'print in place'",
-            "icon": "Dragon head",
-            "level" : 11  
-        },
-        {   
-            "desc" : "Articuler un modèle sculpté",
-            "icon": "Body node skeletton",
-            "level" : 16  
-        },
-        {   
-            "desc" : "Faire un modèle précis de votre chambre, votre bureau ou votre maison (CAD CAM) ",
-            "icon": "House",
-            "level" : 13 
-        },
-        {   
-            "desc" : "Rétro-concevoir un objet avec un logiciel de CAO  (ex. Fusion 360, FreeCAD, Solidworks ou autres)",
-            "icon": "3D Perspective Cube",
-            "level" : 12 
-        },
-        {   
-            "desc" : "Créer un modèle pour un déguisement (cosplay)",
-            "icon": "man with hat and goggles",
-            "level" : 14  
-        },
-        {   
-            "desc" : "Dessiner à partir d'une photo de référence",
-            "icon": "dog",
-            "level" : 12  
-        },
-        {   
-            "desc" : "Initier un ami à la conception 3D",
-            "icon": "two pepole behind one computer",
-            "level" : 15  
-        },
-        {   
-            "desc" : "Animer une structure 3D à partir d'un modèle en ligne (ex. un pendule, un circuit de billes...)",
-            "icon": "pendulum schematic",
-            "level" : 13  
-        },
-        {   
-            "desc" : "Créer un modèle personnalisable dans OpenSCAD",
-            "icon": "markup window ?",
-            "level" : 14  
-        },
-        {   
-            "desc" : "Se faire scanner ou scanner quelque chose en 3D",
-            "icon": "man body with texture area",
-            "level" : 15  
-        },
-        {   
-            "desc" : "Utiliser un trancheur pour préparer l'impression d'un modèle (ex. Cura, Repetier...)",
-            "icon": "Computer and gear",
-            "level" : 14  
-        },
-        {   
-            "desc" : "Concevoir un objet à imprimer dans un matériau souple (ex. TPU)",
-            "icon": "3D print filament",
-            "level" : 13  
-        },
-        {   
-            "desc" : "Design itératif : améliorer un modèle 3D",
-            "icon": "v2 label",
-            "level" : 14  
-        },
-        {   
-            "desc" : "Animate a crane rig",
-            "icon": "appareil photo",
-            "level" : 15  
-        },
-        {   
-            "desc" : "Animate an engineering CAD model",
-            "icon": "mechanical Gears",
-            "level" : 16  
-        },
-        {   
-            "desc" : "Learn a game engine",
-            "icon": "game controller",
-            "level" : 17  
-        },
-        {   
-            "desc" : "Créer un jeu de plateforme avec un moteur de jeu",
-            "icon": "game controller",
-            "level" : 19  
-        },
-        {   
-            "desc" : "Utiliser les mathématiques pour créer un modèle (ex. avec Grasshopper pour Rhino)",
-            "icon": "fractal flake",
-            "level" : 18  
-        },
-        {   
-            "desc" : "Dessiner, Imprimer et Assembler un objet composé de plusieurs pièces",
-            "icon": "3 x 3D Perspective Cube",
-            "level" : 16  
-        },
-        {   
-            "desc" : "Animate something you’ve sculpted",
-            "icon": "exit sign : man walking",
-            "level" : 18  
-        },
-        {   
-            "desc" : "Make something for VR",
-            "icon": "helmet VR",
-            "level" : 19  
-        },
-        {   
-            "desc" : "Make something for AR",
-            "icon": "3D Cube on smartphone",
-            "level" : 20  
-        },
-        {   
-            "desc" : "Make a puzzle based 3D game",
-            "icon": "puzzle piece",
-            "level" : 18 
-        },
-        {   
-            "desc" : "Use generative design",
-            "icon": "brain with electronode",
-            "level" : 17  
-        },
-        {   
-            "desc" : "Connaître au moins 2 logiciels de sculpture",
-            "icon": "Computer and gear",
-            "level" : 16  
-        },
-        {   
-            "desc" : "Apprendre plus de 3 logiciels de modélisation",
-            "icon": "Computer and gear",
-            "level" : 17  
-        },
-        {   
-            "desc" : "Vendre un objet que vous avez dessiné en 3D",
-            "icon": "money",
-            "level" : 19  
-        },
-        {   
-            "desc" : "Enseigner, préparer un cours sur l'impression ou sur la modélisation", 
-            "icon": "teacher and board",
-            "level" : 19  
-        },
-        {   
-            "desc" : "Créer un Instructable, une page Hackaday ou une page Hackster.io sur un projet",
-            "icon": "file document with smile",
-            "level" : 20  
-        }
-], 
-    "Ressources" : [
-        {   "name" : "Icon8",
-        "type" : "icones et illustrations",
-        "desc" : "outil de conception proposé par AutoDesk pour débuter et apprendre",
-        "url" : "https://www.icon8.com"
-},
-         {   "name" : "TinkerCAD",
-            "type" : "application web",
-            "desc" : "outil de conception proposé par AutoDesk pour débuter et apprendre",
-            "url" : "https://www.tinkercad.com"
-    },
-             {   "name" : "MeshMixer",
-            "type" : "logiciel",
-            "desc" : "outil 'couteau suisse' pour transformer des fichiers .STL ",
-            "url" : "https://meshmixer.com"
-    } 
-], 
-    "Authors" : [
-        {   "name" : "Steph Piper aka Maker Queen" ,
-            "role" : "author",
-            "url" : "https://www.makerqueen.com.au"
-    }, 
-        {   "name" : "Steven Mohr" ,
-            "role" : "co-author",
-            "url" : ""
-    }, 
-        {   "name" : "Laure Si" ,
-            "role" : "translator",
-            "url" : ""
-}
-]
-}
+{
+    "title": "Modélisation 3D",
+    "skills": [
+      {
+        "desc": "Apprendre à naviguer dans une interface 3D : se déplacer, tourner autour, zoomer (se rapprocher, s'éloigner)",
+        "icon": "3D Axis origin",
+        "level": 1
+      },
+      {
+        "desc": "Créer un modèle dans TinkerCAD",
+        "icon": "3D Perspective Cube",
+        "level": 2
+      },
+      {
+        "desc": "Dessiner le schéma 2D d'un modèle 3D",
+        "icon": "Polyedra node",
+        "level": 2
+      },
+      {
+        "desc": "Réaliser un modèle 'low poly'",
+        "icon": "Polyedra node",
+        "level": 2
+      },
+      {
+        "desc": "Utiliser l'outil d'**extrusion** dans un logiciel 3D",
+        "icon": "3D Cube and Up Arrow",
+        "level": 1
+      },
+      {
+        "desc": "Utiliser l'outil de **révolution** dans un logiciel 3D",
+        "icon": "Vase silhouette and ellipse arrow",
+        "level": 2
+      },
+      {
+        "desc": "Utiliser les opérations **booléennes** dans un logiciel 3D",
+        "icon": "Superposed Square and Circle",
+        "level": 1
+      },
+      {
+        "desc": "Créer un modèle avec MeshMixer",
+        "icon": "Bunny",
+        "level": 3
+      },
+      {
+        "desc": "Créer un modèle 3D à partir d'un schéma 2D",
+        "icon": "3D Cube draw with pencil",
+        "level": 5
+      },
+      {
+        "desc": "Modifier une texture dans un logiciel de retouche d'images",
+        "icon": "textured square",
+        "level": 4
+      },
+      {
+        "desc": "Savoir vérifier les dimensions dans un logiciel 3D",
+        "icon": "Ruler",
+        "level": 2
+      },
+      {
+        "desc": "Faire un croquis détaillé avec des dimensions avant la modélisation 3D",
+        "icon": "3D Cube draw with pencil",
+        "level": 4
+      },
+      {
+        "desc": "Concevoir un objet pour l'impression 3D",
+        "icon": "3D Printer",
+        "level": 3
+      },
+      {
+        "desc": "Déplier - déployer un objet _low-poly_",
+        "icon": "Cube Flat pattern",
+        "level": 5
+      },
+      {
+        "desc": "Animer un objet articulé avec les outils FK / IK",
+        "icon": "Body node skeletton",
+        "level": 6
+      },
+      {
+        "desc": "Générer le rendu d'un modèle avec un logiciel de CAO d'ingénierie",
+        "icon": "3D Cube and sparkle",
+        "level": 8
+      },
+      {
+        "desc": "Partager un remix d'un modèle 3D ",
+        "icon": "Sharing Arrows",
+        "level": 4
+      },
+      {
+        "desc": "Créer un modèle dans un logiciel de sculpture (ex. Blender, Z-brush, MudBox, etc.)",
+        "icon": "Venus de Milo",
+        "level": 8
+      },
+      {
+        "desc": "Dessiner un modèle personnalisé pour un ami",
+        "icon": "Gift wrap",
+        "level": 6
+      },
+      {
+        "desc": "Modifier les normales d'arrêtes d'un objet _low-poly_",
+        "icon": "3D Axis origin",
+        "level": 5
+      },
+      {
+        "desc": " Texturer un objet géométrique simple",
+        "icon": "textured square",
+        "level": 4
+      },
+      {
+        "desc": "Configuration un éclairage à 3 sources ",
+        "icon": "light source",
+        "level": 6
+      },
+      {
+        "desc": "Concevoir un outil quelconque (**utile!**)",
+        "icon": "wrench and screwdriver",
+        "level": 7
+      },
+      {
+        "desc": "Créer un modèle dans un logiciel de CAO (ex. Fusion 360, FreeCAD, Solidworks ou autres)",
+        "icon": "3D Perspective Cube",
+        "level": 7
+      },
+      {
+        "desc": "Modéliser et fabriquer un objet qui résout un problème",
+        "icon": "light bulb",
+        "level": 6
+      },
+      {
+        "desc": "Capturer une texture du monde réel",
+        "icon": "textured square",
+        "level": 9
+      },
+      {
+        "desc": "Modéliser un objet en 3D et le publier sous une licence Open Source",
+        "icon": "Open Hardware logo",
+        "level": 8
+      },
+      {
+        "desc": "Assembler un modèle 3D à partir d'éléments libres",
+        "icon": "Free Label price",
+        "level": 13
+      },
+      {
+        "desc": "Rétopologiser un objet ou un personnage en 3D",
+        "icon": "Polyedra node",
+        "level": 11
+      },
+      {
+        "desc": "Texturer un modèle 3D de façon réaliste",
+        "icon": "textured square",
+        "level": 10
+      },
+      {
+        "desc": "Utiliser un fichier SVG pour créer une part d'un modèle 3D",
+        "icon": "outil plume béziers",
+        "level": 11
+      },
+      {
+        "desc": "Eclairer et rendre un objet 3D  XXXX",
+        "icon": "light source",
+        "level": 8
+      },
+      {
+        "desc": "Déployer un objet complexe(UDIMs)",
+        "icon": "object diagram",
+        "level": 7
+      },
+      {
+        "desc": "Concevoir un objet plat à fabriquer en pliant un matériau ( ex. tôle, papier)",
+        "icon": "paper roll",
+        "level": 9
+      },
+      {
+        "desc": "Dessiner un modèle intégrant de l'électronique ou des aimants",
+        "icon": "LED",
+        "level": 9
+      },
+      {
+        "desc": "Modéliser un personnage en 3D",
+        "icon": "Naruto",
+        "level": 12
+      },
+      {
+        "desc": "Créer une texture réutilisable (par exemple avec Substance Painter, Blender, Muxbox)",
+        "icon": "textured square",
+        "level": 10
+      },
+      {
+        "desc": "Concevoir un objet à imprimer en deux couleurs ou 2 matériaux",
+        "icon": "3D print filament",
+        "level": 10
+      },
+      {
+        "desc": "Effectuer des tests de résistance sur un modèle dans un logiciel de CAO ",
+        "icon": "3D Cube and Down Arrow",
+        "level": 10
+      },
+      {
+        "desc": "Dessiner un modèle articulé ou un 'print in place'",
+        "icon": "Dragon head",
+        "level": 11
+      },
+      {
+        "desc": "Articuler un modèle sculpté",
+        "icon": "Body node skeletton",
+        "level": 16
+      },
+      {
+        "desc": "Faire un modèle précis de votre chambre, votre bureau ou votre maison (CAD CAM) ",
+        "icon": "House",
+        "level": 13
+      },
+      {
+        "desc": "Rétro-concevoir un objet avec un logiciel de CAO  (ex. Fusion 360, FreeCAD, Solidworks ou autres)",
+        "icon": "3D Perspective Cube",
+        "level": 12
+      },
+      {
+        "desc": "Créer un modèle pour un déguisement (cosplay)",
+        "icon": "man with hat and goggles",
+        "level": 14
+      },
+      {
+        "desc": "Dessiner à partir d'une photo de référence",
+        "icon": "dog",
+        "level": 12
+      },
+      {
+        "desc": "Initier un ami à la conception 3D",
+        "icon": "two pepole behind one computer",
+        "level": 15
+      },
+      {
+        "desc": "Animer une structure 3D à partir d'un modèle en ligne (ex. un pendule, un circuit de billes...)",
+        "icon": "pendulum schematic",
+        "level": 13
+      },
+      {
+        "desc": "Créer un modèle personnalisable dans OpenSCAD",
+        "icon": "markup window ?",
+        "level": 14
+      },
+      {
+        "desc": "Se faire scanner ou scanner quelque chose en 3D",
+        "icon": "man body with texture area",
+        "level": 15
+      },
+      {
+        "desc": "Utiliser un trancheur pour préparer l'impression d'un modèle (ex. Cura, Repetier...)",
+        "icon": "Computer and gear",
+        "level": 14
+      },
+      {
+        "desc": "Concevoir un objet à imprimer dans un matériau souple (ex. TPU)",
+        "icon": "3D print filament",
+        "level": 13
+      },
+      {
+        "desc": "Design itératif : améliorer un modèle 3D",
+        "icon": "v2 label",
+        "level": 14
+      },
+      {
+        "desc": "Animate a crane rig",
+        "icon": "appareil photo",
+        "level": 15
+      },
+      {
+        "desc": "Animate an engineering CAD model",
+        "icon": "mechanical Gears",
+        "level": 16
+      },
+      {
+        "desc": "Learn a game engine",
+        "icon": "game controller",
+        "level": 17
+      },
+      {
+        "desc": "Créer un jeu de plateforme avec un moteur de jeu",
+        "icon": "game controller",
+        "level": 19
+      },
+      {
+        "desc": "Utiliser les mathématiques pour créer un modèle (ex. avec Grasshopper pour Rhino)",
+        "icon": "fractal flake",
+        "level": 18
+      },
+      {
+        "desc": "Dessiner, Imprimer et Assembler un objet composé de plusieurs pièces",
+        "icon": "3 x 3D Perspective Cube",
+        "level": 16
+      },
+      {
+        "desc": "Animate something you’ve sculpted",
+        "icon": "exit sign : man walking",
+        "level": 18
+      },
+      {
+        "desc": "Make something for VR",
+        "icon": "helmet VR",
+        "level": 19
+      },
+      {
+        "desc": "Make something for AR",
+        "icon": "3D Cube on smartphone",
+        "level": 20
+      },
+      {
+        "desc": "Make a puzzle based 3D game",
+        "icon": "puzzle piece",
+        "level": 18
+      },
+      {
+        "desc": "Use generative design",
+        "icon": "brain with electronode",
+        "level": 17
+      },
+      {
+        "desc": "Connaître au moins 2 logiciels de sculpture",
+        "icon": "Computer and gear",
+        "level": 16
+      },
+      {
+        "desc": "Apprendre plus de 3 logiciels de modélisation",
+        "icon": "Computer and gear",
+        "level": 17
+      },
+      {
+        "desc": "Vendre un objet que vous avez dessiné en 3D",
+        "icon": "money",
+        "level": 19
+      },
+      {
+        "desc": "Enseigner, préparer un cours sur l'impression ou sur la modélisation",
+        "icon": "teacher and board",
+        "level": 19
+      },
+      {
+        "desc": "Créer un Instructable, une page Hackaday ou une page Hackster.io sur un projet",
+        "icon": "file document with smile",
+        "level": 20
+      }
+    ],
+    "ressources": [
+      {
+        "name": "Icon8",
+        "famille": "icones et illustrations",
+        "desc": "catalogue de ressources graphiques et notamment des icones utilisées ici",
+        "url": "https://www.icon8.com"
+      },
+      {
+        "name": "TinkerCAD",
+        "famille": "application web",
+        "desc": "outil de conception proposé par AutoDesk pour débuter et apprendre",
+        "url": "https://www.tinkercad.com"
+      },
+      {
+        "name": "MeshMixer",
+        "famille": "logiciel",
+        "desc": "outil 3D 'couteau suisse' pour transformer des fichiers .STL ",
+        "url": "https://meshmixer.com"
+      },
+      {
+        "name": "Blender",
+        "famille": "logiciel libre",
+        "desc": "logiciel libre de modélisation, d'animation et de rendu 3D",
+        "url": "https://www.blender.org/"
+      },
+      {
+        "name": "Z-brush",
+        "famille": "logiciel",
+        "desc": "logiciel de modélisation 3D spécialiste de la scuplture et des textures",
+        "url": "https://www.maxon.net/fr/zbrush"
+      },
+      {
+        "name": "MudBox",
+        "famille": "logiciel",
+        "desc": "logiciel de modélisation 3D spécialiste de la scuplture et des textures",
+        "url": "https://www.autodesk.com/products/mudbox/overview"
+      },
+      {
+        "name": "Fusion 360",
+        "famille": "logiciel",
+        "desc": "logiciel de conception paramètrique orienté sur la fabrication industrielle",
+        "url": "https://www.autodesk.fr/products/fusion-360/overview?"
+      },
+      {
+        "name": "Solidworks",
+        "famille": "logiciel",
+        "desc": "logiciel de conception paramètrique orienté sur la fabrication industrielle",
+        "url": "https://www.solidworks.com/fr"
+      },
+      {
+        "name": "FreeCAD",
+        "famille": "logiciel libre",
+        "desc": "logiciel libre de conception paramètrique orienté sur la fabrication industrielle",
+        "url": "https://www.freecad.org/?lang=fr"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Steph Piper aka Maker Queen",
+        "role": "author",
+        "url": "https://www.makerqueen.com.au"
+      },
+      {
+        "name": "Steven Mohr",
+        "role": "co-author",
+        "url": ""
+      },
+      {
+        "name": "Laure Si",
+        "role": "translator",
+        "url": ""
+      }
+    ]
+  }

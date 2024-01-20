@@ -1,0 +1,28 @@
+{
+    "title": "Titre Poster", 
+    "id" : 1, 
+    "skills" : [
+        {   "desc" : "Décidez vous-même de l'objectif",
+            "icon": "3D Axis origin",
+            "level" : 20
+        },
+        {}
+    ],
+    "ressources" : [
+        {   "name" : "Icon8",
+            "famille" : "icones et illustrations",
+            "desc" : "catalogue de ressources graphiques et notamment des icones ici",
+            "url" : "https://www.icon8.com"
+        }
+    ], 
+    "authors" : [
+        {   "name" : "Steph Piper aka Maker Queen" ,
+            "role" : "author",
+            "url" : "https://www.makerqueen.com.au"
+        }, 
+        {   "name" : "Laure Si" ,
+    "role" : "translator",
+    "url" : ""
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "---",
+    "title": "Schema des Posters de Compétences",
+    "description": "un des MakerSkillTrees proposés par Steph Piper",
+    "type": "object",
+    "properties": {
+        "title": {
+            "description": "Le titre en haut de l'affiche",
+            "type": "string"
+        }, 
+        "id":{
+            "description": "identifiant unique du set", 
+            "type" : "integer", 
+            "exclusiveMinimum": 0
+        },
+        "skills" : {
+            "description": "table des tuiles à présenter", 
+            "type" : "array",
+            "items" : {
+                "type" : "object", 
+                "properties" : {
+                    "desc" : {
+                        "description": "le texte dans la case",
+                        "type": "string"
+                    }, 
+                    "icon" : {
+                        "description": "pour l'instant une description mais plus tard une ref chemin",
+                        "type": "string"
+                    },
+                    "level" : {
+                        "description" : "sur l'axe basique <--> avancé", 
+                        "type": "integer", 
+                        "exclusiveMinimum": 0
+                    }
+                },
+            "minItems": 1,
+            "uniqueItems": true
+             }
+        },
+        "ressources" : {
+            "description" : "les outils cités dans le contenu",
+            "type" : "array", 
+            "items" : {
+                "type" : "object", 
+                "properties" : {
+                    "name" : {
+                        "description": "le nom cité dans le contenu",
+                        "type": "string"
+                    }, 
+                    "famille" : {
+                        "description": "catégorie d'outils",
+                        "type": "string"
+                    }, 
+                    "desc" : {
+                        "description": "une ligne Quoi Pourquoi",
+                        "type": "string"
+                    },
+                    "url" : {
+                        "description" : "découvrir mieux à un clic", 
+                        "type": "string"
+                    }
+                }
+             },  
+            "minItems" : 1,
+            "uniqueItems": true
+        },
+        "authors" : {
+            "description": "le ou les créateurs de l'affiche", 
+            "type": "array",
+            "items": {
+                "type": "object", 
+                "properties": {
+                    "name" : {
+                        "description": "prénom et nom aka pseudo",
+                        "type": "string"
+                    }, 
+                    "role" : {
+                        "description": "auteur, contributeur, traducteur...",
+                        "type": "string"
+                    }, 
+                    "url" : {
+                        "description": "lien de crédit auteur",
+                        "type": "string"
+                    }
+                }
+            }, 
+            "minItems" : 1
+        }
+    },
+    "required": ["title", "id", "skills", "ressources","authors"]    
+}

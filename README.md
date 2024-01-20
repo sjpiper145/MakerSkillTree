@@ -28,16 +28,21 @@ Open Source – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/b
 3. REMIXes plus ou moins interactifs  
 
 ## Sélection : 
-✅ Découpe Laser // déjà traduite par 
-☐ Modélisation 3D
-☐ Impression 3D
-☐ CNC CAM
-☐ Informatique basique
-☐ Coding
-☐ Systèmes embarqués (Arduino & co)
+- ✅ Découpe Laser // déjà traduite par Isabelle Santos
+- ☐ Modélisation 3D
+- ☐ Impression 3D
+- ☐ CNC CAM
+- ☐ Informatique basique
+- ☐ Coding
+- ☐ Systèmes embarqués (Arduino & co)
+
+## Schema JSON
+Je sais à peine de quoi je parle mais on m'a conseillé d'y aller par là pour arriver à mon 3. donc je tente...
+
+Chaque **poster** embarque un **domaine** de compétences. 
+
+
 
 # Support the Project
-Offrez-moi un cadeau depuis le shop de la créatrice originale [MakerQueen Shop](https://www.etsy.com/shop/makerqueenau/) y a des versions deluxe des posters et de très très jolies choses.
- 
-[Watch my talk on the Skill Trees Project](https://youtu.be/6fygx-TUxs4) 
+Offrez-moi (_ou offrez-vous_) un cadeau depuis le shop de la créatrice originale : [MakerQueen Shop](https://www.etsy.com/shop/makerqueenau/) . Il y a des versions deluxe des posters et de très très jolies choses.
  
