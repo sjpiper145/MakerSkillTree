@@ -26,7 +26,7 @@ Templates include Adobe Illustrator and PDF files.
 # Skill Tracker Book
 I'm working on a book with an expansive range of skill trees, plus great tools to track your progress, earn achievement badges and calculate your life XP score across all areas.  [Get notified when the book is available.](https://www.makerqueen.com.au/skill-trees-1) 
 
-![Book Preview](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/b78715c9-8654-4556-9e55-535ef7cd8c64)https://github.com/sjpiper145/MakerSkillTree/blob/main/README.md
+![Book Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/735bcab8-77b4-487d-92e0-98f060946a0b)
 
 
 # Yet to Make (34/58)
