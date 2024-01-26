@@ -1,0 +1,345 @@
+{ "Title": "3D Modelling", 
+
+   "Skills" : [
+        { 
+            "desc" : "Learn to navigate a 3D interface with pan, orbit and zoom > Apprendre à naviguer dans une interface 3D : se déplacer, tourner autour, zoomer (se rapprocher, s'éloigner)",
+            "icon": "3D Axis origin",
+            "level" : 1
+        },
+        { 
+            "desc" : "Create a model in TinkerCAD",
+            "icon": "3D Perspective Cube",
+            "level" : 2
+        },
+        {   
+            "desc" : "Make a 2D schematic of a 3D model",
+            "icon": "Polyedra node",
+            "level" : 2
+        },
+        {   
+            "desc" : "Make a low poly model",
+            "icon": "Polyedra node",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Use the extrude tool in 3D software",
+            "icon": "3D Cube and Up Arrow",
+            "level" : 1  
+        },
+        {   
+            "desc" : "Use the revolve tool in 3D software",
+            "icon": "Vase silhouette and ellipse arrow",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Use boolean tools in 3D software",
+            "icon": "Superposed Square and Circle",
+            "level" : 1  
+        },
+        {   
+            "desc" : "Create a model in MeshMixer",
+            "icon": "Bunny",
+            "level" : 3  
+        },
+        {   
+            "desc" : "Create a 3D model from a 2D schematic",
+            "icon": "3D Cube draw with pencil",
+            "level" : 5  
+        },
+        {   
+            "desc" : "Edit a texture in an image-editing software",
+            "icon": "textured square",
+            "level" : 4  
+        },
+        {   
+            "desc" : "Know how to check size in 3D software",
+            "icon": "Ruler",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Draw a detailed sketch with dimensions before 3D modelling",
+            "icon": "3D Cube draw with pencil",
+            "level" : 4  
+        },
+        {   
+            "desc" : "Design something for 3D printing",
+            "icon": "3D Printer",
+            "level" : 3  
+        },
+        {   
+            "desc" : "UV unwrap a low-poly object",
+            "icon": "Cube Flat pattern",
+            "level" : 5  
+        },
+        {   
+            "desc" : "Rig a crane object with FK/IK system",
+            "icon": "Body node skeletton",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Render a model in an engineering CAD software",
+            "icon": "3D Cube and sparkle",
+            "level" : 8  
+        },
+        {   
+            "desc" : "Upload a remix of a 3D model",
+            "icon": "Sharing Arrows",
+            "level" : 4  
+        },
+        {   
+            "desc" : "Make a model in a sculpting software (eg. Blender, Z-brush, MudBox, etc)",
+            "icon": "Venus de Milo",
+            "level" : 8  
+        },
+        {   
+            "desc" : "Design a custom model for a friend",
+            "icon": "Gift wrap",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Modify edge normals for low-poly asset design",
+            "icon": "3D Axis origin",
+            "level" : 5  
+        },
+        {   
+            "desc" : "Texture a low poly object",
+            "icon": "textured square",
+            "level" : 4  
+        },
+        {   
+            "desc" : "Create a 3 point light setup",
+            "icon": "light source",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Design a tool of some kind",
+            "icon": "wrench and screwdriver",
+            "level" : 7  
+        },
+        {   
+            "desc" : "Create a model in an engineering CAD software (eg. Fusion 360, FreeCAD, Solidworks or others)",
+            "icon": "3D Perspective Cube",
+            "level" : 7  
+        },
+        {   
+            "desc" : "Model and make something that solves a problem",
+            "icon": "light bulb",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Capture a texture from the real world",
+            "icon": "textured square",
+            "level" : 9  
+        },
+        {   
+            "desc" : "3D Model something and upload it under an Open Source licence",
+            "icon": "Open Hardware logo",
+            "level" : 8  
+        },
+        {   
+            "desc" : "Assemble a 3D model with free assets",
+            "icon": "Free Label price",
+            "level" : 13  
+        },
+        {   
+            "desc" : "Retopologise a 3D object / character",
+            "icon": "Polyedra node",
+            "level" : 11  
+        },
+        {   
+            "desc" : "Texture a 3D model with realistic texturing",
+            "icon": "textured square",
+            "level" : 10  
+        },
+        {   
+            "desc" : "Use an SVG file to make part of a 3D model",
+            "icon": "outil plume béziers",
+            "level" : 11  
+        },
+        {   
+            "desc" : "Light and render a 3D object turntable",
+            "icon": "light source",
+            "level" : 8  
+        },
+        {   
+            "desc" : "UV unwrap a complex object (UDIMs)",
+            "icon": "object diagram",
+            "level" : 7  
+        },
+        {   
+            "desc" : "Design something flat to be made in folded material (eg. sheet metal, papercraft)",
+            "icon": "paper roll",
+            "level" : 9  
+        },
+        {   
+            "desc" : "Design a model to embed electronics or magnets",
+            "icon": "LED",
+            "level" : 9  
+        },
+        {   
+            "desc" : "3D model a character",
+            "icon": "Naruto",
+            "level" : 12  
+        },
+        {   
+            "desc" : "Create a texture in a texturing package. (eg Substance Painter, Blender, Muxbox)",
+            "icon": "textured square",
+            "level" : 10  
+        },
+        {   
+            "desc" : "Concevoir un objet à imprimer en deux couleurs ou 2 matières",
+            "icon": "3D print filament",
+            "level" : 10 
+        },
+        {   
+            "desc" : "Stress test a model in an engineering CAD software",
+            "icon": "3D Cube and Down Arrow",
+            "level" : 10 
+        },
+        {   
+            "desc" : "Design an articulating or print in place model",
+            "icon": "Dragon head",
+            "level" : 11  
+        },
+        {   
+            "desc" : "Rig something you’ve sculpted",
+            "icon": "Body node skeletton",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Make a CAD Model of your room, work or home",
+            "icon": "House",
+            "level" : 13 
+        },
+        {   
+            "desc" : "Reverse engineer something in CAD software",
+            "icon": "3D Perspective Cube",
+            "level" : 12 
+        },
+        {   
+            "desc" : "Design a custom model for cosplay",
+            "icon": "man with hat and goggles",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Sculpt something from a reference photo",
+            "icon": "dog",
+            "level" : 12  
+        },
+        {   
+            "desc" : "Teach a friend how to 3D model",
+            "icon": "two pepole behind one computer",
+            "level" : 15  
+        },
+        {   
+            "desc" : "Animate a 3D rig from a free online model (eg ball or pendulum rig)",
+            "icon": "pendulum schematic",
+            "level" : 13  
+        },
+        {   
+            "desc" : "Create a customizable model in OpenSCAD",
+            "icon": "markup window ?",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Get 3D scanned or 3D scan something",
+            "icon": "man body with texture area",
+            "level" : 15  
+        },
+        {   
+            "desc" : "Use a Slicing software for prepraring to print a model",
+            "icon": "Computer and gear",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Design something to be printed in flexible TPU material",
+            "icon": "3D print filament",
+            "level" : 13  
+        },
+        {   
+            "desc" : "Iterative design: Make improvements to a 3D model",
+            "icon": "v2 label",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Animate a crane rig",
+            "icon": "appareil photo",
+            "level" : 15  
+        },
+        {   
+            "desc" : "Animate an engineering CAD model",
+            "icon": "mechanical Gears",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Learn a game engine",
+            "icon": "game controller",
+            "level" : 17  
+        },
+        {   
+            "desc" : "Create a 3D platformer game in a game engine",
+            "icon": "game controller",
+            "level" : 19  
+        },
+        {   
+            "desc" : "Use mathematics to create a 3D model eg. Grasshopper with Rhino 3D software",
+            "icon": "fractal flake",
+            "level" : 18  
+        },
+        {   
+            "desc" : "Design, print and assemble something with multiple parts",
+            "icon": "3 x 3D Perspective Cube",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Animate something you’ve sculpted",
+            "icon": "exit sign : man walking",
+            "level" : 18  
+        },
+        {   
+            "desc" : "Make something for VR",
+            "icon": "helmet VR",
+            "level" : 19  
+        },
+        {   
+            "desc" : "Make something for AR",
+            "icon": "3D Cube on smartphone",
+            "level" : 20  
+        },
+        {   
+            "desc" : "Make a puzzle based 3D game",
+            "icon": "puzzle piece",
+            "level" : 18 
+        },
+        {   
+            "desc" : "Use generative design",
+            "icon": "brain with electronode",
+            "level" : 17  
+        },
+        {   
+            "desc" : "Learn two or more sculpting softwares",
+            "icon": "Computer and gear",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Learn more than three softwares for 3D modelling",
+            "icon": "Computer and gear",
+            "level" : 17  
+        },
+        {   
+            "desc" : "Sell something you’ve 3D modelled",
+            "icon": "money",
+            "level" : 19  
+        },
+        {   
+            "desc" : "Teach a class on 3D Printing or 3D modelling", 
+            "icon": "teacher and board",
+            "level" : 19  
+        },
+        {   
+            "desc" : "Create an instructable, hackaday page or Hackster.io page on a project",
+            "icon": "file document with smile",
+            "level" : 20  
+        }
+]
+}
