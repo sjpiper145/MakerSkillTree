@@ -64,7 +64,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Robotics          
 ✅ 3D Printing    
 ✅ CNC & CAM       
-✅ 3D Modelling                
+✅ 3D Modelling       ✅ French Translation       
 ✅ Embedded Systems                          
 ✅ IT Security                            
 ☐ Website Building              
