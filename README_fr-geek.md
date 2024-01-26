@@ -27,9 +27,9 @@ Open Source – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/b
 2. Proposer des posters fidèles en français, selon l'exemple de la découpe Laser déjà traité (intégration manuelle avec Inkscape)
 3. REMIXes plus ou moins interactifs  
 
-## Sélection : 
+## Sélection que je veux traduire et exploiter: 
 
-- ☐ 3D Modelling - Modélisation 3D
+- ✅ 3D Modelling - Modélisation 3D
 - ☐ 3D Printing - Impression 3D
 - ☐ CNC & CAM - CNC & Fabrication Numérique
 - ☐ Coding - ? Programmation
