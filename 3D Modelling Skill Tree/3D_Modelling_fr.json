@@ -67,7 +67,7 @@
         "level": 3
       },
       {
-        "desc": "Déplier - déployer un objet _low-poly_",
+        "desc": "Déplier - déployer un objet low-poly",
         "icon": "Cube Flat pattern",
         "level": 5
       },
@@ -77,7 +77,7 @@
         "level": 6
       },
       {
-        "desc": "Générer le rendu d'un modèle avec un logiciel de CAO d'ingénierie",
+        "desc": "Générer un rendu de modèle depuis un logiciel d'ingénierie (CAD)",
         "icon": "3D Cube and sparkle",
         "level": 8
       },
@@ -97,7 +97,7 @@
         "level": 6
       },
       {
-        "desc": "Modifier les normales d'arrêtes d'un objet _low-poly_",
+        "desc": "Modifier les normales d'arrêtes d'un objet low-poly",
         "icon": "3D Axis origin",
         "level": 5
       },
@@ -107,12 +107,12 @@
         "level": 4
       },
       {
-        "desc": "Configuration un éclairage à 3 sources ",
+        "desc": "Configurer un éclairage à 3 sources ",
         "icon": "light source",
         "level": 6
       },
       {
-        "desc": "Concevoir un outil quelconque (**utile!**)",
+        "desc": "Concevoir un outil quelconque (utile!)",
         "icon": "wrench and screwdriver",
         "level": 7
       },
@@ -157,7 +157,7 @@
         "level": 11
       },
       {
-        "desc": "Eclairer et rendre un objet 3D  XXXX",
+        "desc": "Éclairer et rendre un objet 3D  sous tous les angles",
         "icon": "light source",
         "level": 8
       },
@@ -262,17 +262,17 @@
         "level": 14
       },
       {
-        "desc": "Animate a crane rig",
+        "desc": "Articuler et animer un objet du quotidien",
         "icon": "appareil photo",
         "level": 15
       },
       {
-        "desc": "Animate an engineering CAD model",
+        "desc": "Animer un assemblage d'ingénierie (CAD)",
         "icon": "mechanical Gears",
         "level": 16
       },
       {
-        "desc": "Learn a game engine",
+        "desc": "Apprendre à utiliser un moteur de jeu 3D",
         "icon": "game controller",
         "level": 17
       },
@@ -292,27 +292,27 @@
         "level": 16
       },
       {
-        "desc": "Animate something you’ve sculpted",
+        "desc": "Animer un modèle que vous avez sculpté",
         "icon": "exit sign : man walking",
         "level": 18
       },
       {
-        "desc": "Make something for VR",
+        "desc": "Créer qqchose pour la Réalité Virtuelle (VR)",
         "icon": "helmet VR",
         "level": 19
       },
       {
-        "desc": "Make something for AR",
+        "desc": "Créer qqchose pour la Réalité Augmentée (AR)",
         "icon": "3D Cube on smartphone",
         "level": 20
       },
       {
-        "desc": "Make a puzzle based 3D game",
+        "desc": "Concevoir un puzzle 3D",
         "icon": "puzzle piece",
         "level": 18
       },
       {
-        "desc": "Use generative design",
+        "desc": "Utiliser le design génératif",
         "icon": "brain with electronode",
         "level": 17
       },

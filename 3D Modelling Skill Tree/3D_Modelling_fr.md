@@ -4,10 +4,10 @@ Dessiner le schéma 2D d'un modèle 3D
 Réaliser un modèle '_low poly_'
 Utiliser l'outil d'**extrusion** dans un logiciel 3D
 Utiliser l'outil de **révolution** dans un logiciel 3D
-Utiliser les opérations **booléennes** dans un logiciel 3D
+Utiliser les opérations booléennes dans un logiciel 3D
 Créer un modèle avec MeshMixer
 Créer un modèle 3D à partir d'un schéma 2D
-Modifier une **texture** dans un logiciel de retouche d'images
+Modifier une texture dans un logiciel de retouche d'images
 Savoir vérifier les dimensions dans un logiciel 3D
 Faire un croquis détaillé avec des dimensions avant la modélisation 3D
 Concevoir un objet pour **l'impression 3D**
