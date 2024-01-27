@@ -30,12 +30,11 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 
 
 # Yet to Make (35/60)
-## Classic Skills (15/21)        
+## Classic Skills (15/20)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
-✅ Automotive                     
-☐ Amateur Radio         
+✅ Automotive                         
 ✅ Crafting           
 ✅ Moulding and Casting           
 ☐ Arts            
@@ -53,8 +52,9 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ House Building               
 ✅ Boating & Fishing          
 
-## Tech Skills (12/18)            
-✅ Computing                     
+## Tech Skills (12/20)            
+✅ Computing           
+☐ Amateur Radio     
 ✅ Laser Cutting      ✅ French Translation           
 ✅ Electronics   
 ✅ PCB Design                    
@@ -72,8 +72,9 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Mobile App Dev & AR                         
 ☐ AI & Machine Learning   
 ☐ Research Skills    
+☐ Gaming                
 
-## Life Skills (8/21)           
+## Life Skills (8/20)           
 ✅ Entrepreneurship      
 ☐ Finance          
 ✅ Cooking               
@@ -84,15 +85,14 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅  Gardening                 
 ☐ Animal Care               
 ✅ Travel                         
-☐ Sports / Fitness               
+☐ Sports & Fitness               
 ✅ Adventure                   
 ☐ Backyard Science          
 ✅ Civics & Community                       
 🟧 Language      (In Progress - 60% Done)             
 ☐ Volunteering        
-☐ Healing Nature      
+☐ Environmentalist     
 ☐ Survivalist            
-☐ Gaming                
 ☐ Self Care     
 ☐ Life Admin
 
