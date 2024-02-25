@@ -29,8 +29,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/735bcab8-77b4-487d-92e0-98f060946a0b)
 
 
-# Yet to Make (35/60)
-## Classic Skills (15/20)        
+# Yet to Make (36/60)
+## Classic Skills (16/20)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
@@ -45,7 +45,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Crochet                                       
 ✅ Knitting                                     
 ✅ Sewing      
-🟧 Embroidery  (In Progress - 40% Done)             
+✅ Embroidery               
 ☐ Jewellery Making      
 ☐ Ceramics        
 ✅ Renovation & Repair      
@@ -61,7 +61,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Dev Boards          
 ☐ Coding      ✅ Mini Coding Tree             
 ✅ Linux                         
-☐ Robotics          
+🟧 Robotics     (In Progress - 80% Done)     
 ✅ 3D Printing    
 ✅ CNC & CAM       
 ✅ 3D Modelling       ✅ French Translation       
