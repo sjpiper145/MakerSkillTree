@@ -89,7 +89,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Adventure                   
 ☐ Backyard Science          
 ✅ Civics & Community                       
-✅ Language      (In Progress - 60% Done)             
+✅ Language                   
 ☐ Volunteering        
 ☐ Environmentalist     
 ☐ Survivalist            
