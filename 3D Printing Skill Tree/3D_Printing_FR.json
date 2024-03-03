@@ -1,4 +1,4 @@
-{ "Title": "Impression et Modélisation 3D", 
+{ "Title": "Impression 3D", 
 
    "Skills" : [
         { 
@@ -17,8 +17,8 @@
             "level" : 1
         },
         {   
-            "desc" : "Imprimer avec du PLA",
-            "icon": "3D print filament",
+            "desc" : "Imprimer un accessoire de rangement",
+            "icon": " ",
             "level" : 2  
         },
         {   
@@ -27,28 +27,28 @@
             "level" : 2  
         },
         {   
+            "desc" : "Imprimer avec du PLA",
+            "icon": "3D print filament",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Imprimer et Assembler un objet composé de plusieurs pièces",
+            "icon": "engine locomotive",
+            "level" : 2  
+        },
+        {   
             "desc" : "Utiliser une imprimante résine pour la première fois",
             "icon": "drop",
-            "level" : 2  
-        },
-        {   
-            "desc" : "Imprimer un modèle provenant de Thingiverse",
-            "icon": "Mouse Arrow",
-            "level" : 2  
-        },
-        {   
-            "desc" : "Imprimer un modèle provenant de MyMiniFactory",
-            "icon": "Mouse Arrow",
             "level" : 3  
         },
         {   
-            "desc" : "Imprimer un Benchy ou un Cali cat",
-            "icon": "Benchy boat",
+            "desc" : "Imprimer un lot de pièces",
+            "icon": "3 x fidget",
             "level" : 3  
         },
         {   
-            "desc" : "Imprimer un modèle provenant de Cults3D",
-            "icon": "Mouse Arrow",
+            "desc" : "Imprimer un objet pédagogique",
+            "icon": "vertebrae",
             "level" : 3  
         },
         {   
@@ -57,28 +57,23 @@
             "level" : 4 
         },
         {   
-            "desc" : "Imprimer un modèle provenant de Printables",
-            "icon": "Mouse Arrow",
-            "level" : 3  
-        },
-        {   
-            "desc" : "Générer le modèle avec le Customizer sur Thingiverse",
+            "desc" : "Créer un objet depuis le Customizer sur Thingiverse",
             "icon": " ",
             "level" : 4  
         },
         {   
-            "desc" : "Utiliser 3D Builder pour préparer l'impression d'un modèle",
-            "icon": "logo MS 3D Builder",
+            "desc" : "Préparer et gérer une impression en résine, son nettoyage et sa cuisson",
+            "icon": "drop",
             "level" : 4  
         },
         {   
-            "desc" : "Imprimer un modèle créé avec TinkerCAD",
-            "icon": "3D Perspective Cube",
-            "level" : 5  
+            "desc" : "Casser accidentellement votre impression en enlevant les supports",
+            "icon": "elephant",
+            "level" : 4  
         },
         {   
-            "desc" : "Imprimer un modèle créé avec MeshMixer",
-            "icon": "Bunny",
+            "desc" : "Imprimer quelquechose qui bouge (ex hand spinner)",
+            "icon": "fidget toy",
             "level" : 5  
         },
         {   
@@ -87,9 +82,9 @@
             "level" : 5  
         },
         {   
-            "desc" : "Imprimer 10 modèles",
-            "icon": "Brithday cake",
-            "level" : 6  
+            "desc" : "Calibrer une imprimante résine (SLA)",
+            "icon": "buble ruler ? ",
+            "level" : 5  
         },
         {   
             "desc" : "Rater une impression puis la réussir, identifier et résoudre le problème",
@@ -107,6 +102,11 @@
             "level" : 6  
         },
         {   
+            "desc" : "identifier et résoudre un mavais paramétrage",
+            "icon": "gear",
+            "level" : 6  
+        },
+        {   
             "desc" : "Imprimer avec du PETG",
             "icon": "3D print filament",
             "level" : 7  
@@ -114,12 +114,12 @@
         {   
             "desc" : "Faire un tirage à chaud - à froid pour déboucher la buse",
             "icon": "wrench and screwdriver",
-            "level" : 7  
+            "level" : 7   
         },
         {   
             "desc" : "Utiliser les supports arborescents pour imprimer",
             "icon": "tree",
-            "level" : 7  
+            "level" : 7   
         },
         {   
             "desc" : "Modifier un modèle existant avant d'imprimer",
@@ -139,17 +139,17 @@
         {   
             "desc" : "s'imprimer un outil",
             "icon": "wrench and screwdriver",
-            "level" : 8  
+            "level" : 8 
         },
         {   
             "desc" : "Créer une lithophanie d'une photo ou d'une image",
             "icon": "Framed picture",
-            "level" : 9  
+            "level" : 9   
         },
         {   
             "desc" : "Intégrer de l'électronique, des aimants ou autre à votre objet",
             "icon": "LED",
-            "level" : 9  
+            "level" : 9   
         },
         {   
             "desc" : "Obtenir un ratage spectaculaire, avec plein de spaghettis",
@@ -164,7 +164,7 @@
         {   
             "desc" : "Imprimer avec 2 couleurs ou 2 matériaux",
             "icon": "3D print filament",
-            "level" : 10  
+            "level" : 10 
         },
         {   
             "desc" : "Imprimer avec de l'ABS",
@@ -172,8 +172,8 @@
             "level" : 10
         },
         {   
-            "desc" : "Créer 10 modélisations 3D",
-            "icon": "Brithday cake",
+            "desc" : "Mélanger votre propre résine",
+            "icon": "drop",
             "level" : 10  
         },
         {   
@@ -182,8 +182,8 @@
             "level" : 11  
         },
         {   
-            "desc" : "Créer un modèle dans un logiciel de CAO (ex. Fusion 360, FreeCAD, Solidworks ou autres)",
-            "icon": "3D Perspective Cube",
+            "desc" : "Utiliser un matériau soluble comme le PVA",
+            "icon": "3D print filament",
             "level" : 11   
         },
         {   
@@ -204,11 +204,11 @@
         {   
             "desc" : "Réparer un objet cassé grâce à une impression 3D",
             "icon": "wrench and screwdriver",
-            "level" : 12  
+            "level" : 12 
         },
         {   
-            "desc" : "Visiter le makerspace local",
-            "icon": "localisation spot",
+            "desc" : "Imprimer un accessoire de costume (cosplay)",
+            "icon": "model bust",
             "level" : 12  
         },
         {   
@@ -217,8 +217,8 @@
             "level" : 13 
         },
         {   
-            "desc" : "Faire un modèle précis de votre chambre, votre bureau ou votre maison",
-            "icon": "house",
+            "desc" : "Imprimer un moule pour un projet de coulage, d'injection ou de fonderie",
+            "icon": "mould",
             "level" : 13 
         },
         {   
@@ -234,22 +234,22 @@
         {   
             "desc" : "Design itératif: ré-imprimer un objet après avoir amélioré le modèle",
             "icon": "v2",
+            "level" : 14    
+        },
+        {   
+            "desc" : "Imprimer un objet à porter (wearable)",
+            "icon": "goggles",
             "level" : 14  
         },
         {   
-            "desc" : "Casser accidentellement votre impression en enlevant les supports",
-            "icon": "elephant",
-            "level" : 14  
-        },
-        {   
-            "desc" : "Essayer un logiciel de tranchage (slicer) différent",
-            "icon": "Computer and gear",
-            "level" : 14  
+            "desc" : "Visiter le makerspace local",
+            "icon": "localisation spot",
+            "level" : 14 
         },
         {   
             "desc" : "Lisser une pièce en ABS avec de l'acétone",
             "icon": "smoothing",
-            "level" : 15  
+            "level" : 15 
         },
         {   
             "desc" : "Se faire scanner et imprimer un modèle de vous-même ",
@@ -259,15 +259,15 @@
         {   
             "desc" : "Modifier votre imprimante 3D avec un objet imprimé en 3D",
             "icon": "wrench and screwdriver",
-            "level" : 15  
+            "level" : 15 
         },
         {   
             "desc" : "Modéliser un objet et le publier sous une licence Open Source",
             "icon": "Open Hardware logo",
-            "level" : 16  
+            "level" : 16
         },
         {   
-            "desc" : "Dessiner, Imprimer et Assembler un objet composé de plusieurs pièces",
+            "desc" : "Poncer et peindre un objet imprimé",
             "icon": "3 x 3D Perspective Cube",
             "level" : 16  
         },
@@ -277,9 +277,14 @@
             "level" : 16  
         },
         {   
+            "desc" : "Essayer un logiciel de tranchage (slicer) différent",
+            "icon": "Computer and gear",
+            "level" : 16
+        },
+        {   
             "desc" : "Essayer de recuire une pièce imprimée pour la rendre plus résistante",
             "icon": "thermometer",
-            "level" : 16  
+            "level" : 18  
         },
         {   
             "desc" : "Imprimer avec un matériau chargé en Carbone",
@@ -294,26 +299,21 @@
         {   
             "desc" : "Imprimer avec du Nylon ou de l'ASA",
             "icon": "3D print filament",
-            "level" : 17 
+            "level" : 17
         },
         {   
-            "desc" : "Créer un modèle personnalisable dans OpenSCAD",
-            "icon": " ",
+            "desc" : "Utiliser une imprimante multi-matériaux",
+            "icon": "4x 3D print filament",
             "level" : 18  
         },
         {   
-            "desc" : "Acheter une deuxième imprimante pour le travail, la maison ou le makerspace",
-            "icon": " ",
+            "desc" : "Imprimer une (très) grande pièce",
+            "icon": "whale",
             "level" : 18  
         },
         {   
             "desc" : "Utiliser une imprimante d'un type spécial (ex chocolat, argile, pâte à crêpe...)",
             "icon": " ",
-            "level" : 18 
-        },
-        {   
-            "desc" : "Créer un modèle dans un logiciel de sculpture (ex Blender, Z-brush, MudBox, Maya...)",
-            "icon": "Venus de Milo",
             "level" : 18 
         },
         {   
@@ -324,7 +324,7 @@
         {   
             "desc" : "Enseigner, préparer un cours sur l'impression ou la modélisation",
             "icon": "teacher and board",
-            "level" : 19  
+            "level" : 19   
         },
         {   
             "desc" : "Installer une buse d'extrusion plus petite ou plus large que le format standard",
@@ -337,12 +337,12 @@
             "level" : 20  
         },
         {   
-            "desc" : "Créer qqchose pour répondre à un des Objectifs de Développement Durable", 
-            "icon": "ONU ring",
+            "desc" : "Construire son imprimante 3D", 
+            "icon": "wrench and screwdriver",
             "level" : 20  
         },
         {   
-            "desc" : "Choisis ton objectif",
+            "desc" : "Set your own goal",
             "icon": " ",
             "level" : 21  
         }
