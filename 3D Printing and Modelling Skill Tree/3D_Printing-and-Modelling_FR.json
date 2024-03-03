@@ -152,7 +152,7 @@
             "level" : 9  
         },
         {   
-            "desc" : "Have a spectacular failure, with lots of spaghettis",
+            "desc" : "Obtenir un ratage spectaculaire, avec plein de spaghettis",
             "icon": "spaghettis",
             "level" : 9  
         },
@@ -167,17 +167,17 @@
             "level" : 10  
         },
         {   
-            "desc" : "Print in ABS material",
+            "desc" : "Imprimer avec de l'ABS",
             "icon": "3D print filament",
             "level" : 10
         },
         {   
-            "desc" : "3D model 10 models",
+            "desc" : "Créer 10 modélisations 3D",
             "icon": "Brithday cake",
             "level" : 10  
         },
         {   
-            "desc" : "Teach a friend how to 3D Print",
+            "desc" : "Initier un ami à l'impression 3D",
             "icon": "two pepole behind one computer",
             "level" : 11  
         },
@@ -187,7 +187,7 @@
             "level" : 11   
         },
         {   
-            "desc" : "Print something that requires more than 1kg of filament",
+            "desc" : "Imprimer un objet qui nécessite plus d'1 kilo de filament",
             "icon": "3D print filament",
             "level" : 11   
         },
@@ -197,27 +197,27 @@
             "level" : 12 
         },
         {   
-            "desc" : "Print in flexible TPU material",
+            "desc" : "Imprimer avec un matériau flexible comme du TPU",
             "icon": "3D print filament",
             "level" : 12
         },
         {   
-            "desc" : "Repair something that’s broken with 3D printing",
+            "desc" : "Réparer un objet cassé grâce à une impression 3D",
             "icon": "wrench and screwdriver",
             "level" : 12  
         },
         {   
-            "desc" : "Visit your local makerspace",
+            "desc" : "Visiter le makerspace local",
             "icon": "localisation spot",
             "level" : 12  
         },
         {   
-            "desc" : "Use heat set threaded inserts in a part",
+            "desc" : "Insérer à chaud des inserts filetés dans une pièce imprimée",
             "icon": "Screw",
             "level" : 13 
         },
         {   
-            "desc" : "Make a CAD Model of your romm, work or home",
+            "desc" : "Faire un modèle précis de votre chambre, votre bureau ou votre maison",
             "icon": "house",
             "level" : 13 
         },
@@ -227,122 +227,122 @@
             "level" : 13  
         },
         {   
-            "desc" : "Print something that makes a noise",
+            "desc" : "Imprimer un objet pour faire du bruit, ou de la musique",
             "icon": "whistle",
             "level" : 14  
         },
         {   
-            "desc" : "Iterative design: print something again after making improvements",
+            "desc" : "Design itératif: ré-imprimer un objet après avoir amélioré le modèle",
+            "icon": "v2",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Casser accidentellement votre impression en enlevant les supports",
             "icon": " ",
             "level" : 14  
         },
         {   
-            "desc" : "Accidentally break a print while removing support material",
-            "icon": " ",
-            "level" : 14  
-        },
-        {   
-            "desc" : "Try a different Slicing Software",
+            "desc" : "Essayer un logiciel de tranchage (slicer) différent",
             "icon": "Computer and gear",
             "level" : 14  
         },
         {   
-            "desc" : "Try acetone smoothing an ABS printed part",
+            "desc" : "Lisser une pièce en ABS avec de l'acétone",
             "icon": " ",
             "level" : 15  
         },
         {   
-            "desc" : "Get 3D scanned and print a model of yourself ",
+            "desc" : "Se faire scanner et imprimer un modèle de vous-même ",
             "icon": " ",
             "level" : 15  
         },
         {   
-            "desc" : "Mod your 3D printer with something 3D printed",
+            "desc" : "Modifier votre imprimante 3D avec un objet imprimé en 3D",
             "icon": "wrench and screwdriver",
             "level" : 15  
         },
         {   
-            "desc" : "3D Model something and upload it under an Open Source licence",
+            "desc" : "Modéliser un objet et le publier sous une licence Open Source",
             "icon": "Open Hardware logo",
             "level" : 16  
         },
         {   
-            "desc" : "Design, print and assemble something with multiples parts",
+            "desc" : "Dessiner, Imprimer et Assembler un objet composé de plusieurs pièces",
             "icon": "3 x 3D Perspective Cube",
             "level" : 16  
         },
         {   
-            "desc" : "Print something in metal or metal-like material",
+            "desc" : "Imprimer avec du métal ou un matériau métallique",
             "icon": "Hammer? ",
             "level" : 16  
         },
         {   
-            "desc" : "Try heat annealing a part to make it stronger",
+            "desc" : "Essayer de recuire une pièce imprimée pour la rendre plus résistante",
             "icon": "thermometer",
             "level" : 16  
         },
         {   
-            "desc" : "Print in Carbon Fibre material",
+            "desc" : "Imprimer avec un matériau chargé en Carbone",
             "icon": "3D print filament",
             "level" : 17  
         },
         {   
-            "desc" : "Recycle filament or failed prints in a creative way",
+            "desc" : "Recycler du filament et des impressions ratées d'une façon originale",
             "icon": "recycle arrows",
             "level" : 17  
         },
         {   
-            "desc" : "Print in Nylon or ASA material",
+            "desc" : "Imprimer avec du Nylon ou de l'ASA",
             "icon": "3D print filament",
             "level" : 17 
         },
         {   
-            "desc" : "Create a customizable model in OpenSCAD",
+            "desc" : "Créer un modèle personnalisable dans OpenSCAD",
             "icon": " ",
             "level" : 18  
         },
         {   
-            "desc" : "Buy a second 3D printer for work, home or makerspace",
+            "desc" : "Acheter une deuxième imprimante pour le travail, la maison ou le makerspace",
             "icon": " ",
             "level" : 18  
         },
         {   
-            "desc" : "Use a different type of 3D printer (eg food, clay, pancake...)",
+            "desc" : "Utiliser une imprimante d'un type spécial (ex chocolat, argile, pâte à crêpe...)",
             "icon": " ",
             "level" : 18 
         },
         {   
-            "desc" : "Make a model in a sculpting software (eg Blender, Z-brush, MudBox, Maya...)",
+            "desc" : "Créer un modèle dans un logiciel de sculpture (ex Blender, Z-brush, MudBox, Maya...)",
             "icon": "Venus de Milo",
             "level" : 18 
         },
         {   
-            "desc" : "Send a file to your printer wirelessely (Octoprint, Astroprint or built-in feature)",
+            "desc" : "Contrôler votre imprimante sans fil (ex Octoprint, Astroprint ou fonctions natives)",
             "icon": " ",
             "level" : 19  
         },
         {   
-            "desc" : "Teach a class on 3D Printing or 3D modelling",
+            "desc" : "Enseigner, préparer un cours sur l'impression ou la modélisation",
             "icon": "teacher and board",
             "level" : 19  
         },
         {   
-            "desc" : "Install and use a nozzle larger or smaller than the standard size",
+            "desc" : "Installer une buse d'extrusion plus petite ou plus large que le format standard",
             "icon": "nozzle",
             "level" : 19  
         },
         {   
-            "desc" : "Create and instructable, hackaday page or Hackster.io page on a project",
+            "desc" : "Créer un Instructable, un Hackaday ou Hackster.io sur un projet",
             "icon": "file with smile",
             "level" : 20  
         },
         {   
-            "desc" : "Create somethinf to address on of the Sustainable Development Goals", 
+            "desc" : "Créer qqchose pour répondre à un des Objectifs de Développement Durable", 
             "icon": "ONU ring",
             "level" : 20  
         },
         {   
-            "desc" : "Set your own goal",
+            "desc" : "Choisis ton objectif",
             "icon": " ",
             "level" : 21  
         }
