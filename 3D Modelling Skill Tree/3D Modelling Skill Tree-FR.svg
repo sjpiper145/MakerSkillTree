@@ -2616,9 +2616,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.52880249"
-     inkscape:cx="361.19345"
-     inkscape:cy="860.43467"
+     inkscape:zoom="2.11521"
+     inkscape:cx="579.84788"
+     inkscape:cy="683.62008"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -4632,42 +4632,45 @@
          id="path2357" />
     </g>
     <g
-       id="g2363"
-       transform="translate(1402.4247,680.3104)"
-       clip-path="url(#clipPath14280)">
-      <path
-         d="M 0,0 5.096,-5.096 H 1 c -0.552,0 -1,0.449 -1,1 z m -8,1.904 c -1.104,0 -2,-0.895 -2,-2 v -18 c 0,-1.105 0.896,-2 2,-2 H 5 c 1.105,0 2,0.895 2,2 v 13.5 c 0,0.265 -0.104,0.519 -0.293,0.707 l -5.5,5.5 C 1.02,1.799 0.766,1.904 0.5,1.904 Z m -5,0 c -1.104,0 -2,-0.895 -2,-2 v -18 c 0,-1.105 0.896,-2 2,-2 h 1.557 c -0.344,0.592 -0.557,1.268 -0.557,2 v 18 c 0,0.733 0.213,1.409 0.557,2 z"
-         style="fill:#110f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path2361" />
-    </g>
-    <text
-       xml:space="preserve"
-       transform="scale(1,-1)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text2371"
-       x="1396.4082"
-       y="-665.33148"><tspan
-         x="1396.4082 1401.4302"
-         y="-665.33148"
-         sodipodi:role="line"
-         id="tspan2369">V2</tspan></text>
-    <g
-       id="g2375"
-       transform="translate(1399.288,665.3315)"
-       clip-path="url(#clipPath33142)">
-      <path
-         d="M 0,0 2.169,6.066 H 1.332 L 0.306,3.069 C 0.036,2.277 -0.216,1.512 -0.387,0.81 H -0.405 C -0.566,1.521 -0.792,2.259 -1.053,3.078 L -1.998,6.066 H -2.844 L -0.864,0 Z"
-         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path2373" />
-    </g>
-    <g
-       id="g2379"
-       transform="translate(1405.5703,665.3315)"
-       clip-path="url(#clipPath33136)">
-      <path
-         d="m 0,0 v 0.657 h -2.628 v 0.018 l 0.469,0.432 c 1.232,1.188 2.015,2.061 2.015,3.141 0,0.837 -0.531,1.701 -1.791,1.701 -0.674,0 -1.251,-0.252 -1.656,-0.594 l 0.252,-0.558 c 0.271,0.225 0.711,0.495 1.242,0.495 0.873,0 1.161,-0.549 1.161,-1.143 C -0.944,3.267 -1.62,2.511 -3.113,1.089 L -3.734,0.486 V 0 Z"
-         style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path2377" />
+       id="g25518">
+      <g
+         id="g2363"
+         transform="translate(1402.4247,680.3104)"
+         clip-path="url(#clipPath14280)">
+        <path
+           d="M 0,0 5.096,-5.096 H 1 c -0.552,0 -1,0.449 -1,1 z m -8,1.904 c -1.104,0 -2,-0.895 -2,-2 v -18 c 0,-1.105 0.896,-2 2,-2 H 5 c 1.105,0 2,0.895 2,2 v 13.5 c 0,0.265 -0.104,0.519 -0.293,0.707 l -5.5,5.5 C 1.02,1.799 0.766,1.904 0.5,1.904 Z m -5,0 c -1.104,0 -2,-0.895 -2,-2 v -18 c 0,-1.105 0.896,-2 2,-2 h 1.557 c -0.344,0.592 -0.557,1.268 -0.557,2 v 18 c 0,0.733 0.213,1.409 0.557,2 z"
+           style="fill:#110f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2361" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2371"
+         x="1396.4082"
+         y="-665.33148"><tspan
+           x="1396.4082 1401.4302"
+           y="-665.33148"
+           sodipodi:role="line"
+           id="tspan2369">V2</tspan></text>
+      <g
+         id="g2375"
+         transform="translate(1399.288,665.3315)"
+         clip-path="url(#clipPath33142)">
+        <path
+           d="M 0,0 2.169,6.066 H 1.332 L 0.306,3.069 C 0.036,2.277 -0.216,1.512 -0.387,0.81 H -0.405 C -0.566,1.521 -0.792,2.259 -1.053,3.078 L -1.998,6.066 H -2.844 L -0.864,0 Z"
+           style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path2373" />
+      </g>
+      <g
+         id="g2379"
+         transform="translate(1405.5703,665.3315)"
+         clip-path="url(#clipPath33136)">
+        <path
+           d="m 0,0 v 0.657 h -2.628 v 0.018 l 0.469,0.432 c 1.232,1.188 2.015,2.061 2.015,3.141 0,0.837 -0.531,1.701 -1.791,1.701 -0.674,0 -1.251,-0.252 -1.656,-0.594 l 0.252,-0.558 c 0.271,0.225 0.711,0.495 1.242,0.495 0.873,0 1.161,-0.549 1.161,-1.143 C -0.944,3.267 -1.62,2.511 -3.113,1.089 L -3.734,0.486 V 0 Z"
+           style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path2377" />
+      </g>
     </g>
     <g
        id="g2383"
