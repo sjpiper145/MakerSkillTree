@@ -1,0 +1,350 @@
+{ "Title": "3D Printing and Modelling", 
+
+   "Skills" : [
+        { 
+            "desc" : "Lancer une première impression",
+            "icon": "Party Pop",
+            "level" : 1
+        },
+        { 
+            "desc" : "Imprimer un cadeau",
+            "icon": "Gift wrap",
+            "level" : 1
+        },
+        {   
+            "desc" : "Apprendre à régler le niveau du plateau manuellement",
+            "icon": "bubble",
+            "level" : 1
+        },
+        {   
+            "desc" : "Imprimer avec du PLA",
+            "icon": "3D print filament",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Utiliser une imprimante FDM pour la première fois",
+            "icon": "3D Printer",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Utiliser une imprimante résine pour la première fois",
+            "icon": "drop",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Imprimer un modèle provenant de Thingiverse",
+            "icon": "Mouse Arrow",
+            "level" : 2  
+        },
+        {   
+            "desc" : "Imprimer un modèle provenant de MyMiniFactory",
+            "icon": "Mouse Arrow",
+            "level" : 3  
+        },
+        {   
+            "desc" : "Imprimer un Benchy ou un Cali cat",
+            "icon": "Benchy boat",
+            "level" : 3  
+        },
+        {   
+            "desc" : "Imprimer un modèle provenant de Cults3D",
+            "icon": "Mouse Arrow",
+            "level" : 3  
+        },
+        {   
+            "desc" : "Imprimer un modèle articulé ou un 'print in place'",
+            "icon": "Dragon head",
+            "level" : 4 
+        },
+        {   
+            "desc" : "Imprimer un modèle provenant de Printables",
+            "icon": "Mouse Arrow",
+            "level" : 3  
+        },
+        {   
+            "desc" : "Générer le modèle avec le Customizer sur Thingiverse",
+            "icon": " ",
+            "level" : 4  
+        },
+        {   
+            "desc" : "Utiliser 3D Builder pour préparer l'impression d'un modèle",
+            "icon": "logo MS 3D Builder",
+            "level" : 4  
+        },
+        {   
+            "desc" : "Imprimer un modèle créé avec TinkerCAD",
+            "icon": "3D Perspective Cube",
+            "level" : 5  
+        },
+        {   
+            "desc" : "Imprimer un modèle créé avec MeshMixer",
+            "icon": "Bunny",
+            "level" : 5  
+        },
+        {   
+            "desc" : "Changer une buse pour la première fois",
+            "icon": "wrench and screwdriver",
+            "level" : 5  
+        },
+        {   
+            "desc" : "Imprimer 10 modèles",
+            "icon": "Brithday cake",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Rater une impression puis la réussir, identifier et résoudre le problème",
+            "icon": "wrench and screwdriver",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Utiliser le mode vase (ou spirale) pour imprimer",
+            "icon": "Vase",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Imprimer une chose fonctionnelle",
+            "icon": "key",
+            "level" : 6  
+        },
+        {   
+            "desc" : "Imprimer avec du PETG",
+            "icon": "3D print filament",
+            "level" : 7  
+        },
+        {   
+            "desc" : "Faire un tirage à chaud - à froid pour déboucher la buse",
+            "icon": "wrench and screwdriver",
+            "level" : 7  
+        },
+        {   
+            "desc" : "Utiliser les supports arborescents pour imprimer",
+            "icon": "tree",
+            "level" : 7  
+        },
+        {   
+            "desc" : "Modifier un modèle existant avant d'imprimer",
+            "icon": "remix arrows",
+            "level" : 8  
+        },
+        {   
+            "desc" : "Modéliser et fabriquer un objet qui résoud un problème",
+            "icon": "Light bulb",
+            "level" : 8 
+        },
+        {   
+            "desc" : "imprimer sur du tissu",
+            "icon": "folded fabric",
+            "level" : 8  
+        },
+        {   
+            "desc" : "s'imprimer un outil",
+            "icon": "wrench and screwdriver",
+            "level" : 8  
+        },
+        {   
+            "desc" : "Créer une lithophanie d'une photo ou d'une image",
+            "icon": "Framed picture",
+            "level" : 9  
+        },
+        {   
+            "desc" : "Intégrer de l'électronique, des aimants ou autre à votre objet",
+            "icon": "LED",
+            "level" : 9  
+        },
+        {   
+            "desc" : "Have a spectacular failure, with lots of spaghettis",
+            "icon": "spaghettis",
+            "level" : 9  
+        },
+        {   
+            "desc" : "Partager un remix d'un modèle 3D",
+            "icon": "remix arrows",
+            "level" : 10  
+        },
+        {   
+            "desc" : "Imprimer avec 2 couleurs ou 2 matériaux",
+            "icon": "3D print filament",
+            "level" : 10  
+        },
+        {   
+            "desc" : "Print in ABS material",
+            "icon": "3D print filament",
+            "level" : 10
+        },
+        {   
+            "desc" : "3D model 10 models",
+            "icon": "Brithday cake",
+            "level" : 10  
+        },
+        {   
+            "desc" : "Teach a friend how to 3D Print",
+            "icon": "two pepole behind one computer",
+            "level" : 11  
+        },
+        {   
+            "desc" : "Créer un modèle dans un logiciel de CAO (ex. Fusion 360, FreeCAD, Solidworks ou autres)",
+            "icon": "3D Perspective Cube",
+            "level" : 11   
+        },
+        {   
+            "desc" : "Print something that requires more than 1kg of filament",
+            "icon": "3D print filament",
+            "level" : 11   
+        },
+        {   
+            "desc" : "Rétro-concevoir un objet dans un logiciel de CAO (ex. Fusion 360, FreeCAD, Solidworks ou autres)",
+            "icon": "3D Perspective Cube",
+            "level" : 12 
+        },
+        {   
+            "desc" : "Print in flexible TPU material",
+            "icon": "3D print filament",
+            "level" : 12
+        },
+        {   
+            "desc" : "Repair something that’s broken with 3D printing",
+            "icon": "wrench and screwdriver",
+            "level" : 12  
+        },
+        {   
+            "desc" : "Visit your local makerspace",
+            "icon": "localisation spot",
+            "level" : 12  
+        },
+        {   
+            "desc" : "Use heat set threaded inserts in a part",
+            "icon": "Screw",
+            "level" : 13 
+        },
+        {   
+            "desc" : "Make a CAD Model of your romm, work or home",
+            "icon": "house",
+            "level" : 13 
+        },
+        {   
+            "desc" : "Vendre un objet que vous avez imprimé en 3D",
+            "icon": "money bag",
+            "level" : 13  
+        },
+        {   
+            "desc" : "Print something that makes a noise",
+            "icon": "whistle",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Iterative design: print something again after making improvements",
+            "icon": " ",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Accidentally break a print while removing support material",
+            "icon": " ",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Try a different Slicing Software",
+            "icon": "Computer and gear",
+            "level" : 14  
+        },
+        {   
+            "desc" : "Try acetone smoothing an ABS printed part",
+            "icon": " ",
+            "level" : 15  
+        },
+        {   
+            "desc" : "Get 3D scanned and print a model of yourself ",
+            "icon": " ",
+            "level" : 15  
+        },
+        {   
+            "desc" : "Mod your 3D printer with something 3D printed",
+            "icon": "wrench and screwdriver",
+            "level" : 15  
+        },
+        {   
+            "desc" : "3D Model something and upload it under an Open Source licence",
+            "icon": "Open Hardware logo",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Design, print and assemble something with multiples parts",
+            "icon": "3 x 3D Perspective Cube",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Print something in metal or metal-like material",
+            "icon": "Hammer? ",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Try heat annealing a part to make it stronger",
+            "icon": "thermometer",
+            "level" : 16  
+        },
+        {   
+            "desc" : "Print in Carbon Fibre material",
+            "icon": "3D print filament",
+            "level" : 17  
+        },
+        {   
+            "desc" : "Recycle filament or failed prints in a creative way",
+            "icon": "recycle arrows",
+            "level" : 17  
+        },
+        {   
+            "desc" : "Print in Nylon or ASA material",
+            "icon": "3D print filament",
+            "level" : 17 
+        },
+        {   
+            "desc" : "Create a customizable model in OpenSCAD",
+            "icon": " ",
+            "level" : 18  
+        },
+        {   
+            "desc" : "Buy a second 3D printer for work, home or makerspace",
+            "icon": " ",
+            "level" : 18  
+        },
+        {   
+            "desc" : "Use a different type of 3D printer (eg food, clay, pancake...)",
+            "icon": " ",
+            "level" : 18 
+        },
+        {   
+            "desc" : "Make a model in a sculpting software (eg Blender, Z-brush, MudBox, Maya...)",
+            "icon": "Venus de Milo",
+            "level" : 18 
+        },
+        {   
+            "desc" : "Send a file to your printer wirelessely (Octoprint, Astroprint or built-in feature)",
+            "icon": " ",
+            "level" : 19  
+        },
+        {   
+            "desc" : "Teach a class on 3D Printing or 3D modelling",
+            "icon": "teacher and board",
+            "level" : 19  
+        },
+        {   
+            "desc" : "Install and use a nozzle larger or smaller than the standard size",
+            "icon": "nozzle",
+            "level" : 19  
+        },
+        {   
+            "desc" : "Create and instructable, hackaday page or Hackster.io page on a project",
+            "icon": "file with smile",
+            "level" : 20  
+        },
+        {   
+            "desc" : "Create somethinf to address on of the Sustainable Development Goals", 
+            "icon": "ONU ring",
+            "level" : 20  
+        },
+        {   
+            "desc" : "Set your own goal",
+            "icon": " ",
+            "level" : 21  
+        }
+]
+}
