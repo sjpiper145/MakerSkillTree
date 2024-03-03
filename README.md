@@ -29,13 +29,12 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/735bcab8-77b4-487d-92e0-98f060946a0b)
 
 
-# Yet to Make (35/60)
-## Classic Skills (15/21)        
+# Yet to Make (37/60)
+## Classic Skills (16/20)        
 ✅ Woodworking                    
 ☐ Blacksmithing                   
 ✅ Metalworking    
-✅ Automotive                     
-☐ Amateur Radio         
+✅ Automotive                         
 ✅ Crafting           
 ✅ Moulding and Casting           
 ☐ Arts            
@@ -46,25 +45,26 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Crochet                                       
 ✅ Knitting                                     
 ✅ Sewing      
-☐ Embroidery        
+✅ Embroidery               
 ☐ Jewellery Making      
 ☐ Ceramics        
 ✅ Renovation & Repair      
 ✅ House Building               
 ✅ Boating & Fishing          
 
-## Tech Skills (12/18)            
-✅ Computing                     
+## Tech Skills (12/20)            
+✅ Computing           
+☐ Amateur Radio     
 ✅ Laser Cutting      ✅ French Translation           
 ✅ Electronics   
 ✅ PCB Design                    
 ✅ Dev Boards          
 ☐ Coding      ✅ Mini Coding Tree             
 ✅ Linux                         
-☐ Robotics          
+🟧 Robotics     (In Progress - 80% Done)     
 ✅ 3D Printing    
 ✅ CNC & CAM       
-✅ 3D Modelling                
+✅ 3D Modelling       ✅ French Translation       
 ✅ Embedded Systems                          
 ✅ IT Security                            
 ☐ Website Building              
@@ -72,8 +72,9 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Mobile App Dev & AR                         
 ☐ AI & Machine Learning   
 ☐ Research Skills    
+☐ Gaming                
 
-## Life Skills (8/21)           
+## Life Skills (9/20)           
 ✅ Entrepreneurship      
 ☐ Finance          
 ✅ Cooking               
@@ -84,15 +85,14 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅  Gardening                 
 ☐ Animal Care               
 ✅ Travel                         
-☐ Sports / Fitness               
+☐ Sports & Fitness               
 ✅ Adventure                   
 ☐ Backyard Science          
 ✅ Civics & Community                       
-🟧 Language      (In Progress - 60% Done)             
+✅ Language                   
 ☐ Volunteering        
-☐ Healing Nature      
+☐ Environmentalist     
 ☐ Survivalist            
-☐ Gaming                
 ☐ Self Care     
 ☐ Life Admin
 
@@ -133,7 +133,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Releasing an online tutorial on x skill
 
 # Support the Project
-Get skill tree poster digital downloads on the [MakerQueen Shop](https://www.etsy.com/shop/makerqueenau/).
+Get skill tree poster digital downloads on my [website for free](https://www.makerqueen.com.au/freebies) or on the [MakerQueen Shop](https://www.etsy.com/shop/makerqueenau/) if you wish to support the project.
 
 ![Electronics Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/0d05b244-beb6-4c24-ac15-a939fa4af928)
 ![Digital Fabrication Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/fe13cacf-63eb-4880-a40b-6ddff228f422)
