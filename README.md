@@ -105,7 +105,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Roller Derby    
 ✅ Dungeons and Dragons         
 ✅ Comic Artist         
-✅ Cocktails 
+✅ Cocktails       
 ☐ Tabletop Games        
 ☐ Video Games  
 
