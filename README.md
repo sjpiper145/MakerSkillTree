@@ -1,4 +1,4 @@
-# Maker Skill Trees  
+# The Skill Trees Project 
 ![Skill Tree thumbnail-01](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/66825c18-a0fb-4693-87ef-d1eb3c1e22a0)
 
 
