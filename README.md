@@ -68,7 +68,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Embedded Systems                          
 ✅ IT Security                            
 ☐ Website Building              
-☐ Game Design & VR        
+☐ Game Dev         
 ✅ Mobile App Dev & AR                         
 ☐ AI & Machine Learning   
 ☐ Research Skills    
