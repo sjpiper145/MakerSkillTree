@@ -31,70 +31,70 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 
 # Yet to Make (38/60)
 ## Classic Skills (16/20)        
-✅ Woodworking                    
-☐ Blacksmithing                   
-✅ Metalworking    
-✅ Automotive                         
-✅ Crafting           
-✅ Moulding and Casting           
-☐ Arts            
-✅ Music   
-✅ Dance     
-✅ Photography / Videography     
-✅ Reading & Writing                
-✅ Crochet                                       
-✅ Knitting                                     
-✅ Sewing      
-✅ Embroidery               
-☐ Jewellery Making      
+☐ Arts 
+✅ Automotive                
+☐ Blacksmithing    
+✅ Boating & Fishing  
 ☐ Ceramics        
+✅ Crafting           
+✅ Crochet            
+✅ Dance  
+✅ Embroidery               
+✅ House Building      
+☐ Jewellery Making      
+✅ Knitting                           
+✅ Metalworking    
+✅ Moulding and Casting           
+✅ Music   
+✅ Photography / Videography     
+✅ Reading & Writing        
 ✅ Renovation & Repair      
-✅ House Building               
-✅ Boating & Fishing          
+✅ Sewing      
+✅ Woodworking 
 
 ## Tech Skills (13/20)            
-✅ Computing           
-☐ Amateur Radio     
-✅ Laser Cutting      ✅ French Translation           
-✅ Electronics   
-✅ PCB Design                    
-✅ Dev Boards          
-☐ Coding      ✅ Mini Coding Tree             
-✅ Linux                         
-✅ Robotics            
-✅ 3D Printing    ✅ French Translation         
-✅ CNC & CAM       
 ✅ 3D Modelling       ✅ French Translation       
-✅ Embedded Systems                          
-✅ IT Security                            
-☐ Website Building              
-☐ Game Dev         
-✅ Mobile App Dev & AR                         
+✅ 3D Printing    ✅ French Translation         
 ☐ AI & Machine Learning   
+☐ Amateur Radio     
+✅ CNC & CAM       
+☐ Coding      ✅ Mini Coding Tree             
+✅ Computing           
+✅ Dev Boards          
+✅ Electronics   
+✅ Embedded Systems     
+☐ Game Dev         
+☐ Gaming        
+✅ IT Security                            
+✅ Laser Cutting      ✅ French Translation           
+✅ Linux               
+✅ PCB Design      
+✅ Mobile App Dev & AR            
 ☐ Research Skills    
-☐ Gaming                
+✅ Robotics      
+☐ Website Building              
 
 ## Life Skills (9/20)           
-✅ Entrepreneurship      
-☐ Finance          
-✅ Cooking               
-✅ Baking          
-🟧 Fermenting & Preservation (In Progress - 50% Done)          
-☐ Drinks      
-✅ Cleaning                          
-✅  Gardening                 
-☐ Animal Care               
-✅ Travel                         
-☐ Sports & Fitness               
-✅ Adventure                   
+✅ Adventure         
+☐ Animal Care        
 ☐ Backyard Science          
+✅ Baking      
 ✅ Civics & Community                       
-✅ Language                   
-☐ Volunteering        
+✅ Cleaning                 
+✅ Cooking               
+☐ Drinks      
+✅ Entrepreneurship     
 ☐ Environmentalist     
-☐ Survivalist            
-☐ Self Care     
-☐ Life Admin
+☐ Finance          
+🟧 Fermenting & Preservation (In Progress - 50% Done)          
+✅  Gardening                 
+✅ Language            
+☐ Life Admin      
+☐ Self Care   
+☐ Sports & Fitness               
+☐ Survivalist        
+✅ Travel         
+☐ Volunteering        
 
 ## Other Niche Areas                         
 ✅  STEAM Skills         
