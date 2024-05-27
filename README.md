@@ -72,7 +72,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Mobile App Dev & AR            
 ☐ Research Skills    
 ✅ Robotics      
-☐ Website Building              
+🟧 Website Building  (In Progress - 50% Done)                 
 
 ## Life Skills (10/20)           
 ✅ Adventure         
