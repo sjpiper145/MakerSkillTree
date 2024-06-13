@@ -145,10 +145,13 @@ Get skill tree poster digital downloads on my [website for free](https://www.mak
 ![Electronics Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/0d05b244-beb6-4c24-ac15-a939fa4af928)
 ![Digital Fabrication Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/fe13cacf-63eb-4880-a40b-6ddff228f422)
 
-# Watch my Talk at the Open Hardware Summit
+# Skill Trees In the Media
+## Skill Trees Asynchronous Presentation at the Open Hardware Summit 2024
 [![image](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/ea416c43-2179-4919-9aeb-6e45cf4516cd)](https://www.youtube.com/watch?v=gB10vAvSiMU&ab_channel=TheOpenSourceHardwareAssociation)
 
 [Watch my talk on the Skill Trees Project](https://www.youtube.com/watch?v=gB10vAvSiMU&ab_channel=TheOpenSourceHardwareAssociation)
+
+[Hackaday Article - Maker Skill Trees Help You Level Up Your Craft](https://hackaday.com/2024/06/11/maker-skill-trees-help-you-level-up-your-craft/)
 
 # Example Skill Trees
 
