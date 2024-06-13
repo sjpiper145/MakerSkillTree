@@ -96,7 +96,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Travel         
 ☐ Volunteering        
 
-## Other Niche Areas                         
+## Other Niche Areas & Suggestions                         
 ✅  STEAM Skills         
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
@@ -106,8 +106,14 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Dungeons and Dragons         
 ✅ Comic Artist         
 ✅ Cocktails       
-☐ Tabletop Games        
+☐ Tabletop Games            
 ☐ Video Games  
+☐ Leatherworking    
+☐ Bushcraft    
+☐ Foraging    
+☐ Biology Experiments    
+☐ Vintage Computing    
+☐ Social Skills    
 
 Got a suggestion for a new skill tree, or feedback on an existing tree?  Use the [suggestion box form](https://forms.office.com/r/0LdRzGZ2pK).                 
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and help me put something together a skill tree for the repository, or can assist in translating the sheets into different languages I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au 
@@ -139,11 +145,14 @@ Get skill tree poster digital downloads on my [website for free](https://www.mak
 ![Electronics Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/0d05b244-beb6-4c24-ac15-a939fa4af928)
 ![Digital Fabrication Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/fe13cacf-63eb-4880-a40b-6ddff228f422)
 
-[Watch my talk on the Skill Trees Project](https://youtu.be/6fygx-TUxs4) 
+#Watch my Talk at the Open Hardware Summit
+![image](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/ea416c43-2179-4919-9aeb-6e45cf4516cd)
+
+[Watch my talk on the Skill Trees Project](https://www.youtube.com/watch?v=gB10vAvSiMU&ab_channel=TheOpenSourceHardwareAssociation)
 
 # Example Skill Trees
 
-[![3D Printing and Modelling Skill Tree-01](3D%20Printing%20and%20Modelling%20Skill%20Tree/3D%20Printing%20and%20Modelling%20Skill%20Tree.png)](3D%20Printing%20and%20Modelling%20Skill%20Tree/3D%20Printing%20and%20Modelling%20Skill%20Tree.pdf)
+![3D Printing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/ba370d5f-2abe-4bf1-8ca4-329fd83ed2d4)
 [![Sewing Skill Tree](Sewing%20Skill%20Tree/Sewing%20Skill%20Tree.png)](Sewing%20Skill%20Tree/Sewing%20Skill%20Tree.pdf)
 [![Embedded Systems Skill Tree](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.png)](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.pdf)
 [![Woodworking Skill Tree](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.png)](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.pdf)
