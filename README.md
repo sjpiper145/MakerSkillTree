@@ -17,11 +17,14 @@ Other fonts used:
 Templates include Adobe Illustrator and PDF files.  
 
 # Usage Ideas
-- Individual goal tracking / upskilling  #skilltreechallenge
+
+- Individual goal tracking and upskilling, identifying skill gaps  #skilltreechallenge
 - For makerspace members to upskill on a variety of tools
 - For training new staff members on skills
 - For school students working on self-directed activities (See Kids STEAM Skills tree)
 - For recruitment / competency checking
+
+It's encouraged to customize these base skill trees around your own interests and goals.  You may edit these PDFs to suit or use tile stickers to cover the boxes on a printed template.  You can cut your own tile stickers with a vinyl cutter using the Tile Stickers Template SVG (in the templates folder).  
 
 # Skill Seeker Book
 I'm working on a book with an expansive range of skill trees, plus great tools to track your progress, earn achievement badges and calculate your life XP score across all areas.  [Get notified when the book is available.](https://www.makerqueen.com.au/skill-trees-1) 
