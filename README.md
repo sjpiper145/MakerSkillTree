@@ -66,7 +66,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Dev Boards          
 ✅ Electronics   
 ✅ Embedded Systems     
-☐ Game Dev         
+🟧 Game Dev  (In Progress - 80% Done)             
 ☐ Gaming        
 ✅ IT Security                            
 ✅ Laser Cutting      ✅ French Translation           
