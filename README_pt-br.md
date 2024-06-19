@@ -34,92 +34,92 @@ Estou trabalhando em um livro com uma ampla gama de árvores de habilidades, al�
 
 # Ainda a Fazer (40/60)
 ## Habilidades Clássicas (16/20)
-☐ Artes
-✅ Automotivo
-☐ Ferraria
-✅ Navegação & Pesca
-☐ Cerâmica
-✅ Artesanato
-✅ Crochê
-✅ Dança
-✅ Bordado
-✅ Construção de Casas
-☐ Fabricação de Joias
-✅ Tricô
-✅ Metalurgia
-✅ Moldagem e Fundição
-✅ Música
-✅ Fotografia / Videografia
-✅ Leitura & Escrita
-✅ Renovação & Reparos
-✅ Costura
-✅ Marcenaria
+☐ Artes  
+✅ Automotivo  
+☐ Ferraria  
+✅ Navegação & Pesca  
+☐ Cerâmica  
+✅ Artesanato  
+✅ Crochê  
+✅ Dança  
+✅ Bordado  
+✅ Construção de Casas  
+☐ Fabricação de Joias  
+✅ Tricô  
+✅ Metalurgia  
+✅ Moldagem e Fundição  
+✅ Música  
+✅ Fotografia / Videografia  
+✅ Leitura & Escrita  
+✅ Renovação & Reparos  
+✅ Costura  
+✅ Marcenaria  
 
 ## Habilidades Técnicas (14/20)
-✅ Modelagem 3D
-✅ Impressão 3D
-☐ IA & Aprendizado de Máquina
-☐ Rádio Amador
-✅ CNC & CAM
-☐ Codificação    ✅ Mini Árvore de Codificação
-✅ Computação
-✅ Placas de Desenvolvimento
-✅ Eletrônica
-✅ Sistemas Embarcados
-🟧 Desenvolvimento de Jogos (Em Progresso - 80% Concluído)
-☐ Jogos
-✅ Segurança de TI
-✅ Corte a Laser      ✅ Tradução para o Francês   
-✅ Linux
-✅ Design de PCB
-✅ Desenvolvimento de Aplicativos Móveis & AR
-☐ Habilidades de Pesquisa
-✅ Robótica
-✅ Construção de Websites
+✅ Modelagem 3D ✅ Tradução para o francês
+✅ Impressão 3D ✅ Tradução para o francês
+☐ IA & Aprendizado de Máquina  
+☐ Rádio Amador  
+✅ CNC & CAM  
+☐ Codificação    ✅ Mini Árvore de Codificação  
+✅ Computação  
+✅ Placas de Desenvolvimento  
+✅ Eletrônica  
+✅ Sistemas Embarcados  
+🟧 Desenvolvimento de Jogos (Em Progresso - 80% Concluído)  
+☐ Jogos  
+✅ Segurança de TI  
+✅ Corte a Laser  ✅ Tradução para o francês   
+✅ Linux  
+✅ Design de PCB  
+✅ Desenvolvimento de Aplicativos Móveis & AR  
+☐ Habilidades de Pesquisa  
+✅ Robótica  
+✅ Construção de Websites  
 
 # Habilidades para a Vida (10/20)
-✅ Aventura
-☐ Cuidados com Animais
-☐ Ciência no Quintal
-✅ Panificação
-✅ Civismo & Comunidade
-✅ Limpeza
-✅ Cozinha
-☐ Bebidas
-✅ Empreendedorismo
-☐ Ambientalista
-☐ Finanças
-🟧 Fermentação & Conservação (Em Progresso - 50% Concluído)
-✅ Jardinagem
-✅ Idiomas
-☐ Administração da Vida
-☐ Autocuidado
-✅ Esportes & Fitness
-☐ Sobrevivência
-✅ Viagens
-☐ Voluntariado
+✅ Aventura  
+☐ Cuidados com Animais  
+☐ Ciência no Quintal  
+✅ Panificação  
+✅ Civismo & Comunidade  
+✅ Limpeza  
+✅ Cozinha  
+☐ Bebidas  
+✅ Empreendedorismo  
+☐ Ambientalista  
+☐ Finanças  
+🟧 Fermentação & Conservação (Em Progresso - 50% Concluído)  
+✅ Jardinagem  
+✅ Idiomas  
+☐ Administração da Vida  
+☐ Autocuidado  
+✅ Esportes & Fitness  
+☐ Sobrevivência  
+✅ Viagens  
+☐ Voluntariado  
 
 # Outras Áreas Específicas & Sugestões
-✅ Habilidades STEAM
-✅ Explorar um Makerspace
-  ✅ Makerspace com Impressora 3D, Scanner 3D, Cortador de Vinil e Bancada de Eletrônica
-  ✅ Makerspace com Impressora 3D, Scanner 3D, Cortador de Vinil, Cortador a Laser e Bancada de Eletrônica
-✅ Impressão 3D e Modelagem 3D (Agora divididas em áreas individuais)
-✅ Roller Derby
-✅ Dungeons and Dragons
-✅ Artista de Quadrinhos
-✅ Coquetéis
-☐ Jogos de Tabuleiro
-☐ Videogames
-☐ Trabalhos em Couro
-☐ Técnicas de Sobrevivência na Selva
-☐ Forrageamento
-☐ Experimentos de Biologia
-☐ Computação Vintage
-☐ Habilidades Sociais
-☐ Escalada
-☐ Tecelagem
-☐ Software de Orquestração (Kubernetes e Outros)
+✅ Habilidades STEAM  
+✅ Explorar um Makerspace  
+  ✅ Makerspace com Impressora 3D, Scanner 3D, Cortador de Vinil e Bancada de Eletrônica  
+  ✅ Makerspace com Impressora 3D, Scanner 3D, Cortador de Vinil, Cortador a Laser e Bancada de Eletrônica  
+✅ Impressão 3D e Modelagem 3D (Agora divididas em áreas individuais)  
+✅ Roller Derby  
+✅ Dungeons and Dragons  
+✅ Artista de Quadrinhos  
+✅ Coquetéis  
+☐ Jogos de Tabuleiro  
+☐ Videogames  
+☐ Trabalhos em Couro  
+☐ Técnicas de Sobrevivência na Selva  
+☐ Forrageamento  
+☐ Experimentos de Biologia  
+☐ Computação Vintage  
+☐ Habilidades Sociais  
+☐ Escalada  
+☐ Tecelagem  
+☐ Software de Orquestração (Kubernetes e Outros)  
 
 Tem uma sugestão para uma nova árvore de habilidades ou feedback sobre uma árvore existente? Use o [formulário de sugestão](https://forms.office.com/r/0LdRzGZ2pK). Interessado em ajudar a criar uma dessas? Ou mesmo algo que não está na lista? Envie seu rascunho e eu posso colocá-lo no modelo, ou podemos fazer uma hora de brainstorming para preenchê-lo. Se você é um especialista e me ajuda a montar uma árvore de habilidades para o repositório, ou pode ajudar a traduzir as folhas para diferentes idiomas, eu adoraria enviar uma caixa de brindes da minha [loja online](https://www.etsy.com/au/shop/makerqueenau) como agradecimento. Me informe se está interessado, email: steph@makerqueen.com.au
 
