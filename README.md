@@ -159,6 +159,8 @@ Get skill tree poster digital downloads on my [website for free](https://www.mak
 
 [Hackaday Article - Maker Skill Trees Help You Level Up Your Craft](https://hackaday.com/2024/06/11/maker-skill-trees-help-you-level-up-your-craft/)
 
+[Adafruit Blog - The Maker Skill Trees Project](https://blog.adafruit.com/2024/06/18/the-maker-skill-trees-project/)
+
 # Example Skill Trees
 
 ![3D Printing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/ba370d5f-2abe-4bf1-8ca4-329fd83ed2d4)
