@@ -32,7 +32,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Book Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/735bcab8-77b4-487d-92e0-98f060946a0b)
 
 
-# Yet to Make (40/60)
+# Yet to Make (41/60)
 ## Classic Skills (16/20)        
 ☐ Arts       
 ✅ Automotive                
@@ -55,7 +55,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Sewing      
 ✅ Woodworking 
 
-## Tech Skills (14/20)            
+## Tech Skills (15/20)            
 ✅ 3D Modelling       ✅ French Translation       
 ✅ 3D Printing    ✅ French Translation         
 ☐ AI & Machine Learning   
@@ -66,7 +66,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Dev Boards          
 ✅ Electronics   
 ✅ Embedded Systems     
-🟧 Game Dev  (In Progress - 80% Done)             
+✅ Game Dev                   
 ☐ Gaming        
 ✅ IT Security                            
 ✅ Laser Cutting      ✅ French Translation           
