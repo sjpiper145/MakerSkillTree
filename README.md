@@ -34,7 +34,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 
 # Yet to Make (41/60)
 ## Classic Skills (16/20)        
-☐ Arts       
+🟧 Visual Arts (In Progress - 60% Done)      
 ✅ Automotive                
 ☐ Blacksmithing    
 ✅ Boating & Fishing  
