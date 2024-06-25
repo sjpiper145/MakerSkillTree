@@ -44,7 +44,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Dance  
 ✅ Embroidery               
 ✅ House Building      
-☐ Jewellery Making      
+☐ Jewelry Making      
 ✅ Knitting                           
 ✅ Metalworking    
 ✅ Moulding and Casting           
@@ -73,7 +73,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Laser Cutting      ✅ French Translation           
 ✅ Linux               
 ✅ PCB Design      
-✅ Mobile App Dev & AR            
+✅ Mobile App Dev             
 ☐ Research Skills    
 ✅ Robotics      
 ✅ Website Building                         
