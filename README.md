@@ -120,7 +120,13 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Social Skills    
 ☐ Climbing    
 ☐ Weaving   
-🟧 Kubernetes (In Progress - 80% Done)           
+🟧 Kubernetes (In Progress - 80% Done)        
+☐ Cooking Skills: National Cuisines
+☐ Mushroom Cultivation
+☐ Insect Breeding
+☐ Urban Gardening
+☐ School Summer Camp Planning
+☐ School Event Organization
 
 Got a suggestion for a new skill tree, or feedback on an existing tree?  Use the [suggestion box form](https://forms.office.com/r/0LdRzGZ2pK).                 
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and help me put something together a skill tree for the repository, or can assist in translating the sheets into different languages I'd love to send you a box of goodies from my [online store](https://www.etsy.com/au/shop/makerqueenau) to say thanks.  Let me know if you're interested, email: steph@makerqueen.com.au 
