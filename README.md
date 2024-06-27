@@ -16,7 +16,7 @@ Other fonts used:
 
 Templates include Adobe Illustrator and PDF files.  
 
-# Create your own Templates
+# Skill Tree Generator
 You can now make your own skill tree templates with the web app designed by the talented [@schme16](https://github.com/schme16).  It's now a lot easier to make your own templates for personal use or adding to the repository.
 
 [Visit the Web app here](https://schme16.github.io/MakerSkillTree-Generator/)
