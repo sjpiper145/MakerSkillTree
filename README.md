@@ -16,6 +16,18 @@ Other fonts used:
 
 Templates include Adobe Illustrator and PDF files.  
 
+# Create your own Templates
+You can now make your own skill tree templates with the web app designed by the talented [@schme16](https://github.com/schme16).  It's now a lot easier to make your own templates for personal use or adding to the repository.
+
+[Visit the Web app here](https://schme16.github.io/MakerSkillTree-Generator/)
+
+How to use:
+- Heading text is editable
+- Click and drag to move the tiles
+- Right click a tile to edit the text
+- Save will download an SVG of the skill tree
+- Left click to edit credit at the base to add your own name, or remove my name if you're just using for personal use (or don't want me to proof read/edit it). 
+
 # Usage Ideas
 
 - Individual goal tracking and upskilling, identifying skill gaps  #skilltreechallenge
