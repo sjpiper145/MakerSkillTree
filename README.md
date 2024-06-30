@@ -132,7 +132,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Social Skills    
 ☐ Climbing    
 ☐ Weaving   
-🟧 Kubernetes (In Progress - 80% Done)        
+✅ Kubernetes               
 ☐ Cooking Skills: National Cuisines      
 ☐ Mushroom Cultivation      
 ☐ Insect Breeding      
