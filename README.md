@@ -1,6 +1,6 @@
 # The Skill Trees Project 
-![Skill Tree thumbnail-01](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/66825c18-a0fb-4693-87ef-d1eb3c1e22a0)
 
+![Maker Skill Tree Banner-48](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/53d12889-fc08-4b32-92b6-d96271200a7e)
 
 Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Colour in the boxes as you go and get inspired to try new things.  This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.
 
