@@ -121,7 +121,9 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Roller Derby    
 ✅ Dungeons and Dragons         
 ✅ Comic Artist         
-✅ Cocktails       
+✅ Cocktails     
+✅ Kubernetes   
+✅ Scratch   
 ☐ Tabletop Games            
 ☐ Video Games  
 ☐ Leatherworking    
@@ -131,8 +133,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Vintage Computing    
 ☐ Social Skills    
 ☐ Climbing    
-☐ Weaving   
-✅ Kubernetes               
+☐ Weaving             
 ☐ Cooking Skills: National Cuisines      
 ☐ Mushroom Cultivation      
 ☐ Insect Breeding      
