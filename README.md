@@ -72,7 +72,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ 3D Modelling       ✅ French Translation       
 ✅ 3D Printing    ✅ French Translation         
 ☐ AI & Machine Learning   
-☐ Amateur Radio     
+🟧 Amateur Radio  (In Progress - 60% Done)    
 ✅ CNC & CAM       
 ☐ Coding      ✅ Mini Coding Tree             
 ✅ Computing           
