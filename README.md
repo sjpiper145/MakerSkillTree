@@ -102,7 +102,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Entrepreneurship     
 ☐ Environmentalist     
 ☐ Finance          
-🟧 Fermenting & Preservation (In Progress - 50% Done)          
+☐ Fermenting & Preservation             
 ✅  Gardening                 
 ✅ Language            
 ☐ Life Admin      
