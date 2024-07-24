@@ -44,8 +44,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Both Books Render-01](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/62ee5676-7747-4b01-aa1e-aeae7105c7ca)
 
 
-# Yet to Make (42/60)
-## Classic Skills (16/20)        
+# Yet to Make (43/60)
+## Classic Skills (17/20)        
    
 ✅ Automotive                
 ☐ Blacksmithing    
@@ -65,7 +65,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Reading & Writing        
 ✅ Renovation & Repair      
 ✅ Sewing    
-🟧 Visual Arts (In Progress - 60% Done)   
+✅ Visual Arts     
 ✅ Woodworking 
 
 ## Tech Skills (16/20)            
