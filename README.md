@@ -140,8 +140,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Urban Gardening      
 ☐ School Summer Camp Planning    
 ☐ School Event Organization    
-☐ Australian Professional Standards for Teachers (https://www.aitsl.edu.au/standards/graduate)
-☐ Minecraft     (See open issue #19 to submit ideas)
+☐ Australian Professional Standards for Teachers (https://www.aitsl.edu.au/standards/graduate)          
+☐ Minecraft     (See open issue #19 to submit ideas)        
 
 Got a suggestion for a new skill tree, or feedback on an existing tree?  Use the [suggestion box form](https://forms.office.com/r/0LdRzGZ2pK).                 
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and help me put something together a skill tree for the repository, or can assist in translating the sheets into different languages I'd love to hear from you.  Let me know if you're interested, email: steph@makerqueen.com.au 
