@@ -41,8 +41,7 @@ It's encouraged to customize these base skill trees around your own interests an
 # Skill Seeker Book
 I'm working on a book with an expansive range of skill trees, plus great tools to track your progress, earn achievement badges and calculate your life XP score across all areas.  [Get notified when the book is available.](https://www.makerqueen.com.au/skill-trees-1) 
 
-![Both Books Render-01](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/62ee5676-7747-4b01-aa1e-aeae7105c7ca)
-
+![Both Books Render-01-01](https://github.com/user-attachments/assets/96914235-c8f5-47d4-873b-5e7acc8fc825)
 
 # Yet to Make (44/60)
 ## Classic Skills (17/20)        
