@@ -150,10 +150,12 @@ Interested in helping put one of these together? Or even something that's not on
 Use the template pack in the files, including PNG / PDF and AI files to fill in with your software of choice.  If you've filled it in, I'm happy to polish it with custom icons and release it in this repository.   
 
 My aim with the skill trees is: 
+
 - Modern, relevant and ordered correctly from basics at the base to advanced at the top
 - flexible with goals rather than too specific, everyone's journey is different
 - Inspiring to try new things rather than completionist
 - Include options for tools that aren't cost / availability restrictive
+- Ideally, globally applicable - I am not based in the USA
 
 With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prompt ideas, I usually include the following:
 - What's the first few things you do in this skill?
