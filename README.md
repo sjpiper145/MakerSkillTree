@@ -174,6 +174,13 @@ If you've spotted something that could be improved in a Skill Tree, I'd love to 
 
 ![2024-07-24 18 25 18](https://github.com/user-attachments/assets/5e03c01a-6503-4495-93af-75d98e5ebcf0)
 
+# FAQ
+
+**Were these made with AI?**           
+No, these were made in collaboration with experts or using my own expertise, without any AI usage.  You can see the author credits at the base of each tree. Every expert has different experiences and I'm hoping to build a community on here and get many experts to proofread and peer review these trees to polish them into their best versions. 
+
+**Will you keep the 'Skill Trees' name when they aren't really traditional skill trees?**               
+While these templates are skill tree inspired, I'm working on some new name ideas, potentially 'Skill Trackers' or something else.  Any suggestions appreciated!
 
 
 # Support the Project
