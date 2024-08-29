@@ -6,7 +6,7 @@ Maker Skill Trees are printable templates that can guide and track hands-on skil
 
 Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Under the templates section, there's also a smaller Mini Skill Tree template with only 40 tiles.  Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) .  You are free to share, adapt, remix or transform the printables or templates for non-commercial purposes.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  I'm looking at releasing a book with all these compiled when all trees are complete.
 
-Open Source – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Open Educational Resource (OER) – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Header font used: [Hansief](https://www.dafont.com/hansief.font)               
 Other fonts used:
