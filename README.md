@@ -141,6 +141,8 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ School Event Organization    
 ☐ Australian Professional Standards for Teachers (https://www.aitsl.edu.au/standards/graduate)          
 ☐ Minecraft     (See open issue #19 to submit ideas)        
+☐ Juggling      
+☐ Mechanical Aptitude - Simple systems (Gearing, levers, pullies) up to complex machines
 
 Got a suggestion for a new skill tree, or feedback on an existing tree?  Use the [suggestion box form](https://forms.office.com/r/0LdRzGZ2pK).  None of the info in these was compiled by AI, but rather through working with experts. These trees are currently not final and I'm actively seeking feedback and peer review to polish and refine the content.            
 Interested in helping put one of these together? Or even something that's not on the list? Send through your draft and I can put it in the template, or we can do a brainstorm hour to fill it in.  If you're an expert and help me put something together a skill tree for the repository, or can assist in translating the sheets into different languages I'd love to hear from you.  Let me know if you're interested, email: steph@makerqueen.com.au 
