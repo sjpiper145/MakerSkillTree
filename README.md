@@ -2,7 +2,7 @@
 
 ![Maker Skill Tree Banner-48](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/53d12889-fc08-4b32-92b6-d96271200a7e)
 
-Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Colour in the boxes as you go and get inspired to try new things.  This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.
+Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Color in the boxes as you go and get inspired to try new things.  This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.  This project is collaborative and aims to refine and grow these resources through community involvement.
 
 Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Under the templates section, there's also a smaller Mini Skill Tree template with only 40 tiles.  Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) .  You are free to share, adapt, remix or transform the printables or templates for non-commercial purposes.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  I'm looking at releasing a book with all these compiled when all trees are complete.
 
@@ -15,6 +15,12 @@ Other fonts used:
   - Icons from [Icons8](https://icons8.com/), and some self-made
 
 Templates include Adobe Illustrator and PDF files.  
+
+# How to use
+
+Print out the skill tree and, starting at the base, color in the boxes of anything you've already done. Use the template to visualise your current skills and identify any skill gaps. You may wish to use the below coloring convention to tailor the tree to your own journey, and there are sticker templates available (under templates folder) if you wish to make goal replacement stickers on a vinyl cutter.  Think of the tiles as suggestions that can be changed based on your priorities and ability.  
+
+![Skill Seeker Makers Edition Illustrator Assets-17](https://github.com/user-attachments/assets/13910bac-0e2d-4ae9-8f60-b0d5a28d25ce)
 
 # Skill Tree Generator
 You can now make your own skill tree templates with the web app designed by the talented [@schme16](https://github.com/schme16).  It's now a lot easier to make your own templates for personal use or adding to the repository.
