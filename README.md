@@ -18,7 +18,7 @@ Templates include Adobe Illustrator and PDF files.
 
 # How to use
 
-Print out the skill tree and, starting at the base, color in the boxes of anything you've already done. Use the template to visualise your current skills and identify any skill gaps. You may wish to use the below coloring convention to tailor the tree to your own journey, and there are sticker templates available (under templates folder) if you wish to make goal replacement stickers on a vinyl cutter.  Think of the tiles as suggestions that can be changed based on your priorities and ability.  
+Print out your chosen template or use the template digitally. Start at the base and color in the boxes of anything you've already done. Use the template to visualise your current skills and identify any skill gaps. You may wish to use the below coloring convention to tailor the tree to your own journey, and there are sticker templates available (under templates folder) if you wish to make goal replacement stickers on a vinyl cutter.  Think of the tiles as suggestions that can be changed based on your priorities and ability.  
 
 ![Skill Seeker Makers Edition Illustrator Assets-17](https://github.com/user-attachments/assets/13910bac-0e2d-4ae9-8f60-b0d5a28d25ce)
 
