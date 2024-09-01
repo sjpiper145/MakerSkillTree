@@ -129,7 +129,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Cocktails     
 ✅ Kubernetes   
 ✅ Scratch   
-🟧 Astronomy (50% Done - In Progress)
+🟧 Astronomy (50% Done - In Progress)          
 ☐ Tabletop Games            
 ☐ Video Games  
 ☐ Leatherworking    
