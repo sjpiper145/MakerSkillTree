@@ -49,7 +49,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 
 ![Both Books Render-01-01](https://github.com/user-attachments/assets/96914235-c8f5-47d4-873b-5e7acc8fc825)
 
-# Yet to Make (44/60)
+# Yet to Make (45/60)
 ## Classic Skills (17/20)        
    
 ✅ Automotive                
@@ -95,7 +95,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Robotics      
 ✅ Website Building                         
 
-## Life Skills (10/20)           
+## Life Skills (11/20)           
 ✅ Adventure         
 ☐ Animal Care        
 ☐ Backyard Science          
@@ -106,14 +106,14 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ☐ Drinks      
 ✅ Entrepreneurship     
 ☐ Environmentalist     
-☐ Finance          
+🟧 Finance      (50% Done - In Progress)            
 ☐ Fermenting & Preservation             
 ✅  Gardening                 
 ✅ Language            
 ☐ Life Admin      
 ☐ Self Care   
 ✅ Sports & Fitness               
-☐ Survivalist        
+✅ Survivalist        
 ✅ Travel         
 ☐ Volunteering        
 
@@ -129,6 +129,7 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ✅ Cocktails     
 ✅ Kubernetes   
 ✅ Scratch   
+🟧 Astronomy (50% Done - In Progress)
 ☐ Tabletop Games            
 ☐ Video Games  
 ☐ Leatherworking    
