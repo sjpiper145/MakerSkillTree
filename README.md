@@ -2,9 +2,9 @@
 
 ![Maker Skill Tree Banner-48](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/53d12889-fc08-4b32-92b6-d96271200a7e)
 
-Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Color in the boxes as you go and get inspired to try new things.  This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.  This project is collaborative and aims to refine and grow these resources through community involvement.
+Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Color in the boxes as you go and get inspired to try new things. Visuallise your skills so far and identify any skill gaps you might have. This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.  This project is collaborative and aims to refine and grow these resources through community involvement.
 
-Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests. Under the templates section, there's also a smaller Mini Skill Tree template with only 40 tiles.  Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) .  You are free to share, adapt, remix or transform the printables or templates for non-commercial purposes.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  I'm looking at releasing a book with all these compiled when all trees are complete.
+Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests.   Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) .  You are free to share, adapt, remix or transform the printables or templates for non-commercial purposes.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  
 
 Open Educational Resource (OER) – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -50,72 +50,81 @@ I'm working on a book with an expansive range of skill trees, plus great tools t
 ![Both Books Render-01-01](https://github.com/user-attachments/assets/96914235-c8f5-47d4-873b-5e7acc8fc825)
 
 # Yet to Make (45/60)
+
+There's been a lot of great interest in translating the trees into different languages.  To save re-edits, a skill tree must progress through two rounds of expert peer review before translation.  You can contribute to this repository by reviewing skill trees as an expert peer reviewer, contributing ideas, submitting completed skill trees or contributing language translations after peer review. See below for more info on how to submit a peer review.
+
 ## Classic Skills (17/20)        
-   
-✅ Automotive                
-☐ Blacksmithing    
-✅ Boating & Fishing  
-☐ Ceramics        
-✅ Crafting           
-✅ Crochet            
-✅ Dance  
-✅ Embroidery               
-✅ House Building      
-☐ Jewelry Making      
-✅ Knitting                           
-✅ Metalworking    
-✅ Moulding and Casting           
-✅ Music   
-✅ Photography / Videography     
-✅ Reading & Writing        
-✅ Renovation & Repair      
-✅ Sewing    
-✅ Visual Arts     
-✅ Woodworking 
+|Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
+|---------------|-----------|---------------|--------------|----------|
+|Automotive                  |✅         | ✅       | ☐        |☐      |            
+|Blacksmithing               | ☐         | ☐        | ☐        |☐      |
+|Boating & Fishing           |✅         | ☐        | ☐        |☐      |
+|Ceramics                    |☐          | ☐        | ☐        |☐      |
+|Crafting                    |✅         | ✅       | ☐        |☐      |      
+|Crochet                     |✅         | ☐        | ☐        |☐      |        
+|Dance                       |✅         | ☐        | ☐        |☐      | 
+|Embroidery                  |✅         | ☐        | ☐        |☐      |             
+|House Building              |✅         | ☐        | ☐        |☐      | 
+|Jewelry Making              |☐          | ☐        | ☐        |☐      |    
+|Knitting                    |✅         | ☐        | ☐        |☐      |                     
+|Metalworking                |✅         | ☐        | ☐        |☐      |  
+|Moulding and Casting        | ✅        | ☐        | ☐        | ☐     |  
+|Music                       | ✅        | ☐        | ☐        | ☐     |  
+|Photography & Videography   | ✅        | ☐        | ☐        | ☐     |  
+|Reading & Writing           | ✅        | ☐        | ☐        | ☐     |      
+|Renovation & Repair         | ✅        | ☐        | ☐        | ☐     |     
+|Sewing                      | ✅        | ✅       | ☐        | ☐     | 
+|Visual Arts                 | ✅        | ☐        | ☐        | ☐     |
+|Woodworking                 | ✅        | ✅       | ☐        | ☐     | 
 
-## Tech Skills (17/20)            
-✅ 3D Modelling       ✅ French Translation       
-✅ 3D Printing    ✅ French Translation         
-☐ AI & Machine Learning   
-✅ Amateur Radio            
-✅ CNC & CAM       
-✅ Coding      ✅ Mini Coding Tree             
-✅ Computing           
-✅ Dev Boards          
-✅ Electronics   
-✅ Embedded Systems     
-✅ Game Dev                   
-☐ Gaming        
-✅ IT Security                            
-✅ Laser Cutting      ✅ French Translation           
-✅ Linux               
-✅ PCB Design      
-✅ Mobile App Dev             
-☐ Research Skills    
-✅ Robotics      
-✅ Website Building                         
+## Tech Skills (17/20) 
 
-## Life Skills (11/20)           
-✅ Adventure         
-☐ Animal Care        
-☐ Backyard Science          
-✅ Baking      
-✅ Civics & Community                       
-✅ Cleaning                 
-✅ Cooking               
-☐ Drinks      
-✅ Entrepreneurship     
-☐ Environmentalist     
-🟧 Finance      (50% Done - In Progress)            
-☐ Fermenting & Preservation             
-✅  Gardening                 
-✅ Language            
-☐ Life Admin      
-☐ Self Care   
-✅ Sports & Fitness               
-✅ Survivalist        
-✅ Travel         
-☐ Volunteering        
+|Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
+|---------------|-----------|---------------|--------------|----------|
+|3D Modelling        |✅         | ☐        | ☐        |✅ French   |      
+|3D Printing         |✅         | ☐        | ☐        |✅ French   |
+|AI & Machine Learning |☐        | ☐        | ☐        |☐           |
+|Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
+|CNC & CAM           | ✅        | ✅       | ☐        | ☐          | 
+|Coding              | ✅        | ✅       | ☐        | ☐          |             
+|Computing           | ✅        | ☐        | ☐        | ☐          |            
+|Dev Boards          | ✅        | ☐        | ☐        | ☐          |            
+|Electronics         | ✅        | ✅        | ✅      | ☐          |   
+|Embedded Systems    | ✅        | ✅        | ☐       | ☐          |    
+|Game Dev            | ✅        | ☐        | ☐        | ☐          |                     
+|Gaming              |☐          | ☐        | ☐        |☐           |   
+|IT Security         | ✅        | ☐        | ☐        | ☐          |                          
+|Laser Cutting       |✅         | ☐        | ☐        |✅ French   |
+|Linux               | ✅        | ☐        | ☐        | ☐          |           
+|PCB Design          | ✅        | ☐        | ☐        | ☐          |  
+|Mobile App Dev      | ✅        | ☐        | ☐        | ☐          |             
+|Research Skills     |☐          | ☐        | ☐        | ☐          |   
+|Robotics            | ✅        | ☐        | ☐        | ☐          |   
+|Website Building    | ✅        | ☐        | ☐        | ☐          |                        
+
+## Life Skills (11/20) 
+|Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
+|---------------|-----------|---------------|--------------|----------|
+| Adventure             | ✅        | ☐        | ☐        | ☐          |       
+|Animal Care            |☐          | ☐        | ☐        | ☐          |   
+|Backyard Science       |☐          | ☐        | ☐        | ☐          |        
+|Baking                 | ✅        | ☐        | ☐        | ☐          |   
+|Civics & Community     | ✅        | ☐        | ☐        | ☐          |                        
+|Cleaning               | ✅        | ☐        | ☐        | ☐          |          
+|Cooking                | ✅        | ☐        | ☐        | ☐          |        
+|Drinks (Non Alcoholic) |☐          | ☐        | ☐        | ☐          |      
+|Entrepreneurship       | ✅        | ✅        | ☐       | ☐          |     
+|Environmentalist       |☐          | ☐        | ☐        | ☐          | 
+|Finance             |🟧 In Progress| ☐        | ☐        | ☐          | 
+|Fermenting & Preservatio |☐        | ☐        | ☐        | ☐          |          
+|Gardening              | ✅        | ☐        | ☐        | ☐          |         
+|Language               | ✅        | ☐        | ☐        | ☐          |        
+|Life Admin             |☐          | ☐        | ☐        | ☐          | 
+|Self Care              |☐          | ☐        | ☐        | ☐          | 
+|Sports & Fitness       | ✅        | ☐        | ☐        | ☐          |                 
+|Survivalist            | ✅        | ☐        | ☐        | ☐          |    
+| Travel                | ✅        | ☐        | ☐        | ☐          |    
+| Volunteering          |☐          | ☐        | ☐        | ☐          | 
 
 ## Other Niche Areas & Suggestions                         
 ✅  STEAM Skills         
@@ -158,7 +167,7 @@ Interested in helping put one of these together? Or even something that's not on
 
 Use the template pack in the files, including PNG / PDF and AI files to fill in with your software of choice.  If you've filled it in, I'm happy to polish it with custom icons and release it in this repository.   
 
-My aim with the skill trees is: 
+My aim with these skill trees is: 
 
 - Modern, relevant and ordered correctly from basics at the base to advanced at the top
 - flexible with goals rather than too specific, everyone's journey is different
@@ -178,10 +187,19 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
 
-# Skill Tree Bug Bounties
-If you've spotted something that could be improved in a Skill Tree, I'd love to send you a holographic ｒａｒｅ contributor sticker in the mail to say thanks.  We've each got our own great unique experiences and perspectives in our skill areas and I'd love to draw on our collective knowledge to polish these skill trees into their best versions.  Bug Feedback form: https://forms.office.com/r/eemK9VhJFm
+# Skill Tree Contributor Stickers
+If you've spotted something that could be improved in a Skill Tree, I'd love to send you a holographic ｒａｒｅ contributor sticker in the mail to say thanks.  We've each got our own great unique experiences and perspectives in our skill areas and I'd love to draw on our collective knowledge to polish these skill trees into their best versions.  Bug Feedback form: https://forms.office.com/r/eemK9VhJFm 
 
 ![2024-07-24 18 25 18](https://github.com/user-attachments/assets/5e03c01a-6503-4495-93af-75d98e5ebcf0)
+
+## How to Peer Review
+Peer reviewers must be an expert in the skill area and contribute detailed feedback, including making sure that: 
+- The trees are modern, relevant and technically correct
+- Tiles are not too specific and include more broad options for flexible interpretation (for example, rather than 'build a clock' it could be 'add electronics to a project'.
+- Ordered correctly from basics at the base to advanced at the top
+- Weaker tiles that could be swapped for stronger tiles
+
+If a skill tree has been peer reviewed twice, it is now ready for translation and indicates a high level of confidence in the content.  Peer reviewers may contribute this feedback as an issue in Github with 'Peer review' in the title, and can recieve a contributor sticker in the mail if they wish by completing the bug feedback form above.  
 
 # FAQ
 
@@ -189,7 +207,7 @@ If you've spotted something that could be improved in a Skill Tree, I'd love to 
 No, these were made in collaboration with experts or using my own expertise, without any AI usage.  You can see the author credits at the base of each tree. Every expert has different experiences and I'm hoping to build a community on here and get many experts to proofread and peer review these trees to polish them into their best versions. 
 
 **Will you keep the 'Skill Trees' name when they aren't really traditional skill trees?**               
-While these templates are skill tree inspired, I'm working on some new name ideas, potentially 'Skill Trackers' or something else.  Any suggestions appreciated!
+While these templates are skill tree inspired, I'm working on some new name ideas, potentially 'Skill Trackers', 'Skill Maps' or something else.  Any suggestions appreciated!
 
 
 # Support the Project
@@ -210,11 +228,7 @@ Get skill tree poster digital downloads on my [website for free](https://www.mak
 
 [Skill Tree Web App](https://tinkererway.dev/web_skill_tree) by the talented [@amalmathewtech](https://github.com/amalmathewtech)
 
-# Example Skill Trees
+# Example Skill Tree
+![Electronics Skill Tree](https://github.com/user-attachments/assets/f0c00e2a-ddda-4ac0-95be-357367ea8fe5)
 
-![3D Printing Skill Tree](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/ba370d5f-2abe-4bf1-8ca4-329fd83ed2d4)
-[![Sewing Skill Tree](Sewing%20Skill%20Tree/Sewing%20Skill%20Tree.png)](Sewing%20Skill%20Tree/Sewing%20Skill%20Tree.pdf)
-[![Embedded Systems Skill Tree](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.png)](Embedded%20Systems%20Skill%20Tree/Embedded%20Systems%20Skill%20Tree.pdf)
-[![Woodworking Skill Tree](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.png)](Woodworking%20Skill%20Tree/Woodworking%20Skill%20Tree.pdf)
-[![Maker Skill Tree Template](Template%20Skill%20Tree/Maker%20Skill%20Tree%20Template-03.png)](Template%20Skill%20Tree/Maker%20Skill%20Tree%20Template.pdf)
-[![Mini Maker Skill Tree Template](Template%20Skill%20Tree/Template%20Mini%20Maker%20Skill%20Tree%20x40%20Tiles.png)](Mini%20Maker%20Skill%20Tree%20Template%20x40%20Tiles.pdf)  
+
