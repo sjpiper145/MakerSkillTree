@@ -1,6 +1,7 @@
 #!/bin/env python
-import argparse
 
+import argparse
+import os
 import yaml
 
 
@@ -41,7 +42,8 @@ def save_processed_svg(content, output_path):
 
 
 def main():
-    svg_template_path = "skill_tree_template.svg.j2"
+    script_path = os.path.dirname(os.path.abspath(__file__))
+    svg_template_path = os.path.join(script_path, "skill_tree_template.svg.j2")
 
     parser = argparse.ArgumentParser(description="Process SVG template with YAML data.")
     parser.add_argument("input_yaml", help="Path to input YAML file")
