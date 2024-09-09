@@ -15,6 +15,29 @@ def load_svg_template(file_path):
         return file.read()
 
 
+def make_text_multiline(text: list, length1: int = 18, length2: int = 25) -> str:
+    """Split long one-line strings into multiple-lines strings with a maximum length."""
+
+    # To follow the shape of the hexagon the first line should
+    # be smaller, maybe to 18 characters.
+
+    desired_l = length1  # for line 1
+    processed_str_len = 0
+
+    space_indexes = [i for i, char in enumerate(text) if char == " "]
+    for i in range(1, len(space_indexes)):
+        if space_indexes[i] < desired_l + processed_str_len:
+            # substring fit in the line, keep searching
+            pass
+        else:
+            # substring is greater than permissible length
+            text[space_indexes[i - 1]] = "&#10;"  # break line on previous space
+            desired_l = length2  # for lines 2, 3, 4, ...
+            processed_str_len += space_indexes[i - 1] - 1
+
+    return "".join(text)
+
+
 def process_svg(template, data):
     # Replace title and author
     processed = template.replace("{{ title }}", data["title"])
@@ -30,8 +53,9 @@ def process_svg(template, data):
                 if j >= 5:
                     continue
             value = data["row"][i][j]
+            splitted_string = make_text_multiline(list(value))
             placeholder = f"{{{{ box_{box_number:03d} }}}}"
-            processed = processed.replace(placeholder, str(value))
+            processed = processed.replace(placeholder, splitted_string)
 
     return processed
 
