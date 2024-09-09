@@ -1,0 +1,82 @@
+---
+title: MODELADO 3D
+author: HECHO POR STEVEN MOHR &amp; STEPH PIPER - MAKERQUEEN AU, TRADUCIDO POR HASECILU
+row:
+  0:
+    - Saber cómo comprobar el tamaño en el software 3D
+    - Utilizar herramientas booleanas en software 3D
+    - Crear un modelo en TinkerCAD
+    - Aprender a navegar por una interfaz 3D con panorámica, órbita y zoom
+    - Hacer un modelo de pocos polígonos
+    - Utilizar la herramienta de extrusión en el software 3D
+    - Utilizar la herramienta de revolución en el software 3D
+  1:
+    - Dibujar un croquis detallado con dimensiones antes del modelado 3D
+    - Crear un modelo en MeshMixer
+    - Editar una textura en un software de edición de imágenes
+    - Hacer un esquema 2D de un modelo 3D
+    - Texturizar un objeto de pocos polígonos
+    - Diseñar algo para impresión 3D
+    - Subir una remezcla de un modelo 3D
+  2:
+    - Crear el esqueleto de una grúa con su sistema de cinemática directa/inversa
+    - Crear un modelo 3D a partir de un esquema 2D
+    - Crear una configuración de luz de 3 puntos
+    - Modificar las normales de las aristas para el diseño de una pieza de pocos polígonos
+    - Modelar y crear algo que resuelva un problema
+    - Hacer el desenvolvimiento UV de un objeto de pocos polígonos
+    - Diseñar un modelo personalizado para un amigo
+  3:
+    - Hacer un modelo en un software de escultura, p.e. Blender, Z-brush, Mudbox, etc.
+    - Diseñar una herramienta de algún tipo
+    - Iluminar y renderizar un plato giratorio con objetos 3D
+    - Hacer el desenvolvimiento UV de un objeto complejo (UDIMs)
+    - Renderizar un modelo en un software CAD de ingeniería
+    - Crear un modelo en un software CAD de ingeniería, p.e. Fusion 360, FreeCAD, SolidWorks u otros
+    - Modelar algo en 3D y subirlo bajo una licencia de código abierto
+  4:
+    - Crear una textura en un paquete de texturas, p.e. Substance Painter, Blender, Mudbox
+    - Capturar una textura del mundo real
+    - Texturizar un modelo 3D con texturas realistas
+    - Diseñar un modelo para incorporar electrónica o imanes.
+    - Diseñar algo para imprimir en dos colores o materiales
+    - Diseñar algo plano para fabricarlo con material doblado, p.e. chapa metálica, artesanía en papel
+    - Hacer una prueba de esfuerzo a un modelo en un software CAD de ingeniería
+  5:
+    - Modelar en 3D a un personaje
+    - Retopologizar un objeto/personaje 3D
+    - Esculpir algo a partir de una foto de referencia
+    - Utilizar un archivo SVG para hacer la parte de un modelo 3D
+    - Diseñar algo para imprimir en material TPU flexible
+    - Diseñar un modelo articulado o un modelo impreso en el lugar
+    - Realizar ingeniería inversa en algún software CAD
+  6:
+    - Utilizar un software de laminado para prepararse para imprimir un modelo
+    - Ensamblar un modelo 3D con recursos gratuitos
+    - Diseñar un modelo personalizado para cosplay
+    - Hacer un modelo CAD de tu habitación, trabajo o casa
+    - Diseño iterativo: Hacer mejoras a un modelo 3D
+    - Animar el esqueleto 3D de un modelo en línea gratuito, p.e. esqueleto de un sistema de bola o de péndulo
+    - Crear un modelo personalizable en OpenSCAD
+  7:
+    - Crear el esqueleto de algo que hayas esculpido
+    - Enseñarle a un amigo a modelar en 3D
+    - Aprender dos o más softwares de escultura
+    - Obtener un escaneo 3D o escanear algo en 3D
+    - Diseñar, imprimir y montar algo con varias piezas
+    - Animar una plataforma de grúa
+    - Animar un modelo CAD de ingeniería
+  8:
+    - Animar algo que hayas esculpido
+    - Utilizar diseño generativo
+    - Crear un juego de rompecabezas en 3D
+    - Aprender más de tres softwares para modelado 3D
+    - Utilizar matemáticas para crear un modelo 3D, p.e. Saltamontes con el software Rhino 3D
+    - Aprender a usar un motor de videojuegos
+    - Vender algo que hayas modelado en 3D
+  9:
+    - Hacer algo para realidad virtual
+    - Hacer algo para realidad aumentada
+    - Crear una página con instrucciones de un proyecto en hackaday o en Hackster.io
+    - Impartir una clase sobre impresión 3D o modelado 3D
+    - Crear un juego de plataformas en 3D en un motor de juego
