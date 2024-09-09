@@ -75,7 +75,7 @@ There's been a lot of great interest in translating the trees into different lan
 |Renovation & Repair         | ✅        | ☐        | ☐        | ☐     |     
 |Sewing                      | ✅        | ✅       | ☐        | ☐     | 
 |Visual Arts                 | ✅        | ☐        | ☐        | ☐     |
-|Woodworking                 | ✅        | ✅       | ☐        | ☐     | 
+|Woodworking                 | ✅        | ✅       | ✅       | ☐     | 
 
 ## Tech Skills (17/20) 
 
