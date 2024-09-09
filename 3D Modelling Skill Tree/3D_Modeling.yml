@@ -1,0 +1,82 @@
+---
+title: 3D MODELING
+footer: MADE BY STEVEN MOHR &amp; STEPH PIPER - MAKERQUEEN AU
+row:
+  0:
+    - Know how to check size in 3D software
+    - Use boolean tools in 3D software
+    - Create a model in TinkerCAD
+    - Learn to navigate a 3D interface with pan, orbit and zoom
+    - Make a low poly model
+    - Use the extrude tool in 3D software
+    - Use the revolve tool in 3D software
+  1:
+    - Draw a detailed sketch with dimensions before 3D modelling
+    - Create a model in MeshMixer
+    - Edit a texture in an image-editing software
+    - Make a 2D schematic of a 3D model
+    - Texture a low poly object
+    - Design something for 3D printing
+    - Upload a remix of a 3D model
+  2:
+    - Rig a crane object with FK/IK system
+    - Create a 3D model from a 2D schematic
+    - Create a 3 point light setup
+    - Modify edge normals for low-poly asset design
+    - Model and make something that solves a problem
+    - UV unwrap a low-poly object
+    - Design a custom model for a friend
+  3:
+    - Make a model in sculpting software e.g. Blender, Z-brush, Mudbox etc
+    - Design a tool of some kind
+    - Light and render a 3D object turntable
+    - UV unwrap a complex object (UDIMs)
+    - Render a model in an engineering CAD software
+    - Create a model in an engineering CAD software e.g. Fusion 350, FreeCAD, SolidWorks or others
+    - 3D model something and upload it under an Open Source licence
+  4:
+    - Create a texture in a texturing package, e.g. Substance Painter, Blender, Mudbox
+    - Capture a texture from the real world
+    - Texture a 3D model with realistic texturing
+    - Design a model to embed electronics or magnets
+    - Design something to be printed in two colors or materials
+    - Design something flat to be made in folded material, e.g. Sheet metal, papercraft
+    - Stress test a model in an engineering CAD software
+  5:
+    - 3D model a character
+    - Retopologise a 3D object / character
+    - Sculpt something from a reference photo
+    - Use an SVG file to make part of a 3D model
+    - Design something to be printed in flexible TPU material
+    - Design an articulating or print in place model
+    - Reverse engineer something in CAD software
+  6:
+    - Use a slicing software for preparing to print a model
+    - Assemble a 3D model with free assets
+    - Design a custom model for cosplay
+    - Make a CAD model of your room, work or home
+    - Iterative design: Make improvements to a 3D model
+    - Animate a 3D rig from a free online model e.g. Ball or pendulum rig
+    - Create a customizable model in OpenSCAD
+  7:
+    - Rig something you've sculpted
+    - Teach a friend how to 3D model
+    - Learn two or more sculpting softwares
+    - Get 3D scanned or 3D scan something
+    - Design, print and assemble something with multiple parts
+    - Animate a crane rig
+    - Animate an engineering CAD model
+  8:
+    - Animate something you've sculpted
+    - Use generative design
+    - Make a puzzle based 3D game
+    - Learn more than three softwares for 3D modelling
+    - Use mathematics to create a 3D model e.g. Grasshopper with Rhino 3D software
+    - Learn a game engine
+    - Sell something you've 3D modelled
+  9:
+    - Make something for VR
+    - Make something for AR
+    - Create an instructable hackaday page or Hackster.io page on a project
+    - Teach a class on 3D printing or 3D modelling
+    - Create a 3D platformer game in a game engine
