@@ -39,9 +39,9 @@ def make_text_multiline(text: list, length1: int = 18, length2: int = 25) -> str
 
 
 def process_svg(template, data):
-    # Replace title and author
+    # Replace title and footer
     processed = template.replace("{{ title }}", data["title"])
-    processed = processed.replace("{{ author }}", data["author"])
+    processed = processed.replace("{{ footer }}", data["footer"])
 
     displacement = (0, 9, 19, 29, 39, 49, 59, 69)
     for i in range(10):
