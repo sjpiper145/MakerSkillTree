@@ -81,7 +81,7 @@ There's been a lot of great interest in translating the trees into different lan
 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
-|3D Modelling        |✅         | ☐        | ☐        |✅ French   |      
+|3D Modeling         |✅         |✅        | ☐        |✅ French   |      
 |3D Printing         |✅         | ☐        | ☐        |✅ French   |
 |AI & Machine Learning |☐        | ☐        | ☐        |☐           |
 |Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
