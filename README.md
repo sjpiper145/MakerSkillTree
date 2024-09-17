@@ -99,7 +99,7 @@ There's been a lot of great interest in translating the trees into different lan
 |PCB Design          | ✅        | ☐        | ☐        | ☐          |  
 |Mobile App Dev      | ✅        | ☐        | ☐        | ☐          |             
 |Research Skills     |☐          | ☐        | ☐        | ☐          |   
-|Robotics            | ✅        | ☐        | ☐        | ☐          |   
+|Robotics            | ✅        |✅        | ☐        | ☐          |   
 |Website Building    | ✅        | ☐        | ☐        | ☐          |                        
 
 ## Life Skills (11/20) 
