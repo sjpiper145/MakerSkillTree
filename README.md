@@ -82,7 +82,7 @@ There's been a lot of great interest in translating the trees into different lan
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
 |3D Modeling         |✅         |✅        | ☐        |✅ French   |      
-|3D Printing         |✅         | ☐        | ☐        |✅ French   |
+|3D Printing         |✅         |✅        | ☐        |✅ French   |
 |AI & Machine Learning |☐        | ☐        | ☐        |☐           |
 |Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
 |CNC & CAM           | ✅        | ✅       | ☐        | ☐          | 
@@ -181,6 +181,7 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - What tools might you use at a basic / intermediate / advanced level?
 - What techniques might you use at a basic / intermediate / advanced level?
 - What might go wrong and how would you fix it?
+- What safety considerations do new users need to learn about?
 - Where might you visit to learn more / get involved in a community?
 - What interskill / interdisciplinary techniques could you try? Eg. Electronics + Textiles = Wearable Tech
 - Gifting a friend something made from x skill
