@@ -94,7 +94,7 @@ There's been a lot of great interest in translating the trees into different lan
 |Game Dev            | ✅        | ☐        | ☐        | ☐          |                     
 |Gaming              |☐          | ☐        | ☐        |☐           |   
 |IT Security         | ✅        | ☐        | ☐        | ☐          |                          
-|Laser Cutting       |✅         | ☐        | ☐        |✅ French   |
+|Laser Cutting       |✅         |✅        | ☐        |✅ French   |
 |Linux               | ✅        | ☐        | ☐        | ☐          |           
 |PCB Design          | ✅        | ☐        | ☐        | ☐          |  
 |Mobile App Dev      | ✅        | ☐        | ☐        | ☐          |             
