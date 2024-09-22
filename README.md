@@ -156,7 +156,7 @@ There's been a lot of great interest in translating the trees into different lan
 ☐ School Summer Camp Planning    
 ☐ School Event Organization    
 ☐ Australian Professional Standards for Teachers (https://www.aitsl.edu.au/standards/graduate)          
-☐ Minecraft     (See open issue #19 to submit ideas)        
+☐ Minecraft                
 ☐ Microsoft Excel      
 ☐ Mechanical Aptitude - Simple systems (Gearing, levers, pullies) up to complex machines
 
