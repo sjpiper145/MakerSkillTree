@@ -116,7 +116,7 @@ There's been a lot of great interest in translating the trees into different lan
 |Entrepreneurship       | ✅        | ✅        | ☐       | ☐          |     
 |Environmentalist       |☐          | ☐        | ☐        | ☐          | 
 |Finance             |🟧 In Progress| ☐        | ☐        | ☐          | 
-|Fermenting & Preservatio |☐        | ☐        | ☐        | ☐          |          
+|Fermenting & Preservation |☐        | ☐        | ☐        | ☐          |          
 |Gardening              | ✅        | ☐        | ☐        | ☐          |         
 |Language               | ✅        | ☐        | ☐        | ☐          |        
 |Life Admin             |☐          | ☐        | ☐        | ☐          | 
