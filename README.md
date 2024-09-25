@@ -60,7 +60,7 @@ There's been a lot of great interest in translating the trees into different lan
 |Blacksmithing               | ☐         | ☐        | ☐        |☐      |
 |Boating & Fishing           |✅         | ☐        | ☐        |☐      |
 |Ceramics                    |☐          | ☐        | ☐        |☐      |
-|Crafting                    |✅         | ✅       | ☐        |☐      |      
+|Crafting                    |✅         |✅        | ☐        |☐      |      
 |Crochet                     |✅         | ☐        | ☐        |☐      |        
 |Dance                       |✅         | ☐        | ☐        |☐      | 
 |Embroidery                  |✅         | ☐        | ☐        |☐      |             
@@ -88,7 +88,7 @@ There's been a lot of great interest in translating the trees into different lan
 |CNC & CAM           | ✅        | ✅       | ☐        | ☐          | 
 |Coding              | ✅        | ✅       | ☐        | ☐          |             
 |Computing           | ✅        | ☐        | ☐        | ☐          |            
-|Dev Boards          | ✅        | ☐        | ☐        | ☐          |            
+|Dev Boards          | ✅        |✅        | ☐        | ☐          |            
 |Electronics         | ✅        | ✅        | ✅      | ☐          |   
 |Embedded Systems    | ✅        | ✅        | ☐       | ☐          |    
 |Game Dev            | ✅        | ☐        | ☐        | ☐          |                     
