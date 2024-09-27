@@ -86,7 +86,7 @@ There's been a lot of great interest in translating the trees into different lan
 |AI & Machine Learning |☐        | ☐        | ☐        |☐           |
 |Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
 |CNC & CAM           | ✅        | ✅       | ☐        | ☐          | 
-|Coding              | ✅        | ✅       | ☐        | ☐          |             
+|Coding              | ✅        | ✅       |✅        | ☐          |             
 |Computing           | ✅        | ☐        | ☐        | ☐          |            
 |Dev Boards          | ✅        |✅        | ☐        | ☐          |            
 |Electronics         | ✅        | ✅        | ✅      | ☐          |   
