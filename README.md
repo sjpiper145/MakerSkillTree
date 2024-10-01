@@ -85,12 +85,12 @@ There's been a lot of great interest in translating the trees into different lan
 |3D Printing         |✅         |✅        |✅        |✅ French   |
 |AI & Machine Learning |☐        | ☐        | ☐        |☐           |
 |Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
-|CNC & CAM           | ✅        | ✅       |✅        | ☐          | 
-|Coding              | ✅        | ✅       |✅        | ☐          |             
-|Computing           | ✅        | ☐        | ☐        | ☐          |            
+|CNC & CAM           | ✅        |✅       |✅        | ☐          | 
+|Coding              | ✅        |✅       |✅        | ☐          |             
+|Computing           | ✅        |✅        | ☐        | ☐          |            
 |Dev Boards          | ✅        |✅        | ☐        | ☐          |            
-|Electronics         | ✅        | ✅        | ✅      | ☐          |   
-|Embedded Systems    | ✅        | ✅        | ☐       | ☐          |    
+|Electronics         | ✅        |✅        | ✅      | ☐          |   
+|Embedded Systems    | ✅        |✅        | ☐       | ☐          |    
 |Game Dev            | ✅        | ☐        | ☐        | ☐          |                     
 |Gaming              |☐          | ☐        | ☐        |☐           |   
 |IT Security         | ✅        | ☐        | ☐        | ☐          |                          
