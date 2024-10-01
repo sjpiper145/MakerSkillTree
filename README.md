@@ -85,7 +85,7 @@ There's been a lot of great interest in translating the trees into different lan
 |3D Printing         |✅         |✅        |✅        |✅ French   |
 |AI & Machine Learning |☐        | ☐        | ☐        |☐           |
 |Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
-|CNC & CAM           | ✅        | ✅       | ☐        | ☐          | 
+|CNC & CAM           | ✅        | ✅       |✅        | ☐          | 
 |Coding              | ✅        | ✅       |✅        | ☐          |             
 |Computing           | ✅        | ☐        | ☐        | ☐          |            
 |Dev Boards          | ✅        |✅        | ☐        | ☐          |            
