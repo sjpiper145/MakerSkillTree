@@ -147,7 +147,7 @@ There's been a lot of great interest in translating the trees into different lan
 ☐ Biology Experiments    
 ☐ Vintage Computing    
 ☐ Social Skills    
-☐ Climbing    
+🟧 Climbing (In Progress)   
 ☐ Weaving             
 ☐ Cooking Skills: National Cuisines      
 ☐ Mushroom Cultivation      
