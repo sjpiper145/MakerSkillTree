@@ -138,7 +138,7 @@ There's been a lot of great interest in translating the trees into different lan
 ✅ Cocktails     
 ✅ Kubernetes   
 ✅ Scratch   
-✅ Astronomy               
+✅ Astronomy (x1 Peer Reviewed)              
 ☐ Tabletop Games            
 ☐ Video Games  
 ☐ Leatherworking    
