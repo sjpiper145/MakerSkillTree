@@ -67,7 +67,7 @@ There's been a lot of great interest in translating the trees into different lan
 |House Building              |✅         | ☐        | ☐        |☐      | 
 |Jewelry Making              |☐          | ☐        | ☐        |☐      |    
 |Knitting                    |✅         | ☐        | ☐        |☐      |                     
-|Metalworking                |✅         | ✅        | ☐        |☐      |  
+|Metalworking                |✅         | ✅        |✅        |☐      |  
 |Moulding and Casting        | ✅        | ☐        | ☐        | ☐     |  
 |Music                       | ✅        | ☐        | ☐        | ☐     |  
 |Photography & Videography   | ✅        | ☐        | ☐        | ☐     |  
