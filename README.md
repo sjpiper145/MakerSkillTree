@@ -91,7 +91,7 @@ There's been a lot of great interest in translating the trees into different lan
 |Dev Boards          | ✅        |✅        | ☐        | ☐          |            
 |Electronics         | ✅        |✅        | ✅      | ☐          |   
 |Embedded Systems    | ✅        |✅        | ☐       | ☐          |    
-|Game Dev            | ✅        | ☐        | ☐        | ☐          |                     
+|Game Dev            | ✅        |✅        | ☐        | ☐          |                     
 |Gaming              |☐          | ☐        | ☐        |☐           |   
 |IT Security         | ✅        | ☐        | ☐        | ☐          |                          
 |Laser Cutting       |✅         |✅        | ☐        |✅ French   |
