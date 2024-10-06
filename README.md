@@ -2,19 +2,11 @@
 
 ![Maker Skill Tree Banner-48](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/53d12889-fc08-4b32-92b6-d96271200a7e)
 
-Maker Skill Trees are printable templates that can guide and track hands-on skill progression.  Color in the boxes as you go and get inspired to try new things. Visuallise your skills so far and identify any skill gaps you might have. This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed.  Print your own in A4 or A3 size.  This project is collaborative and aims to refine and grow these resources through community involvement.
+Maker Skill Trees are printable templates that can you can use to visuallise your skill progress, identify skill gaps and get inspired to try new things.  Color in the boxes as you go, starting at the base in the basics and moving to advanced skills at the top. This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed, and tiles can be completed out of order.  Print your own in A4 or A3 size.  This project is collaborative and aims to refine and grow these resources through community involvement.
 
-Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests.   Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) .  You are free to share, adapt, remix or transform the printables or templates for non-commercial purposes.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  
+Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests.   Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates for non-commercial purposes.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  
 
-Open Educational Resource (OER) – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-Header font used: [Hansief](https://www.dafont.com/hansief.font)               
-Other fonts used:
-  - [Uniform Condensed Regular](https://befonts.com/uniform-pro-font-family.html)
-  - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-  - Icons from [Icons8](https://icons8.com/), and some self-made
-
-Templates include Adobe Illustrator and PDF files.  
+Join the discussion and chat about Skill Trees and Skill Seeker, the book on the [MAKE Discord](https://discord.gg/EmTfF2WsGJ)
 
 # How to use
 
@@ -188,6 +180,12 @@ With a total of 73 skill tiles, there's a lot of boxes to fill in!  To help prom
 - Gifting a friend something made from x skill
 - Teaching a class or friend on x skill
 - Releasing an online tutorial on x skill
+
+Header font used: [Hansief](https://www.dafont.com/hansief.font)               
+Other fonts used:
+  - [Uniform Condensed Regular](https://befonts.com/uniform-pro-font-family.html)
+  - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+  - Icons from [Icons8](https://icons8.com/), and some self-made
 
 # Skill Tree Contributor Stickers
 If you've spotted something that could be improved in a Skill Tree, I'd love to send you a holographic ｒａｒｅ contributor sticker in the mail to say thanks.  We've each got our own great unique experiences and perspectives in our skill areas and I'd love to draw on our collective knowledge to polish these skill trees into their best versions.  Bug Feedback form: https://forms.office.com/r/eemK9VhJFm 
