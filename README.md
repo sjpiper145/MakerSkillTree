@@ -48,7 +48,7 @@ There's been a lot of great interest in translating the trees into different lan
 ## Classic Skills (17/20)        
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
-|Automotive                  |✅         | ✅       | ☐        |☐      |            
+|Automotive                  |✅         |✅        |✅        |☐      |            
 |Blacksmithing               | ☐         | ☐        | ☐        |☐      |
 |Boating & Fishing           |✅         | ☐        | ☐        |☐      |
 |Ceramics                    |☐          | ☐        | ☐        |☐      |
@@ -59,39 +59,39 @@ There's been a lot of great interest in translating the trees into different lan
 |House Building              |✅         | ☐        | ☐        |☐      | 
 |Jewelry Making              |☐          | ☐        | ☐        |☐      |    
 |Knitting                    |✅         | ☐        | ☐        |☐      |                     
-|Metalworking                |✅         | ✅        |✅        |☐      |  
-|Moulding and Casting        | ✅        | ☐        | ☐        | ☐     |  
-|Music                       | ✅        | ☐        | ☐        | ☐     |  
-|Photography & Videography   | ✅        | ☐        | ☐        | ☐     |  
-|Reading & Writing           | ✅        | ☐        | ☐        | ☐     |      
-|Renovation & Repair         | ✅        | ☐        | ☐        | ☐     |     
-|Sewing                      | ✅        | ✅       | ☐        | ☐     | 
-|Visual Arts                 | ✅        | ☐        | ☐        | ☐     |
-|Woodworking                 | ✅        | ✅       | ✅       | ☐     | 
-
+|Metalworking                |✅         |✅        |✅        |☐      |  
+|Moulding and Casting        |✅         | ☐        | ☐        | ☐     |  
+|Music                       |✅         | ☐        | ☐        | ☐     |  
+|Photography & Videography   |✅         | ☐        | ☐        | ☐     |  
+|Reading & Writing           |✅         | ☐        | ☐        | ☐     |      
+|Renovation & Repair         |✅         | ☐        | ☐        | ☐     |     
+|Sewing                      |✅         |✅        |✅        | ☐     | 
+|Visual Arts                 |✅         | ☐        | ☐        | ☐     |
+|Woodworking                 |✅         |✅        |✅        | ☐     | 
+ 
 ## Tech Skills (17/20) 
 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
-|3D Modeling         |✅         |✅        | ☐        |✅ French   |      
+|3D Modeling         |✅         |✅        |✅        |✅ French   |      
 |3D Printing         |✅         |✅        |✅        |✅ French   |
 |AI & Machine Learning |☐        | ☐        | ☐        |☐           |
 |Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
 |CNC & CAM           | ✅        |✅       |✅        | ☐          | 
 |Coding              | ✅        |✅       |✅        | ☐          |             
-|Computing           | ✅        |✅        | ☐        | ☐          |            
-|Dev Boards          | ✅        |✅        | ☐        | ☐          |            
-|Electronics         | ✅        |✅        | ✅      | ☐          |   
+|Computing           | ✅        |✅        |✅        | ☐          |            
+|Dev Boards          | ✅        |✅        |✅        | ☐          |            
+|Electronics         | ✅        |✅        |✅      | ☐          |   
 |Embedded Systems    | ✅        |✅        | ☐       | ☐          |    
 |Game Dev            | ✅        |✅        | ☐        | ☐          |                     
 |Gaming              |☐          | ☐        | ☐        |☐           |   
 |IT Security         | ✅        | ☐        | ☐        | ☐          |                          
-|Laser Cutting       |✅         |✅        | ☐        |✅ French   |
+|Laser Cutting       |✅         |✅        |✅        |✅ French   |
 |Linux               | ✅        | ☐        | ☐        | ☐          |           
 |PCB Design          | ✅        | ☐        | ☐        | ☐          |  
 |Mobile App Dev      | ✅        | ☐        | ☐        | ☐          |             
 |Research Skills     |☐          | ☐        | ☐        | ☐          |   
-|Robotics            | ✅        |✅        | ☐        | ☐          |   
+|Robotics            | ✅        |✅        |✅        | ☐          |   
 |Website Building    | ✅        | ☐        | ☐        | ☐          |                        
 
 ## Life Skills (11/20) 
@@ -105,7 +105,7 @@ There's been a lot of great interest in translating the trees into different lan
 |Cleaning               | ✅        | ☐        | ☐        | ☐          |          
 |Cooking                | ✅        | ☐        | ☐        | ☐          |        
 |Drinks (Non Alcoholic) |☐          | ☐        | ☐        | ☐          |      
-|Entrepreneurship       | ✅        | ✅        | ☐       | ☐          |     
+|Entrepreneurship       | ✅        | ✅        |✅       | ☐          |     
 |Environmentalist       |☐          | ☐        | ☐        | ☐          | 
 |Finance             |🟧 In Progress| ☐        | ☐        | ☐          | 
 |Fermenting & Preservation |☐        | ☐        | ☐        | ☐          |          
