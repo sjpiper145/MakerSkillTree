@@ -37,9 +37,10 @@ How to use:
 It's encouraged to customize these base skill trees around your own interests and goals.  You may edit these PDFs to suit or use tile stickers to cover the boxes on a printed template.  You can cut your own tile stickers with a vinyl cutter using the Tile Stickers Template SVG (in the templates folder).  
 
 # Skill Seeker Book
-I'm working on a book with an expansive range of skill trees, plus great tools to track your progress, earn achievement badges and calculate your life XP score across all areas.  [Get notified when the book is available.](https://www.makerqueen.com.au/skill-trees-1) 
+I'm working on a book with a range of skill trees, plus great tools to track your progress, earn achievement badges and calculate your Maker XP score. Coming soon!  [Get notified when the book is available.](https://www.makerqueen.com.au/skill-trees-1) 
 
-![Both Books Render-01-01](https://github.com/user-attachments/assets/96914235-c8f5-47d4-873b-5e7acc8fc825)
+![New Book Render-02-02](https://github.com/user-attachments/assets/99670a9b-0cc4-40ff-b972-a2cc9c255829)
+
 
 # Yet to Make (45/60)
 
