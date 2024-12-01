@@ -195,6 +195,10 @@ Get skill tree poster digital downloads on my [website for free](https://www.mak
 
 [Skill Tree Web App](https://tinkererway.dev/web_skill_tree) by the talented [@amalmathewtech](https://github.com/amalmathewtech)
 
+[Maker Ed Blog 1](https://makered.substack.com/p/maker-skill-trees)
+
+[Maker Ed Blog 2](https://makered.substack.com/p/maker-skill-trees-part-2)
+
 # Example Skill Tree
 ![Electronics Skill Tree](https://github.com/user-attachments/assets/5caf6a98-1e5f-4062-8d9d-8481a09555f5)
 
