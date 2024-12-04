@@ -30,7 +30,7 @@ Open Source – [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/b
 ## Sélection que je veux traduire et exploiter: 
 
 - ✅ 3D Modelling - Modélisation 3D
-- ☐ 3D Printing - Impression 3D
+- ✅ 3D Printing - Impression 3D
 - ☐ CNC & CAM - CNC & Fabrication Numérique
 - ☐ Coding - ? Programmation
 - ☐ Computing - ? Utiliser son ordi ? 
