@@ -6,7 +6,9 @@ Maker Skill Trees are printable templates that can you can use to visualize your
 
 Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectrum of basic skills at the bottom to more advanced skills at the top.  This includes 5 set your own goal tiles for you to tailor to your own interests.   Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates for non-commercial purposes.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  
 
-Join the discussion and chat about Skill Trees and Skill Seeker, the book on the [MAKE Discord](https://discord.gg/EmTfF2WsGJ), and find out how to [contribute to the project on the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki).
+💬 Join the discussion and chat about Skill Trees and Skill Seeker, the book on the [MAKE Discord](https://discord.gg/EmTfF2WsGJ), and find out how to [contribute to the project on the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki).
+
+💖 Enjoying the Skill Trees Project? [Buy me a coffee!](https://ko-fi.com/stephpiper) ☕
 
 # How to use
 
