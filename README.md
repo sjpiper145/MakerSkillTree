@@ -151,6 +151,8 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Tabletop Games |☐     | ☐             | ☐           | ☐        | 
 |Bicycles       |☐     | ☐             | ☐           | ☐        | 
 |Cardboard      |☐     | ☐             | ☐           | ☐        | 
+|Drones         |☐     | ☐             | ☐           | ☐        | 
+
 
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
