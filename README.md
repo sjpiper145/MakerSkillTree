@@ -152,7 +152,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Bicycles       |☐     | ☐             | ☐           | ☐        | 
 |Cardboard      |☐     | ☐             | ☐           | ☐        | 
 |Drones         |☐     | ☐             | ☐           | ☐        | 
-
+|Puppetry       |☐     | ☐             | ☐           | ☐        | 
 
 ✅  Explore a Makerspace                
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
