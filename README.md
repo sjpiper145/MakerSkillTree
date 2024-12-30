@@ -43,7 +43,7 @@ Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you
 ![Skill Seeker Render-02](https://github.com/user-attachments/assets/1abbdad9-79be-489a-a84d-5478526cf63b)
 
 
-# Yet to Make (45/60)
+# Yet to Make (46/60)
 
 Interested in contributing to this project? [Check out the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki) for guidelines on how to submit new skill trees, bug fixes, peer reviews and translations, plus check out the contributor rewards available.
 
@@ -96,7 +96,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Robotics            | ✅        |✅        |✅        | ☐          |   
 |Website Building    | ✅        | ☐        | ☐        | ☐          |                        
 
-## Life Skills (11/20) 
+## Life Skills (12/20) 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
 | Adventure             | ✅        | ☐        | ☐        | ☐          |       
@@ -109,7 +109,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Drinks (Non Alcoholic) |☐          | ☐        | ☐        | ☐          |      
 |Entrepreneurship       | ✅        | ✅        |✅       | ☐          |     
 |Environmentalist       |☐          | ☐        | ☐        | ☐          | 
-|Finance             |🟧 In Progress| ☐        | ☐        | ☐          | 
+|Finance                |✅         | ☐        | ☐        | ☐          | 
 |Fermenting & Preservation |☐        | ☐        | ☐        | ☐          |          
 |Gardening              | ✅        | ☐        | ☐        | ☐          |         
 |Language               | ✅        | ☐        | ☐        | ☐          |        
