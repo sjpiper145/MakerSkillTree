@@ -109,7 +109,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Drinks (Non Alcoholic) |☐          | ☐        | ☐        | ☐          |      
 |Entrepreneurship       | ✅        | ✅        |✅       | ☐          |     
 |Environmentalist       |☐          | ☐        | ☐        | ☐          | 
-|Finance                |✅         | ☐        | ☐        | ☐          | 
+|Finance                |✅         |✅        | ☐        | ☐          | 
 |Fermenting & Preservation |☐        | ☐        | ☐        | ☐          |          
 |Gardening              | ✅        | ☐        | ☐        | ☐          |         
 |Language               | ✅        | ☐        | ☐        | ☐          |        
