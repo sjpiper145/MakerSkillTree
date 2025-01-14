@@ -38,7 +38,7 @@ It's encouraged to customize these base skill trees around your own interests an
 
 # Skill Seeker Book
 
-Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you to track a range of skills, calculate your Maker XP score and show off your skill levels in a video game style dashboard.  Complete goal setting activities and upskill with friends and family. Skill Seeker is now [available on Amazon,](https://www.amazon.com/Skill-Seeker-Practical-Growth-Skills/dp/1680458574) [MakerShed](https://www.makershed.com/collections/all/products/make-skillseeker-workbook) and many other major stockists!
+Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you to track a range of skills, calculate your Maker XP score and show off your skill levels in a video game style dashboard.  Complete goal setting activities and upskill with friends and family. Skill Seeker is now [available on Amazon,](https://www.amazon.com/Skill-Seeker-Practical-Growth-Skills/dp/1680458574) [MakerShed](https://www.makershed.com/collections/all/products/make-skillseeker-workbook) and many other major stockists!  For more information, see the [Skill Seeker web page.](https://www.makerqueen.com.au/skill-seeker-book)
 
 ![Skill Seeker Render-02](https://github.com/user-attachments/assets/1abbdad9-79be-489a-a84d-5478526cf63b)
 
