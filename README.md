@@ -179,6 +179,8 @@ Yes, I'm interested in working with teachers to make a book aimed at kids and a 
 Not in the short term, but I'm interested in speaking to companies who may wish to licence skill tree content for this purpose. 
 
 # Support the Project
+Consider becoming a Github Sponsor, which unlocks access to an exculsive repository of 12+ high quality poster resources
+![Poster Selection Mockup-01](https://github.com/user-attachments/assets/ba939bb3-0f8d-4154-b016-3707a33710fe)
 
 Advertise the project in your makerspace or school with this poster (in Makerspace Skill Trees folder)
 ![Makerspace Poster-04](https://github.com/user-attachments/assets/57744056-9288-40b8-9b10-2b9959d7f6b3)
