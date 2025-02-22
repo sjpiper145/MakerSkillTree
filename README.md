@@ -134,7 +134,6 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Climbing   | ✅       | ☐             | ☐           | ☐        |
 |Photography | ✅       | ☐             | ☐           | ☐        |
 |Videography |☐     | ☐             | ☐           | ☐        | 
-|Tabletop Games |☐     | ☐             | ☐           | ☐        | 
 |Video Games    |☐     | ☐             | ☐           | ☐        | 
 |Leatherworking |☐     | ☐             | ☐           | ☐        | 
 |Bushcraft      |☐     | ☐             | ☐           | ☐        | 
@@ -142,7 +141,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Biology        |☐     | ☐             | ☐           | ☐        | 
 |Vintage Computing |☐     | ☐             | ☐           | ☐        | 
 |Weaving        |☐     | ☐             | ☐           | ☐        | 
-|Cooking Skills: Nationa Cuisines |☐     | ☐             | ☐           | ☐        |
+|Cooking Skills: National Cuisines |☐     | ☐             | ☐           | ☐        |
 |Mushroom Farming |☐     | ☐             | ☐           | ☐        | 
 |Insect Breeding  |☐     | ☐             | ☐           | ☐        | 
 |Urban Gardening  |☐     | ☐             | ☐           | ☐        | 
