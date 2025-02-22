@@ -92,7 +92,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Linux               | ✅        | ☐        | ☐        | ☐          |           
 |PCB Design          | ✅        | ☐        | ☐        | ☐          |  
 |Mobile App Dev      | ✅        | ☐        | ☐        | ☐          |             
-|Research Skills     |☐          | ☐        | ☐        | ☐          |   
+|Research Skills     | 🟧 (In Progress)   | ☐        | ☐        | ☐          |   
 |Robotics            | ✅        |✅        |✅        | ☐          |   
 |Website Building    | ✅        | ☐        | ☐        | ☐          |                        
 
@@ -101,7 +101,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |---------------|-----------|---------------|--------------|----------|
 | Adventure             | ✅        | ☐        | ☐        | ☐          |       
 |Animal Care            |☐          | ☐        | ☐        | ☐          |   
-|Backyard Science       |☐          | ☐        | ☐        | ☐          |        
+|DIY Science            |🟧 (In Progress)  | ☐        | ☐        | ☐          |        
 |Baking                 | ✅        | ☐        | ☐        | ☐          |   
 |Civics & Community     | ✅        | ☐        | ☐        | ☐          |                        
 |Cleaning               | ✅        | ☐        | ☐        | ☐          |          
@@ -132,6 +132,8 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Scratch    | ✅       | ☐             | ☐           | ☐        |
 |Astronomy  | ✅       | ✅             | ☐          | ☐        |
 |Climbing   | ✅       | ☐             | ☐           | ☐        |
+|Photography | ✅       | ☐             | ☐           | ☐        |
+|Videography |☐     | ☐             | ☐           | ☐        | 
 |Tabletop Games |☐     | ☐             | ☐           | ☐        | 
 |Video Games    |☐     | ☐             | ☐           | ☐        | 
 |Leatherworking |☐     | ☐             | ☐           | ☐        | 
