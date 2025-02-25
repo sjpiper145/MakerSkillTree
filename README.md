@@ -134,6 +134,8 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Climbing   | ✅       | ☐             | ☐           | ☐        |
 |Photography | ✅       | ☐             | ☐           | ☐        |
 |Videography |☐     | ☐             | ☐           | ☐        | 
+|Reading    |☐     | ☐             | ☐           | ☐        | 
+|Writing    |☐     | ☐             | ☐           | ☐        | 
 |Video Games    |☐     | ☐             | ☐           | ☐        | 
 |Leatherworking |☐     | ☐             | ☐           | ☐        | 
 |Bushcraft      |☐     | ☐             | ☐           | ☐        | 
