@@ -43,11 +43,11 @@ Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you
 ![Skill Seeker Render-02](https://github.com/user-attachments/assets/1abbdad9-79be-489a-a84d-5478526cf63b)
 
 
-# Yet to Make (46/60)
+# Yet to Make 
 
 Interested in contributing to this project? [Check out the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki) for guidelines on how to submit new skill trees, bug fixes, peer reviews and translations, plus check out the contributor rewards available.
 
-## Classic Skills (17/20)        
+## Classic Skills   
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
 |Automotive                  |✅         |✅        |✅        |☐      |            
@@ -64,14 +64,27 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Metalworking                |✅         |✅        |✅        |☐      |  
 |Moulding and Casting        |✅         | ☐        | ☐        | ☐     |  
 |Music                       |✅         | ☐        | ☐        | ☐     |  
-|Photography & Videography   |✅         | ☐        | ☐        | ☐     |  
 |Reading & Writing           |✅         | ☐        | ☐        | ☐     |      
 |Renovation & Repair         |✅         | ☐        | ☐        | ☐     |     
 |Sewing                      |✅         |✅        |✅        | ☐     | 
 |Visual Arts                 |✅         | ☐        | ☐        | ☐     |
 |Woodworking                 |✅         |✅        |✅        | ☐     | 
- 
-## Tech Skills (17/20) 
+|Glass Working       |☐     | ☐             | ☐           | ☐        |
+|Photography & Videography   |✅         | ☐        | ☐        | ☐     |  
+|Photography | ✅       | ☐             | ☐           | ☐        |
+|Videography |☐     | ☐             | ☐           | ☐        | 
+|Puppetry       |☐     | ☐             | ☐           | ☐        | 
+|Reading    |☐     | ☐             | ☐           | ☐        | 
+|Writing    |☐     | ☐             | ☐           | ☐        | 
+|Comic Artist   | ✅       | ☐             | ☐           | ☐        |
+|Leatherworking |☐     | ☐             | ☐           | ☐        | 
+|Bushcraft      |☐     | ☐             | ☐           | ☐        | 
+|Foraging       |☐     | ☐             | ☐           | ☐        | 
+|Weaving        |☐     | ☐             | ☐           | ☐        | 
+|Bicycles       |☐     | ☐             | ☐           | ☐        | 
+|Cardboard      |☐     | ☐             | ☐           | ☐        | 
+
+## Tech Skills 
 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
@@ -94,9 +107,14 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Mobile App Dev      | ✅        | ☐        | ☐        | ☐          |             
 |Research Skills     | 🟧 (In Progress)   | ☐        | ☐        | ☐          |   
 |Robotics            | ✅        |✅        |✅        | ☐          |   
-|Website Building    | ✅        | ☐        | ☐        | ☐          |                        
+|Website Building    | ✅        | ☐        | ☐        | ☐          |    
+|Kubernetes | ✅       | ☐             | ☐           | ☐        |
+|Drones         |☐     | ☐             | ☐           | ☐        | 
+|Vintage Computing |☐     | ☐             | ☐           | ☐        | 
+|Microsoft Excel  |☐     | ☐             | ☐           | ☐        | 
+|Inkscape         |☐     | ☐             | ☐           | ☐        | 
 
-## Life Skills (12/20) 
+## Life Skills 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
 | Adventure             | ✅        | ☐        | ☐        | ☐          |       
@@ -117,53 +135,43 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Self Care              |☐          | ☐        | ☐        | ☐          | 
 |Sports & Fitness       | ✅        | ☐        | ☐        | ☐          |                 
 |Survivalist            | ✅        | ☐        | ☐        | ☐          |    
-| Travel                | ✅        | ☐        | ☐        | ☐          |    
-| Volunteering          |☐          | ☐        | ☐        | ☐          | 
+|Travel                | ✅        | ☐        | ☐        | ☐          |    
+|Volunteering          |☐          | ☐        | ☐        | ☐          | 
+|Mushroom Farming |☐     | ☐             | ☐           | ☐        | 
+|Urban Gardening  |☐     | ☐             | ☐           | ☐        | 
+|Insect Breeding  |☐     | ☐             | ☐           | ☐        | 
+|Cocktails  | ✅       | ☐             | ☐           | ☐        |
+|Cooking Skills: National Cuisines |☐     | ☐             | ☐           | ☐        |
 
-## Other Submissions & Suggestions  
+## Science & Maths
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
-|STEAM Skills   | ✅       | ☐             | ☐           | ☐        |
-|Roller Derby   | ✅       | ☐             | ☐           | ☐        |        
-|Dungeons and Dragons  | ✅       | ☐             | ☐           | ☐        |
-|Comic Artist   | ✅       | ☐             | ☐           | ☐        |
-|Cocktails  | ✅       | ☐             | ☐           | ☐        |
-|Kubernetes | ✅       | ☐             | ☐           | ☐        |
-|Scratch    | ✅       | ☐             | ☐           | ☐        |
 |Astronomy  | ✅       | ✅             | ☐          | ☐        |
-|Climbing   | ✅       | ☐             | ☐           | ☐        |
-|Photography | ✅       | ☐             | ☐           | ☐        |
-|Videography |☐     | ☐             | ☐           | ☐        | 
-|Reading    |☐     | ☐             | ☐           | ☐        | 
-|Writing    |☐     | ☐             | ☐           | ☐        | 
-|Video Games    |☐     | ☐             | ☐           | ☐        | 
-|Leatherworking |☐     | ☐             | ☐           | ☐        | 
-|Bushcraft      |☐     | ☐             | ☐           | ☐        | 
-|Foraging       |☐     | ☐             | ☐           | ☐        | 
-|Biology        |☐     | ☐             | ☐           | ☐        | 
-|Vintage Computing |☐     | ☐             | ☐           | ☐        | 
-|Weaving        |☐     | ☐             | ☐           | ☐        | 
-|Cooking Skills: National Cuisines |☐     | ☐             | ☐           | ☐        |
-|Mushroom Farming |☐     | ☐             | ☐           | ☐        | 
-|Insect Breeding  |☐     | ☐             | ☐           | ☐        | 
-|Urban Gardening  |☐     | ☐             | ☐           | ☐        | 
-|School Summer Camp Planning |☐     | ☐             | ☐           | ☐        |
-|School Event Organization |☐     | ☐             | ☐           | ☐        | 
-|Minecraft        |☐     | ☐             | ☐           | ☐        | 
-|Microsoft Excel  |☐     | ☐             | ☐           | ☐        | 
-|Tabletop Games |☐     | ☐             | ☐           | ☐        | 
-|Bicycles       |☐     | ☐             | ☐           | ☐        | 
-|Cardboard      |☐     | ☐             | ☐           | ☐        | 
-|Drones         |☐     | ☐             | ☐           | ☐        | 
-|Puppetry       |☐     | ☐             | ☐           | ☐        | 
-|Glass Working       |☐     | ☐             | ☐           | ☐        |
 |Maths       |☐     | ☐             | ☐           | ☐        | 
 |Physics      |☐     | ☐             | ☐           | ☐        | 
 |Chemistry       |☐     | ☐             | ☐           | ☐        | 
+|Biology        |☐     | ☐             | ☐           | ☐        | 
+|STEAM Skills   | ✅       | ☐             | ☐           | ☐        |
 
-✅  Explore a Makerspace                
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter and Electronics Bench                  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Makerspace w/ 3D Printer, 3D scanner, Vinyl Cutter, Laser Cutter and Electronics Bench   
+## Sports & Games
+|Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
+|---------------|-----------|---------------|--------------|----------|
+|Climbing   | ✅       | ☐             | ☐           | ☐        |
+|Roller Derby   | ✅       | ☐             | ☐           | ☐        |        
+|Dungeons and Dragons  | ✅       | ☐             | ☐           | ☐        |
+|Video Games    |☐     | ☐             | ☐           | ☐        | 
+|Minecraft        |☐     | ☐             | ☐           | ☐        | 
+|Tabletop Games |☐     | ☐             | ☐           | ☐        | 
+
+## Kids & Schools
+|Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
+|---------------|-----------|---------------|--------------|----------|
+|School Summer Camp Planning |☐     | ☐             | ☐           | ☐        |
+|School Event Organization |☐     | ☐             | ☐           | ☐        | 
+|Scratch    | ✅       | ☐             | ☐           | ☐        |
+|Makerspace    | ✅       | ☐             | ☐           | ☐        |
+|Makerspace (without laser cutter)  | ✅       | ☐             | ☐           | ☐        |
+
 
 
 Got a suggestion for a new skill tree, or feedback on an existing tree?  Use the [suggestion box form](https://forms.office.com/r/0LdRzGZ2pK).  
