@@ -109,10 +109,12 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Robotics            | ✅        |✅        |✅        | ☐          |   
 |Website Building    | ✅        | ☐        | ☐        | ☐          |    
 |Kubernetes | ✅       | ☐             | ☐           | ☐        |
+|Inkscape         |✅    | ☐             | ☐           | ☐        | 
 |Drones         |☐     | ☐             | ☐           | ☐        | 
 |Vintage Computing |☐     | ☐             | ☐           | ☐        | 
 |Microsoft Excel  |☐     | ☐             | ☐           | ☐        | 
-|Inkscape         |☐     | ☐             | ☐           | ☐        | 
+|Wiki Building         |🟧 (Draft)     | ☐           | ☐      | ☐        | 
+
 
 ## Life Skills 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
