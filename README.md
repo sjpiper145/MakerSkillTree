@@ -105,7 +105,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Linux               | ✅        | ☐        | ☐        | ☐          |           
 |PCB Design          | ✅        | ☐        | ☐        | ☐          |  
 |Mobile App Dev      | ✅        | ☐        | ☐        | ☐          |             
-|Research Skills     | 🟧 (In Progress)   | ☐        | ☐        | ☐          |   
+|Research Skills     | ✅      | ☐        | ☐        | ☐          |   
 |Robotics            | ✅        |✅        |✅        | ☐          |   
 |Website Building    | ✅        | ☐        | ☐        | ☐          |    
 |Kubernetes |✅       |✅             | ☐           | ☐        |
