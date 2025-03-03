@@ -108,7 +108,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Research Skills     | 🟧 (In Progress)   | ☐        | ☐        | ☐          |   
 |Robotics            | ✅        |✅        |✅        | ☐          |   
 |Website Building    | ✅        | ☐        | ☐        | ☐          |    
-|Kubernetes | ✅       | ☐             | ☐           | ☐        |
+|Kubernetes |✅       |✅             | ☐           | ☐        |
 |Inkscape         |✅    | ☐             | ☐           | ☐        | 
 |Drones         |☐     | ☐             | ☐           | ☐        | 
 |Vintage Computing |☐     | ☐             | ☐           | ☐        | 
