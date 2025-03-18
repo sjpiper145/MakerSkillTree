@@ -90,7 +90,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |---------------|-----------|---------------|--------------|----------|
 |3D Modeling         |✅         |✅        |✅        |✅ French ✅ Simplified Chinese  |      
 |3D Printing         |✅         |✅        |✅        |✅ French ✅ Simplified Chinese  |
-|AI & Machine Learning |☐        | ☐        | ☐        |☐           |
+|Try AI              |✅         | ☐        | ☐        |☐           |
 |Amateur Radio       | ✅        | ☐        | ☐        | ☐          |               
 |CNC & CAM           | ✅        |✅       |✅        | ☐          | 
 |Coding              | ✅        |✅       |✅        | ☐          |             
