@@ -36,6 +36,10 @@ How to use:
 
 It's encouraged to customize these base skill trees around your own interests and goals.  You may edit these PDFs to suit or use tile stickers to cover the boxes on a printed template.  You can cut your own tile stickers with a vinyl cutter using the Tile Stickers Template SVG (in the templates folder).  
 
+# SVG to YAML
+
+If you'd like to create machine readable YAML files from [Maker Skill Tree Generator](https://schme16.github.io/MakerSkillTree-Generator/) generated SVG files or vice versa, this [Skill Tree Tool](https://josephlewis42.github.io/skilltreetool/#) developed by the talented [@josephlewis42](https://github.com/josephlewis42/skilltreetool) can help.  It's also got a useful changelog generator built in too which can show the changes made during peer review between an old skill tree and a refreshed one.
+
 # Skill Seeker Book
 
 Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you to track a range of skills, calculate your Maker XP score and show off your skill levels in a video game style dashboard.  Complete goal setting activities and upskill with friends and family. Skill Seeker is now [available on Amazon,](https://www.amazon.com/Skill-Seeker-Practical-Growth-Skills/dp/1680458574) [MakerShed](https://www.makershed.com/collections/all/products/make-skillseeker-workbook) and many other major stockists!  For more information, see the [Skill Seeker web page.](https://www.makerqueen.com.au/skill-seeker-book)
