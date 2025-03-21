@@ -101,7 +101,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Computing           | ✅        |✅        |✅        | ☐          |            
 |Dev Boards          | ✅        |✅        |✅        | ☐          |            
 |Electronics         | ✅        |✅        |✅      | ☐          |   
-|Embedded Systems    | ✅        |✅        | ☐       | ☐          |    
+|Embedded Systems    | ✅        |✅        |✅       | ☐          |    
 |Game Dev            | ✅        |✅        | ☐        | ☐          |                     
 |Gaming              |☐          | ☐        | ☐        |☐           |   
 |IT Security         | ✅        | ☐        | ☐        | ☐          |                          
