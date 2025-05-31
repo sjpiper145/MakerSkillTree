@@ -134,9 +134,10 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Entrepreneurship       | ✅        | ✅        |✅       | ☐          |     
 |Environmentalist       |☐          | ☐        | ☐        | ☐          | 
 |Finance                |✅         |✅        | ☐        | ☐          | 
-|Fermenting & Preservation |☐        | ☐        | ☐        | ☐          |          
+|Fermenting & Preservation |☐        | ☐        | ☐        | ☐         |          
 |Gardening              | ✅        | ☐        | ☐        | ☐          |         
-|Language               | ✅        | ☐        | ☐        | ☐          |        
+|Language               | ✅        | ☐        | ☐        | ☐          |   
+|Leadership             | ✅        | ☐        | ☐        | ☐          |   
 |Life Admin             |☐          | ☐        | ☐        | ☐          | 
 |Self Care              |☐          | ☐        | ☐        | ☐          | 
 |Sports & Fitness       | ✅        | ☐        | ☐        | ☐          |                 
