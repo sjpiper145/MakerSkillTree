@@ -78,7 +78,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Photography | ✅       | ☐             | ☐           | ☐        |
 |Videography |☐     | ☐             | ☐           | ☐        | 
 |Puppetry       |☐     | ☐             | ☐           | ☐        | 
-|Reading    |☐     | ☐             | ☐           | ☐        | 
+|Reading    |✅     | ☐             | ☐           | ☐        | 
 |Writing    |☐     | ☐             | ☐           | ☐        | 
 |Comic Artist   | ✅       | ☐             | ☐           | ☐        |
 |Leatherworking |☐     | ☐             | ☐           | ☐        | 
@@ -124,7 +124,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 ## Life Skills 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
-| Adventure             | ✅        | ☐        | ☐        | ☐          |       
+|Adventure             | ✅        | ☐        | ☐        | ☐          |       
 |Animal Care            |☐          | ☐        | ☐        | ☐          |   
 |DIY Science            |🟧 (In Progress)  | ☐        | ☐        | ☐          |        
 |Baking                 | ✅        | ☐        | ☐        | ☐          |   
@@ -140,8 +140,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Language               | ✅        | ☐        | ☐        | ☐          |   
 |Leadership             | ✅        | ☐        | ☐        | ☐          |   
 |Life Admin             |☐          | ☐        | ☐        | ☐          | 
-|Self Care              |☐          | ☐        | ☐        | ☐          | 
-|Sports & Fitness       | ✅        | ☐        | ☐        | ☐          |                 
+|Self Care              |☐          | ☐        | ☐        | ☐          |              
 |Survivalist            | ✅        | ☐        | ☐        | ☐          |    
 |Travel                | ✅        | ☐        | ☐        | ☐          |    
 |Volunteering          |☐          | ☐        | ☐        | ☐          | 
@@ -164,7 +163,9 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 ## Sports & Games
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
+|Sports & Fitness       | ✅        | ☐        | ☐        | ☐          |    
 |Climbing   | ✅       | ☐             | ☐           | ☐        |
+|Hiking  | ✅
 |Roller Derby   | ✅       | ☐             | ☐           | ☐        |        
 |Dungeons and Dragons  | ✅       | ☐             | ☐           | ☐        |
 |Video Games    |☐     | ☐             | ☐           | ☐        | 
