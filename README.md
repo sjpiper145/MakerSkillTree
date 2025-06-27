@@ -40,11 +40,16 @@ It's encouraged to customize these base skill trees around your own interests an
 
 If you'd like to create machine readable YAML files from [Maker Skill Tree Generator](https://schme16.github.io/MakerSkillTree-Generator/) generated SVG files or vice versa, this [Skill Tree Tool](https://josephlewis42.github.io/skilltreetool/#) developed by the talented [@josephlewis42](https://github.com/josephlewis42/skilltreetool) can help.  It's also got a useful changelog generator built in too which can show the changes made during peer review between an old skill tree and a refreshed one.
 
-# Skill Seeker Book
+# Skill Seeker Books
 
 Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you to track a range of skills, calculate your Maker XP score and show off your skill levels in a video game style dashboard.  Complete goal setting activities and upskill with friends and family. Skill Seeker is now [available on Amazon,](https://www.amazon.com/Skill-Seeker-Practical-Growth-Skills/dp/1680458574) [MakerShed](https://www.makershed.com/collections/all/products/make-skillseeker-workbook) and many other major stockists!  For more information, see the [Skill Seeker web page.](https://www.makerqueen.com.au/skill-seeker-book)
 
-![Skill Seeker Render-02](https://github.com/user-attachments/assets/1abbdad9-79be-489a-a84d-5478526cf63b)
+![2025-05-18 11 08 04](https://github.com/user-attachments/assets/260ccb6e-c4b9-4034-9314-65df9c3b3400)
+
+# Coming Soon: Skill Seeker Young Maker Edition
+Skill Seeker: Young Maker Edition is suitable for 8-12 year olds, and covers 12 maker skill areas, from Electronics and 3D printing to sewing and vinyl cutting.  Each skill area has infographics and activities included that can unlock skills in the skill trees.  Coming soon before Christmas 2025!  [Pre-order on Amazon](https://www.amazon.com/Skill-Seeker-Young-Steph-Piper/dp/1680458728).
+
+![book-mockups_171918-99-02](https://github.com/user-attachments/assets/4e8e9bc1-0020-4570-a97f-3cfd63ccab04)
 
 
 # Yet to Make 
