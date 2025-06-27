@@ -49,8 +49,7 @@ Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you
 # Coming Soon: Skill Seeker Young Maker Edition
 Skill Seeker: Young Maker Edition is suitable for 8-12 year olds, and covers 12 maker skill areas, from Electronics and 3D printing to sewing and vinyl cutting.  Each skill area has infographics and activities included that can unlock skills in the skill trees.  Coming soon before Christmas 2025!  [Pre-order on Amazon](https://www.amazon.com/Skill-Seeker-Young-Steph-Piper/dp/1680458728).
 
-![book-mockups_171918-99-02](https://github.com/user-attachments/assets/4e8e9bc1-0020-4570-a97f-3cfd63ccab04)
-
+![book-mockups_171918-99-02](https://github.com/user-attachments/assets/2173404c-81e8-4016-8f0e-e973b62dadbb)
 
 # Yet to Make 
 
