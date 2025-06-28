@@ -72,10 +72,12 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Metalworking                |✅         |✅        |✅        |☐      |  
 |Moulding and Casting        |✅         | ☐        | ☐        | ☐     |  
 |Music                       |✅         | ☐        | ☐        | ☐     |  
+|Singing                     |☐     | ☐             | ☐           | ☐        | 
 |Reading & Writing           |✅         | ☐        | ☐        | ☐     |      
 |Renovation & Repair         |✅         | ☐        | ☐        | ☐     |     
 |Sewing                      |✅         |✅        |✅        | ☐     | 
 |Visual Arts                 |✅         | ☐        | ☐        | ☐     |
+|Calligraphy                 |☐     | ☐             | ☐           | ☐        | 
 |Woodworking                 |✅         |✅        |✅        | ☐     | 
 |Glass Working       |☐     | ☐             | ☐           | ☐        |
 |Photography & Videography   |✅         | ☐        | ☐        | ☐     |  
