@@ -194,6 +194,8 @@ Got a suggestion for a new skill tree, or feedback on an existing tree?  Use the
 # How to Contribute to the Skill Trees Project
 Interested in contributing? [Check out the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki) for guidelines on how to submit new skill trees, bug fixes, peer reviews and translations, plus check out the contributor rewards available.
 
+![2025-07-10 15 29 33-2-01](https://github.com/user-attachments/assets/f890b0d5-6a38-4e54-a539-0218774e81a5)
+
 # FAQ
 
 **Were these made with AI?**           
