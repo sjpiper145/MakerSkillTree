@@ -173,7 +173,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Climbing   | ✅       | ☐             | ☐           | ☐        |
 |Hiking  | ✅
 |Roller Derby   | ✅       | ☐             | ☐           | ☐        |        
-|Dungeons and Dragons  | ✅       | ☐             | ☐           | ☐        |
+|Dungeons and Dragons  | ✅       | ✅             | ☐           | ☐        |
 |Video Games    |☐     | ☐             | ☐           | ☐        | 
 |Minecraft        |☐     | ☐             | ☐           | ☐        | 
 |Tabletop Games |☐     | ☐             | ☐           | ☐        | 
