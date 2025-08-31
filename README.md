@@ -155,6 +155,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Insect Breeding  |☐     | ☐             | ☐           | ☐        | 
 |Cocktails  | ✅       | ☐             | ☐           | ☐        |
 |Cooking Skills: National Cuisines |☐     | ☐             | ☐           | ☐        |
+|Facial Expressions |✅     | ☐             | ☐           | ☐        |
 
 ## Science & Maths
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
