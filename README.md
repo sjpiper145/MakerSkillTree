@@ -93,6 +93,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Weaving        |☐     | ☐             | ☐           | ☐        | 
 |Bicycles       |☐     | ☐             | ☐           | ☐        | 
 |Cardboard      |☐     | ☐             | ☐           | ☐        | 
+|Train Modeling      |☐     | ☐             | ☐           | ☐        | 
 
 ## Tech Skills 
 
@@ -125,7 +126,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Vintage Computing |☐     | ☐             | ☐           | ☐        | 
 |Microsoft Excel  |☐     | ☐             | ☐           | ☐        | 
 |Wiki Building         |🟧 (Draft)     | ☐           | ☐      | ☐        | 
-
+|Home Labbing (self-hosting)  |☐     | ☐             | ☐           | ☐        | 
 
 ## Life Skills 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
