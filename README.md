@@ -224,6 +224,8 @@ Consider becoming a Github Sponsor, which unlocks access to an exculsive reposit
 Advertise the project in your makerspace or school with this poster (in Makerspace Skill Trees folder)
 ![Makerspace Poster-04](https://github.com/user-attachments/assets/57744056-9288-40b8-9b10-2b9959d7f6b3)
 
+<img width="2463" height="2201" alt="Young Maker Edition Poster-06-07" src="https://github.com/user-attachments/assets/f595414e-0dd7-406f-97df-13ea0941e997" />
+
 Get skill tree poster digital downloads on my [website for free](https://www.makerqueen.com.au/freebies) or on the [MakerQueen Shop](https://www.etsy.com/shop/makerqueenau/) if you wish to support the project.
 ![Electronics Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/0d05b244-beb6-4c24-ac15-a939fa4af928)
 ![Digital Fabrication Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/fe13cacf-63eb-4880-a40b-6ddff228f422)
