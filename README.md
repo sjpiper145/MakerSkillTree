@@ -158,7 +158,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Cooking Skills: National Cuisines |☐     | ☐             | ☐           | ☐        |
 |Facial Expressions |✅     | ☐             | ☐           | ☐        |
 |Tone of Voice |✅     | ☐             | ☐           | ☐        |
-
+|Project Management  |☐     | ☐             | ☐           | ☐        | 
 
 ## Science & Maths
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
