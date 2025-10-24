@@ -233,6 +233,9 @@ Get skill tree poster digital downloads on my [website for free](https://www.mak
 ![Digital Fabrication Poster Mockup](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/fe13cacf-63eb-4880-a40b-6ddff228f422)
 
 # Skill Trees In the Media & Community
+
+[Using Skill Tree Templates to Gamify Learning](https://oercollective.caul.edu.au/openedaustralasia/chapter/using-skill-tree/) - Open Educational Resources Book Chapter, Published Oct 2025
+
 ## Skill Trees Asynchronous Presentation at the Open Hardware Summit 2024
 [![image](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/ea416c43-2179-4919-9aeb-6e45cf4516cd)](https://www.youtube.com/watch?v=gB10vAvSiMU&ab_channel=TheOpenSourceHardwareAssociation)
 
