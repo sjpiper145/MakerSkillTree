@@ -51,7 +51,7 @@ Skill Seeker: Young Maker Edition is suitable for 8-12 year olds, and covers 12 
 
 ![book-mockups_171918-99-02](https://github.com/user-attachments/assets/2173404c-81e8-4016-8f0e-e973b62dadbb)
 
-# Yet to Make (66/112)
+# Yet to Make (67/113)
 
 Interested in contributing to this project? [Check out the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki) for guidelines on how to submit new skill trees, bug fixes, peer reviews and translations, plus check out the contributor rewards available.
 
@@ -121,6 +121,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Website Building    | ✅        | ☐        | ☐        | ☐          |    
 |Kubernetes |✅       |✅             | ☐           | ☐        |
 |Inkscape         |✅    | ☐             | ☐           | ☐        | 
+|Speedcubing         |✅    | ☐             | ☐           | ☐        | 
 |Github         |☐     | ☐             | ☐           | ☐        | 
 |Drones         |☐     | ☐             | ☐           | ☐        | 
 |Vintage Computing |☐     | ☐             | ☐           | ☐        | 
