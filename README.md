@@ -10,6 +10,9 @@ Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectru
 
 💖 Enjoying the Skill Trees Project? [Buy me a coffee!](https://ko-fi.com/stephpiper) ☕ or consider [Sponsoring this Project!](https://github.com/sponsors/sjpiper145)
 
+🔔 Want updates on this project? Follow me on [Instagram](https://www.instagram.com/maker_queen27/), [Mastodon](https://mastodon.social/@sjpiper145), [Bluesky](https://bsky.app/profile/sjpiper145.bsky.social) or visit my [Website](https://www.makerqueen.com.au/).
+
+
 # How to use
 
 Print out your chosen template or use the template digitally. Start at the base and color in the boxes of anything you've already done. Use the template to visualise your current skills and identify any skill gaps. You may wish to use the below coloring convention to tailor the tree to your own journey, and there are sticker templates available (under templates folder) if you wish to make goal replacement stickers on a vinyl cutter.  Think of the tiles as suggestions that can be changed based on your priorities and ability.  
