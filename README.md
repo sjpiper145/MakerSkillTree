@@ -8,7 +8,7 @@ Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectru
 
 💬 Join the discussion and chat about Skill Trees and Skill Seeker, the book on the [MAKE Discord](https://discord.gg/EmTfF2WsGJ), and find out how to [contribute to the project on the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki).
 
-💖 Enjoying the Skill Trees Project? [Buy me a coffee!](https://ko-fi.com/stephpiper) ☕ or consider [Sponsoring this Project!](https://github.com/sponsors/sjpiper145)
+💖 Enjoying the Skill Trees Project? [Buy me a coffee](https://ko-fi.com/stephpiper) ☕ or consider [Sponsoring this Project!](https://github.com/sponsors/sjpiper145)
 
 🔔 Want updates on this project? Follow me on [Instagram](https://www.instagram.com/maker_queen27/), [Mastodon](https://mastodon.social/@sjpiper145), [Bluesky](https://bsky.app/profile/sjpiper145.bsky.social) or visit my [Website](https://www.makerqueen.com.au/).
 
