@@ -1,5 +1,6 @@
 # The Maker Skill Trees Project 
 
+
 ![Maker Skill Tree Banner-48](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/53d12889-fc08-4b32-92b6-d96271200a7e)
 
 Maker Skill Trees are printable templates that can you can use to visualize your skill progress, identify skill gaps and get inspired to try new things.  Color in the boxes as you go, starting at the base in the basics and moving to advanced skills at the top. This repository is always growing and aims to include a large variety of skills, see full list below.   Everyone's journey is different and you can interpret the goals flexibly.  Not everything needs to be completed, and tiles can be completed out of order.  Print your own in A4 or A3 size.  This project is collaborative and aims to refine and grow these resources through community involvement.
@@ -220,10 +221,10 @@ No, these were made in collaboration with experts or using my own expertise, wit
 While these templates are skill tree inspired, I realise they are not made up of connected nodes like traditional skill trees.  However, many games, like Borderlands, Starfield and others also have skill systems without connected nodes that still use the skill tree name. I have decided to keep the name 'Skill Trees' to make the concept easier to understand at a glance.
 
 **Are you interested in making more books with different skills?**   
-Yes, I'm interested in working with teachers to make a book aimed at kids and a binder style book which allows you to swap out and swap in the skills you're interested in so you can have a book tailored to your own interests. 
+Yes, I've now released (Skill Seeker: Maker Edition)[https://www.amazon.com.au/Skill-Seeker-Practical-Growth-Skills/dp/1680458574/ref=sr_1_1] for adults, and (Skill Seeker: Young Maker Edition)[https://www.amazon.com.au/Skill-Seeker-Young-Steph-Piper/dp/1680458728/ref=sr_1_2] for 8-12 year olds.  I'd like to work on a generalist 'Life Skills' book in 2026, which would include skills like Cooking, Cleaning, Gardening, Finance, Self Care and more.   
 
 **Are you going to make a web app of this system?**   
-Not in the short term, but I'm interested in speaking to companies who may wish to licence skill tree content for this purpose. 
+Not in the short term, but if you're interested in using the project for a skill tracking software you can unlock a software dev licence by sponsoring this project.  
 
 # Support the Project
 Consider becoming a Github Sponsor, which unlocks access to an exculsive repository of 12+ high quality poster resources
