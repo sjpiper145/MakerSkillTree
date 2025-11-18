@@ -215,7 +215,7 @@ Interested in contributing? [Check out the wiki](https://github.com/sjpiper145/M
 # FAQ
 
 **Were these made with AI?**           
-No, these were made in collaboration with experts or using my own expertise, without any AI usage.  You can see the author credits at the base of each tree. Every expert has different experiences and I'm hoping to build a community on here and get many experts to proofread and peer review these trees to polish them into their best versions. 
+No, these were made in collaboration with experts or using my own expertise, without any AI usage, and the aim of this project is to rely on human expertise.  You can see the author credits at the base of each tree. Every expert has different experiences and I'm delighted to build a community on here for experts contribute.  Peer review contributions are key to this process to polish the templates into their best versions. If you're interested in contributing, check out the (Project Wiki)[https://github.com/sjpiper145/MakerSkillTree/wiki] with guidance and available contributor rewards.
 
 **Will you keep the 'Skill Trees' name when they aren't really traditional skill trees?**               
 While these templates are skill tree inspired, I realise they are not made up of connected nodes like traditional skill trees.  However, many games, like Borderlands, Starfield and others also have skill systems without connected nodes that still use the skill tree name. I have decided to keep the name 'Skill Trees' to make the concept easier to understand at a glance.
