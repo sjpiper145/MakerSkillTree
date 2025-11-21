@@ -154,7 +154,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Language               | ✅        | ☐        | ☐        | ☐          |   
 |Leadership             | ✅        | ☐        | ☐        | ☐          |   
 |Life Admin             |☐          | ☐        | ☐        | ☐          | 
-|Self Care              |✅          | ☐        | ☐        | ☐          |              
+|Self Care              |✅          |✅        | ☐        | ☐          |              
 |Survivalist            | ✅        | ☐        | ☐        | ☐          |    
 |Travel                | ✅        | ☐        | ☐        | ☐          |    
 |Volunteering          |☐          | ☐        | ☐        | ☐          | 
