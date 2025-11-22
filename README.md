@@ -241,6 +241,8 @@ Get skill tree poster digital downloads on my [website for free](https://www.mak
 
 # Skill Trees In the Media & Community
 
+[Skill Trees Keynote Talk at Everything Open 2025](https://www.youtube.com/watch?v=9fPWhsIVjkU)
+
 [Using Skill Tree Templates to Gamify Learning](https://oercollective.caul.edu.au/openedaustralasia/chapter/using-skill-tree/) - Open Educational Resources Book Chapter, Published Oct 2025
 
 Skill Trees Asynchronous Presentation at the Open Hardware Summit 2024
