@@ -152,7 +152,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Fermenting & Preservation |☐        | ☐        | ☐        | ☐         |          
 |Gardening              | ✅        | ☐        | ☐        | ☐          |         
 |Language               | ✅        | ☐        | ☐        | ☐          |   
-|Leadership             | ✅        | ☐        | ☐        | ☐          |   
+|Leadership             | ✅        |✅        | ☐        | ☐          |   
 |Life Admin             |☐          | ☐        | ☐        | ☐          | 
 |Self Care              |✅          |✅        | ☐        | ☐          |              
 |Survivalist            | ✅        | ☐        | ☐        | ☐          |    
