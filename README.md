@@ -76,6 +76,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Metalworking                |✅         |✅        |✅        |☐      |  
 |Moulding and Casting        |✅         | ☐        | ☐        | ☐     |  
 |Music                       |✅         | ☐        | ☐        | ☐     |  
+|Electronic Music Production |✅         | ☐        | ☐        | ☐     |  
 |Singing                     |☐     | ☐             | ☐           | ☐        | 
 |Reading & Writing           |✅         | ☐        | ☐        | ☐     |      
 |Renovation & Repair         |✅         | ☐        | ☐        | ☐     |     
