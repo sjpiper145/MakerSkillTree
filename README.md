@@ -50,10 +50,13 @@ Skill Seeker: Maker Edition combines 15 Maker Skills into one book, allowing you
 
 ![2025-05-18 11 08 04](https://github.com/user-attachments/assets/260ccb6e-c4b9-4034-9314-65df9c3b3400)
 
-# Coming Soon: Skill Seeker Young Maker Edition
-Skill Seeker: Young Maker Edition is suitable for 8-12 year olds, and covers 12 maker skill areas, from Electronics and 3D printing to sewing and vinyl cutting.  Each skill area has infographics and activities included that can unlock skills in the skill trees.  Coming soon before Christmas 2025!  [Pre-order on Amazon](https://www.amazon.com/Skill-Seeker-Young-Steph-Piper/dp/1680458728) or [sign up to be a beta tester](https://www.makerqueen.com.au/beta-testers).
+# Skill Seeker Young Maker Edition: Now available!
+Skill Seeker: Young Maker Edition is for 8-12 year olds, and covers 12 maker skill areas, from Electronics and 3D printing to sewing and vinyl cutting.  Each skill area has infographics and activities included that can unlock skills in the skill trees.  Now Here!  [Order on Amazon](https://www.amazon.com/Skill-Seeker-Young-Steph-Piper/dp/1680458728) or [See more inside](https://www.makerqueen.com.au/skill-seeker-book-2).
 
-![book-mockups_171918-99-02](https://github.com/user-attachments/assets/2173404c-81e8-4016-8f0e-e973b62dadbb)
+<img width="3072" height="3504" alt="2025-12-13 13 56 51" src="https://github.com/user-attachments/assets/efcb1884-ce8e-4f24-ae85-8aac37428f2c" />
+
+# Skill Seeker: Adult Survival Skills - Coming Soon
+A life skills focussed book for adults, including skills like Cooking, Self Care, Life Admin, Travel and more. Starting work on this in 2026. [Sign up as a beta tester!](https://www.makerqueen.com.au/beta-testers)
 
 # Yet to Make (71/116)
 
