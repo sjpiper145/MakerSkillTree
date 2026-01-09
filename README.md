@@ -44,7 +44,12 @@ It's encouraged to customize these base skill trees around your own interests an
 
 # SVG to YAML
 
-If you'd like to create machine readable YAML files from [Maker Skill Tree Generator](https://schme16.github.io/MakerSkillTree-Generator/) generated SVG files or vice versa, this [Skill Tree Tool](https://josephlewis42.github.io/skilltreetool/#) developed by the talented [@josephlewis42](https://github.com/josephlewis42/skilltreetool) can help.  It's also got a useful changelog generator built in too which can show the changes made during peer review between an old skill tree and a refreshed one.
+If you'd like to create machine readable YAML files from [Maker Skill Tree Generator](https://schme16.github.io/MakerSkillTree-Generator/) generated SVG files or vice versa, this [Skill Tree Tool](https://josephlewis42.github.io/skilltreetool/#) developed by  [@josephlewis42](https://github.com/josephlewis42/skilltreetool) can help.  It's also got a useful changelog generator built in too which can show the changes made during peer review between an old skill tree and a refreshed one.
+
+# Skill Quest - Skill Tracking Software 
+
+Track your skill growth with free and open source software [Skill Quest](https://github.com/IvanR3D/skill-quest) by [@IvanR3D](https://github.com/IvanR3D). Collaborate on this project to help it reach some of the fantastic future goals, including sourcing how-to guides and profile sharing.  Want to build your own skill tracking software? If it's for commercial purposes, check out the [sponsors page](https://github.com/sponsors/sjpiper145) to see how to licence and support the project.  If it's open source, you're welcome to build and experiment as you please.
+![1767752627568](https://github.com/user-attachments/assets/b5b7d83d-b639-4795-b063-37450c0bf1df)
 
 # Skill Seeker Books
 
