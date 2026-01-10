@@ -91,7 +91,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Reading & Writing           |✅         | ☐        | ☐        | ☐     |      
 |Renovation & Repair         |✅         | ☐        | ☐        | ☐     |     
 |Sewing                      |✅         |✅        |✅        | ☐     | 
-|Visual Arts                 |✅         | ☐        | ☐        | ☐     |
+|Visual Arts                 |✅         |✅        | ☐        | ☐     |
 |Calligraphy                 |☐     | ☐             | ☐           | ☐        | 
 |Woodworking                 |✅         |✅        |✅        | ☐     | 
 |Glassblowing       |✅     | ☐             | ☐           | ☐        |
