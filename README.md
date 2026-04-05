@@ -152,6 +152,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Wiki Building         |🟧 (Draft)     | ☐           | ☐      | ☐        | 
 |Home Labbing (self-hosting)  |☐     | ☐             | ☐           | ☐        | 
 |Locksport         |☐     | ☐             | ☐           | ☐        | 
+|Guitar Pedals     |☐     | ☐             | ☐           | ☐        | 
 
 ## Life Skills 
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
