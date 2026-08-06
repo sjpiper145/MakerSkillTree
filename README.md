@@ -11,7 +11,7 @@ Each skill tree has 73 skill or experience hexagonal tiles, ordered in a spectru
 
 Maker Skill Trees are released under the Creative Commons Licence, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  You are free to share, adapt, remix or transform the printables or templates and use within your teaching, workshops, businesses, conferences, schools and makerspaces at no cost.  However, you must do so by giving credit to Steph Piper / Maker Queen (or leaving the credit at the bottom of the page) and if you release a remix it must be under the same licence.  If you wish to use the skill trees project to build skill tracking software, apps or systems, you'll need a commercial licence by [sponsoring this project](https://github.com/sponsors/sjpiper145). Sponsoring has a range of benefits, and includes unlocking an [exclusive repository with high quality resources](https://github.com/sjpiper145/MakerSkillTree/wiki/%F0%9F%92%B8-Project-Sponsorship-Benefits).   
 
-💬 Join the discussion and chat about Skill Trees and Skill Seeker, the book on the [MAKE Discord](https://discord.gg/EmTfF2WsGJ), and find out how to [contribute to the project on the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki).
+💬 Join the discussion and chat about Skill Trees and the Skill Seeker books on the [MAKE Discord](https://discord.gg/EmTfF2WsGJ), and find out how to [contribute to the project on the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki).
 
 💖 Enjoying the Skill Trees Project? [Buy me a coffee](https://ko-fi.com/stephpiper) ☕ or consider [Sponsoring this Project!](https://github.com/sponsors/sjpiper145)
 
