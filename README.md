@@ -1,7 +1,6 @@
 # The Maker Skill Trees Project 
 
-
-![Maker Skill Tree Banner-48](https://github.com/sjpiper145/MakerSkillTree/assets/7828884/53d12889-fc08-4b32-92b6-d96271200a7e)
+<img width="5038" height="2746" alt="No AI Skill Trees" src="https://github.com/user-attachments/assets/908921ad-c37f-4d28-a958-d014fd5b6756" />
 
 Maker Skill Trees are printable templates that can you can use to visualize your skill progress, identify skill gaps and get inspired to try new things. Get a quick intro on the project with this video:
 
