@@ -66,7 +66,7 @@ Skill Seeker: Young Maker Edition is for 8-12 year olds, and covers 12 maker ski
 
 A life skills focussed book for adults, including skills like Cooking, Self Care, Life Admin, Travel and more. Starting work on this in 2026. [Sign up as a beta tester!](https://www.makerqueen.com.au/life-skills-book)
 
-# Yet to Make (77/121)
+# Yet to Make (79/123)
 
 Interested in contributing to this project? [Check out the wiki](https://github.com/sjpiper145/MakerSkillTree/wiki) for guidelines on how to submit new skill trees, bug fixes, peer reviews and translations, plus check out the contributor rewards available.
 
@@ -144,6 +144,7 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 |Speedcubing         |✅    | ☐             | ☐           | ☐        | 
 |Single Board Computing  |✅    | ☐             | ☐           | ☐        | 
 |Microcontrollers (STM32)  |✅    | ☐             | ☐           | ☐        | 
+|Lego Building  |✅    | ☐             | ☐           | ☐        | 
 |Github         |☐     | ☐             | ☐           | ☐        | 
 |Drones         |☐     | ☐             | ☐           | ☐        | 
 |Vintage Computing |☐     | ☐             | ☐           | ☐        | 
@@ -216,11 +217,12 @@ Interested in contributing to this project? [Check out the wiki](https://github.
 ## Kids & Schools
 |Skill Area     | Completed | Peer Review 1 | Peer Review 2| Language |   
 |---------------|-----------|---------------|--------------|----------|
-|School Summer Camp Planning |☐     | ☐             | ☐           | ☐        |
-|School Event Organization |☐     | ☐             | ☐           | ☐        | 
 |Scratch    | ✅       | ☐             | ☐           | ☐        |
+|Science  | ✅       | ☐             | ☐           | ☐        |
 |Makerspace    | ✅       | ☐             | ☐           | ☐        |
 |Makerspace (without laser cutter)  | ✅       | ☐             | ☐           | ☐        |
+|School Summer Camp Planning |☐     | ☐             | ☐           | ☐        |
+|School Event Organization |☐     | ☐             | ☐           | ☐        | 
 
 
 
